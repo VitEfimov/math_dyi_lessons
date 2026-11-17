@@ -2,7 +2,7 @@
   "name": "Antigravity: Math at Home",
   "short_name": "Antigravity",
   "description": "Scripted math lessons for parents and kids, with a progress tracker (EN / RU / ZH).",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
