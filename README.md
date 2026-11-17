@@ -83,3 +83,35 @@ Every week delivers two complementary lessons:
 - Each completed lesson records: date, minutes, how it felt (hard/okay/great), puzzle result (alone/hint/not yet), parent notes.
 - Dashboard: overall ring, weekly goal (2 or 3), week streak (≥ 2 lessons per week), 8-week chart, progress by week / subject / methodology, badges, full history.
 - Export / import progress as JSON (backup, or moving to another device).
+
+## Deploy to Vercel
+
+The application is pre-configured for one-click deployment to **Vercel** with complete PWA, Service Worker, and offline caching support.
+
+### Option 1: Automatic Deployment via Git (Recommended)
+1. Push this repository to GitHub, GitLab, or Bitbucket.
+2. In your [Vercel Dashboard](https://vercel.com/new), click **"Add New... -> Project"** and import this repository.
+3. Vercel will automatically detect `vercel.json` and `package.json`:
+   - **Framework Preset**: `Other`
+   - **Build Command**: `npm run build` (runs `node tools/validate.js` to verify all 432 lessons)
+   - **Output Directory**: `.` (serves the root directory)
+4. Click **Deploy**. Your PWA is live in seconds with global edge CDN caching!
+
+### Option 2: Deploy via Vercel CLI
+If you have the Vercel CLI installed:
+```bash
+# Preview deployment:
+vercel
+
+# Production deployment:
+vercel --prod
+```
+
+### Vercel Production Configurations (`vercel.json`)
+The included `vercel.json` applies production-grade headers and routing:
+- **Zero-Stale Service Worker**: `sw.js` is served with `Cache-Control: public, max-age=0, must-revalidate` and `Service-Worker-Allowed: /`, guaranteeing that browser PWAs update immediately when new curriculum lessons are deployed.
+- **PWA Manifest MIME Type**: `manifest.webmanifest` is served with `Content-Type: application/manifest+json; charset=utf-8` to ensure seamless mobile and desktop install banners.
+- **Curriculum & Data Revalidation**: Lesson JSON files in `data/` are served with instant revalidation headers.
+- **Security Headers**: Automatic protection via `X-Content-Type-Options: nosniff`, `X-Frame-Options: DENY`, `Referrer-Policy: strict-origin-when-cross-origin`, and `Permissions-Policy`.
+- **SPA Fallback Routing**: Clean client-side routing fallback so deep links and refreshes never return 404s.
+
