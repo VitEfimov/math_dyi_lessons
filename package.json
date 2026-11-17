@@ -1,0 +1,25 @@
+{
+  "name": "antigravity-math-pwa",
+  "version": "1.0.0",
+  "description": "Antigravity Math: PWA scripted lessons with progress tracking for parents & kids (USSR/Kiselev, Chinese, Oxford philosophies)",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js",
+    "test": "node tools/validate.js",
+    "validate": "node tools/validate.js",
+    "icons": "python tools/make_icons.py"
+  },
+  "keywords": [
+    "pwa",
+    "education",
+    "mathematics",
+    "kiselev",
+    "early-childhood",
+    "offline-first"
+  ],
+  "author": "Antigravity EdTech",
+  "license": "MIT"
+}

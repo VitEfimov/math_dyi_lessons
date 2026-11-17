@@ -1,0 +1,650 @@
+{
+  "curriculum": {
+    "stages": [
+      {
+        "stage_id": "elem_g1",
+        "age_range": "6-7",
+        "title": {
+          "en": "Grade 1: Place Value, Bridging Ten & Balance Equations",
+          "ru": "1 класс: Разряды, переход через десяток и весы с неизвестным",
+          "zh": "小学一年级:数位进阶、凑十法与天平未知数"
+        },
+        "lessons": [
+          {
+            "lesson_id": "g01_w1_l1",
+            "duration_minutes": 38,
+            "category": "Algebra",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "The Balance Scale and the Mystery Box (x + a = b)",
+              "ru": "Чашечные весы и таинственная коробка (x + a = b)",
+              "zh": "天平与神秘未知数盒子 (x + a = b)"
+            },
+            "objective": {
+              "en": "The child understands algebraic equality as a balanced scale, and finds the unknown variable x by removing equal amounts from both sides.",
+              "ru": "Ребёнок понимает алгебраическое равенство как равновесие весов и находит неизвестное x, убирая равные величины с обеих чаш.",
+              "zh": "孩子将代数等式理解为平衡的天平,通过两边同时拿走相等数量来求出未知数 x。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Set up a scale or draw one: 'An equation is like a balance scale. When both pans are at the exact same height, they are EQUAL. On the left pan sits a closed mystery box marked x, plus 3 shiny coins. On the right pan sit 7 identical coins. The scale is perfectly balanced. If we take 3 coins away from the left pan, the scale tilts! How do we make it balance again? We must take 3 coins away from the right pan too. Now only x is on the left, and 4 coins are on the right. So x = 4! In algebra, whatever you do to one side, you must do to the other side.'",
+                  "ru": "Поставьте весы или нарисуйте их: «Уравнение похоже на чашечные весы. Когда чаши на одной высоте, они РАВНЫ. На левой чаше стоит закрытая коробка с буквой x и лежат 3 монеты. На правой чаше лежат 7 таких же монет. Весы в идеальном равновесии. Если мы снимем 3 монеты слева, весы наклонятся! Что нужно сделать, чтобы вернуть равновесие? Снять 3 монеты и справа! Теперь слева осталась только коробка x, а справа — 4 монеты. Значит, x = 4! В алгебре всё, что делаешь с одной стороной равенства, обязательно делай и с другой».",
+                  "zh": "摆出天平或画一个天平:“方程就像一架天平。当两边托盘完全一样高时,它们就相等。左边托盘上放着一个写着 x 的神秘盒子,外加3枚硬币。右边托盘上放着7枚一模一样的硬币。天平完全平衡。如果我们从左边拿走3枚硬币,天平就会倾斜!怎么让它重新平衡?右边也必须拿走3枚硬币!现在左边只剩下盒子 x,右边剩下4枚硬币。所以 x = 4!在代数里,你对等式一边做什么,就必须对另一边做同样的事。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Place an opaque cup marked 'x' on a table with 4 buttons beside it. Place 9 buttons in a separate group representing the right side: x + 4 = 9.\n2) Ask child: 'To find what is inside x, what must we remove from both sides?' Child takes 4 buttons from both piles, revealing x = 5. Check by putting 5 buttons inside the cup.\n3) Practice equation 2: x + 6 = 10. Child models with blocks, removes 6 from both sides, states x = 4.\n4) Practice equation 3: x + 8 = 15. Child decomposes 15 into 8 and 7, subtracts 8, gets x = 7.\n5) Parent plays 'The Secret Thief': you set up x + 5 = 11, but only remove 5 from one side. Child spots the error and explains why the scale tilted.\n6) Child creates their own mystery equation for parent to solve using the balance rule.",
+                  "ru": "1) Поставьте на стол непрозрачный стаканчик с буквой x и положите рядом 4 пуговицы. В отдельную кучку положите 9 пуговиц (правая часть): x + 4 = 9.\n2) Спросите: «Чтобы узнать, что внутри x, что надо убрать с обеих сторон?» Ребёнок убирает по 4 пуговицы из обеих кучек: x = 5. Проверьте, положив 5 пуговиц в стаканчик.\n3) Уравнение 2: x + 6 = 10. Ребёнок выкладывает кубики, убирает по 6 с обеих сторон, получает x = 4.\n4) Уравнение 3: x + 8 = 15. Ребёнок раскладывает 15 на 8 и 7, убирает 8, получает x = 7.\n5) Игра «Нечестный вор»: вы составляете x + 5 = 11, но убираете 5 только с одной стороны. Ребёнок находит ошибку и объясняет, почему весы перекосились.\n6) Ребёнок сам придумывает тайное уравнение для родителя и проверяет соблюдение правила баланса.",
+                  "zh": "1)在桌上放一个写着 x 的不透明杯子,旁边放4颗纽扣。另一边放9颗纽扣代表右盘:x + 4 = 9。\n2)问孩子:“为了求出 x 里面有什么,两边必须同时拿走什么?”孩子从两边各拿走4颗纽扣,得出 x = 5。往杯子里装5颗纽扣验证。\n3)练习方程2:x + 6 = 10。孩子用积木摆出,两边各减6,得出 x = 4。\n4)练习方程3:x + 8 = 15。孩子把15分成8和7,减去8,得出 x = 7。\n5)玩“调皮的小偷”游戏:你摆出 x + 5 = 11,但只从一边拿走5。孩子找出错误并解释天平为什么倾斜。\n6)孩子自己设计一个神秘方程让家长解,监督天平平衡规则。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "Two identical mystery boxes plus 2 coins balance with 10 coins (2x + 2 = 10). What is inside ONE mystery box?",
+                  "ru": "Две одинаковые таинственные коробки и ещё 2 монеты уравновешивают 10 монет (2x + 2 = 10). Сколько монет лежит в ОДНОЙ коробке?",
+                  "zh": "两个完全一样的神秘盒子加2枚硬币,刚好与10枚硬币平衡 (2x + 2 = 10)。一个神秘盒子里装了几枚硬币?"
+                },
+                "solution": {
+                  "en": "First remove 2 coins from both pans: two boxes now balance with 8 coins (2x = 8). Since the two boxes are identical, split the 8 coins equally into 2 piles: 4 coins in each box. So x = 4.",
+                  "ru": "Сначала снимем по 2 монеты с обеих чаш: две коробки уравновешивают 8 монет (2x = 8). Так как коробки одинаковые, разделим 8 монет поровну на 2 кучки: по 4 монеты в каждой. Значит, x = 4.",
+                  "zh": "先从两边各拿走2枚硬币:两个盒子与8枚硬币平衡 (2x = 8)。因为两个盒子完全相同,把8枚硬币平分成2份:每个盒子里有4枚硬币。所以 x = 4。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "g01_w1_l2",
+            "duration_minutes": 38,
+            "category": "Arithmetic",
+            "methodology_focus": "Chinese",
+            "title": {
+              "en": "The Ten Bridge: Make-a-Ten Addition (8 + 5)",
+              "ru": "Мост через десяток: сложение «собери десятку» (8 + 5)",
+              "zh": "十的桥梁:进位加法凑十法 (8 + 5)"
+            },
+            "objective": {
+              "en": "The child masters the Chinese Make-a-Ten method (Coushi fa) by splitting the second addend into what the first needs to make 10 plus the remainder.",
+              "ru": "Ребёнок осваивает китайский метод «собери десятку» (Coushi fa), раскладывая второе слагаемое на дополнение до 10 и остаток.",
+              "zh": "孩子掌握凑十法,将第二个加数分解成与第一个数凑成10所需的部分与余数。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Show two ten-frames: one with 8 counters, one with 5 counters. Say: 'Look at 8 + 5. We never count on our fingers: 9, 10, 11, 12, 13. Counting by ones is slow. Chinese mathematicians build the Ten Bridge: Coushi fa! Look at 8: how many empty rooms does it have to reach a full ten? Exactly 2! Where does 8 get 2? It borrows them from 5. So we break 5 into 2 and 3. Slide the 2 counters over: 8 and 2 make 10! Now 10 and the leftover 3 make 13. We turned a hard problem into a simple ten!'",
+                  "ru": "Покажите две рамки десяти: с 8 фишками и с 5 фишками. Скажите: «Посмотри на 8 + 5. Мы никогда не считаем по пальцам: 9, 10, 11, 12, 13. Счёт единицами медленный. Китайские математики строят мост через десяток: метод „собери десятку“! Посмотри на 8: сколько пустых мест до полного десятка? Ровно 2! Где восьмёрка возьмёт 2? Одолжит у пятёрки! Мы делим 5 на 2 и 3. Передвинем 2 фишки: 8 и 2 дают 10! А 10 и оставшиеся 3 дают 13. Мы превратили трудную задачу в простой десяток!»",
+                  "zh": "出示两个十格框:一个装8个筹码,一个装5个。说:“看 8 + 5。我们绝不用手指一二三往上数,逐个数太慢了。中国数学家架起十的桥梁:凑十法!看8:它差几个就能住满整整十个?正好差2个!8从哪里拿2个?从5那里借!我们把5拆成2和3。把2个筹码推过去:8和2凑成10!10加上剩下的3就是13。我们把难题变成了一个简单的十!”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Give child two ten-frames. Fill left with 9 red counters, right with 4 blue counters. Child physically moves 1 counter to make 10, states: 9 + 4 = 10 + 3 = 13.\n2) Reset with 8 and 6. Child splits 6 into 2 and 4, slides 2 over, states: 8 + 6 = 10 + 4 = 14.\n3) Reset with 7 and 5. Child splits 5 into 3 and 2, slides 3 over, states: 7 + 5 = 10 + 2 = 12.\n4) Draw number bonds on paper: write 8 + 7 with a branch under 7 splitting into 2 and 5. Child writes (8+2)+5 = 15.\n5) Rapid oral fire without frames: '9 + 5?' (child says '14, split 5 into 1 and 4'). Do 6 rounds.\n6) Reverse bridge: 13 - 9. Child uses Pokou fa (Break a Ten): 10 - 9 = 1, 1 + 3 = 4.",
+                  "ru": "1) Дайте ребёнку две рамки десяти: слева 9 красных фишек, справа 4 синих. Ребёнок перекладывает 1 фишку до 10: 9 + 4 = 10 + 3 = 13.\n2) Повторите с 8 и 6. Ребёнок делит 6 на 2 и 4, сдвигает 2: 8 + 6 = 10 + 4 = 14.\n3) Повторите с 7 и 5. Ребёнок делит 5 на 3 и 2, сдвигает 3: 7 + 5 = 10 + 2 = 12.\n4) Нарисуйте «усики» числа на бумаге: 8 + 7 с разветвлением под 7 на 2 и 5. Ребёнок пишет (8+2)+5 = 15.\n5) Быстрый устный счёт без рамок: «9 + 5?» (ребёнок: «14, делим 5 на 1 и 4»). 6 раундов.\n6) Обратный мост: 13 - 9. Ребёнок использует метод «разбей десятку»: 10 - 9 = 1, 1 + 3 = 4.",
+                  "zh": "1)给孩子两个十格框:左边放9个红筹码,右边放4个蓝筹码。孩子移过去1个凑成10,说出:9 + 4 = 10 + 3 = 13。\n2)换成 8 和 6。孩子把6分成2和4,推过去2个:8 + 6 = 10 + 4 = 14。\n3)换成 7 和 5。孩子把5分成3和2,推过去3个:7 + 5 = 10 + 2 = 12。\n4)在纸上画数的分合树:写 8 + 7,在7下面画两条分支写2和5。孩子写出 (8+2)+5 = 15。\n5)不用实物快速口算:“9 + 5?”(孩子说“14,把5分成1和4”)。练6轮。\n6)逆向破十法:13 - 9。把13分成10和3,10 - 9 = 1,1 + 3 = 4。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "A dragon has two heads: one head eats 8 fish, the other head eats some fish. In total the dragon ate 15 fish. Later, the dragon ate 17 fish, and one head ate 9 fish. How many fish did the second head eat each time?",
+                  "ru": "У дракона две головы: одна съела 8 рыб, вторая — ещё несколько. Всего дракон съел 15 рыб. Позже он съел 17 рыб, и первая голова съела 9. Сколько рыб съела вторая голова в каждый из разов?",
+                  "zh": "一条双头龙:一个头吃了8条鱼,另一个头吃了一些。双头龙一共吃了15条鱼。后来它又吃了17条鱼,其中一个头吃了9条。两次另一个头各吃了几条鱼?"
+                },
+                "solution": {
+                  "en": "First time: 15 - 8 = 7 fish (because 8 + 7 = 8 + 2 + 5 = 15). Second time: 17 - 9 = 8 fish (because 9 + 8 = 9 + 1 + 7 = 17). The second head ate 7 fish, then 8 fish.",
+                  "ru": "Первый раз: 15 - 8 = 7 рыб (так как 8 + 7 = 8 + 2 + 5 = 15). Второй раз: 17 - 9 = 8 рыб (так как 9 + 8 = 9 + 1 + 7 = 17). Вторая голова съела 7 рыб, затем 8 рыб.",
+                  "zh": "第一次:15 - 8 = 7条鱼 (因为 8 + 7 = 8 + 2 + 5 = 15)。第二次:17 - 9 = 8条鱼 (因为 9 + 8 = 9 + 1 + 7 = 17)。另一个头第一次吃了7条,第二次吃了8条。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "g01_w1_l3",
+            "duration_minutes": 38,
+            "category": "Geometry",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "The Ray and the Corner: Birth of Angles",
+              "ru": "Луч и угол: прямая с началом и рождение углов",
+              "zh": "射线与角:射线的相遇与角的诞生"
+            },
+            "objective": {
+              "en": "The child defines a Ray (starts at a point, extends indefinitely in one direction) and an Angle (two rays from one vertex), identifying acute, right, and obtuse angles.",
+              "ru": "Ребёнок определяет Луч (начинается в точке и идёт бесконечно в одну сторону) и Угол (два луча из одной вершины), различая острые, прямые и тупые углы.",
+              "zh": "孩子掌握射线的定义(有端点且向一端无限延伸)与角的概念(公共端点引出的两条射线),辨识直角、锐角与钝角。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Draw a point on paper with a ruler line shooting out to the right: 'Last month we met a straight line that had no ends. Now look: if I mark a point O, it acts like a flashlight. The light starts at O and shoots out forever in one direction! This is a RAY. A ray has a beginning point, but NO ending.' Draw a second ray from the same point O spreading outward: 'When two rays start at the very same point, the space between them is called an ANGLE. The starting point is the VERTEX; the two rays are the SIDES. Take a square book corner: that perfect corner is a RIGHT ANGLE. An angle sharper than a book corner is ACUTE (sharp). An angle wider than a book corner is OBTUSE (blunt).'",
+                  "ru": "Поставьте точку на бумаге и проведите луч линейкой: «В прошлый раз мы изучали прямую, у которой нет концов. Теперь смотри: если поставить точку O, она работает как фонарик! Луч света начинается в точке O и летит бесконечно в одну сторону! Это ЛУЧ. У луча есть начало, но НЕТ конца». Проведите второй луч из той же точки O в сторону: «Когда два луча выходят из одной точки, пространство между ними называется УГЛОМ. Точка — это ВЕРШИНА; лучи — это СТОРОНЫ угла. Возьми угол книги: этот идеальный уголок называется ПРЯМЫМ УГЛОМ. Угол острее книжного — ОСТРЫЙ. Угол шире книжного — ТУПОЙ».",
+                  "zh": "在纸上画一个点,用尺子向右画出一条线:“上个月我们认识了没有端点的直线。现在看:如果我点一个点O,它就像一把手电筒!光从点O出发,向一个方向无限射出!这叫射线。射线有起点,但没有终点。”从同一个点O再引出一条射线:“当两条射线从同一个点出发时,它们之间的夹角叫作角。这个起点叫作顶点,两条射线叫作边。拿出一本书的书角:这个工工整整的角叫直角。比书角更尖锐狭窄的角叫锐角。比书角更宽阔开阔的角叫钝角。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Give child two popsicle sticks or pencils joined at one end with clay. Ask child to make a right angle using a book corner as a template.\n2) Squeeze the sticks closer: child calls out 'Acute angle (sharp)!' Open them wide: child calls out 'Obtuse angle (blunt)!'\n3) Room Angle Hunt: child finds 3 right angles (door, table corner, window), 2 acute angles (scissors partially open, slice of pizza), 1 obtuse angle (reclining chair).\n4) On paper, parent draws 6 angles in various orientations (pointing up, tilted). Child uses a paper square corner to test each and labels them R, A, or O.\n5) Clock hands: set clock to 3:00 (Right angle). Set to 2:00 (Acute angle). Set to 5:00 (Obtuse angle). Child names each.\n6) Straight angle challenge: open the two sticks into a single straight line. Ask: 'What kind of angle is this?' (A straight angle = two right angles put together).",
+                  "ru": "1) Дайте ребёнку две палочки, скреплённые пластилином на конце. Попросите сделать прямой угол, приложив уголок книги как шаблон.\n2) Сожмите палочки уже: ребёнок говорит «Острый угол!». Раскройте шире: ребёнок говорит «Тупой угол!».\n3) Охота за углами в комнате: ребёнок находит 3 прямых угла (дверь, угол стола), 2 острых (приоткрытые ножницы, кусок пиццы), 1 тупой (раскрытый ноутбук).\n4) Нарисуйте 6 углов с разным наклоном. Ребёнок прикладывает бумажный квадратик-эталон и подписывает: П (прямой), О (острый), Т (тупой).\n5) Стрелки часов: поставьте 3:00 (прямой). Поставьте 2:00 (острый). Поставьте 5:00 (тупой). Ребёнок называет каждый.\n6) Задача о развёрнутом угле: раскройте палочки в одну прямую линию. «Какой это угол?» (Развёрнутый = два прямых вместе).",
+                  "zh": "1)给孩子两根小木棒,一端用橡皮泥粘在一起。让孩子用书角当模板比对出标准直角。\n2)把两根木棒捏紧缩小夹角:孩子大声喊“锐角!”展开变宽:孩子喊“钝角!”\n3)房间寻角大侦探:孩子在房间找出3个直角(门框、桌角),2个锐角(剪刀微开、披萨切角),1个钝角(半仰折叠椅)。\n4)在纸上画6个不同倾斜方向的角。孩子用一张正方形纸角比对检验,标注直、锐、钝。\n5)钟面时针分针:调到 3:00 (直角),调到 2:00 (锐角),调到 5:00 (钝角)。孩子逐一说出。\n6)平角挑战:把两根木棒完全展开成一条直线。问:“这是什么角?”(平角 = 两个直角合在一起)。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "Can a triangle have two obtuse angles? Try to draw one or use three pencils to see what happens.",
+                  "ru": "Может ли в треугольнике быть два тупых угла? Попробуй нарисовать или сложить из трёх карандашей.",
+                  "zh": "一个三角形里能有两个钝角吗?试着画一个或者用三根铅笔摆一摆看会发生什么。"
+                },
+                "solution": {
+                  "en": "No, it is impossible! An obtuse angle is already wider than a square corner. If two corners open that wide, the sides spread apart and can never bend back to meet at a third point. A triangle can have at most ONE obtuse angle.",
+                  "ru": "Нет, это невозможно! Тупой угол уже шире прямого. Если два угла раскроются так широко, стороны разойдутся в разные стороны и никогда не сойдутся в третьей вершине. В треугольнике может быть максимум ОДИН тупой угол.",
+                  "zh": "绝对不可能!钝角已经比直角还要宽。如果两个角都张开得那么宽,两条边就会向外散开,永远不可能在第三个点相遇封闭。一个三角形里最多只能有1个钝角。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "stage_id": "elem_g2",
+        "age_range": "7-8",
+        "title": {
+          "en": "Grade 2: Spatial Arrays, Regrouping & Area Proofs",
+          "ru": "2 класс: Умножение площадями, перегруппировка и доказательства",
+          "zh": "小学二年级:面积乘法模型、借位进位与空间证明"
+        },
+        "lessons": [
+          {
+            "lesson_id": "g02_w1_l1",
+            "duration_minutes": 38,
+            "category": "Algebra",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Equations with Coefficients: Unknown Bags (2x + 1 = 7)",
+              "ru": "Уравнения с множителем: одинаковые мешочки (2x + 1 = 7)",
+              "zh": "倍数方程:完全相同的神秘口袋 (2x + 1 = 7)"
+            },
+            "objective": {
+              "en": "The child solves two-step equations involving unknown multipliers (2x + b = c) by peeling away constants first and partitioning into equal shares.",
+              "ru": "Ребёнок решает двухшаговые уравнения с неизвестным множителем (2x + b = c), сначала убирая константы, а затем деля поровну.",
+              "zh": "孩子求解含未知乘数项的两步方程 (2x + b = c),先减去常数项,再等分求值。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Set up two identical closed pouches on the table plus 1 counter. On the right side put 7 counters. Say: 'Look at our balance scale. On the left we have 2 IDENTICAL mystery pouches: each holds x coins, so together they are 2 times x, written 2x. And there is 1 loose coin. On the right are 7 coins: 2x + 1 = 7. How do we find what is in ONE pouch? Step 1: Remove the loose coin from both sides. Now 2x = 6. Step 2: If TWO identical pouches equal 6 coins, we divide the 6 coins into 2 equal piles: 3 coins in each! So x = 3. In algebra, we peel away the extra pieces first, then divide into equal shares.'",
+                  "ru": "Положите на стол два одинаковых мешочка и 1 фишку. Справа положите 7 фишек. Скажите: «Посмотри на весы. Слева у нас 2 ОДИНАКОВЫХ мешочка: в каждом лежит по x монет, то есть вместе 2 умножить на x, пишется 2x. И ещё 1 отдельная монета. Справа 7 монет: 2x + 1 = 7. Как узнать, сколько в ОДНОМ мешочке? Шаг 1: снимем лишнюю монету с обеих сторон. Осталось 2x = 6. Шаг 2: если ДВА одинаковых мешочка весят 6 монет, разделим 6 монет на 2 равные кучки: по 3 монеты в каждой! Значит, x = 3. В алгебре мы сначала убираем лишние слагаемые, а потом делим на равные доли».",
+                  "zh": "在桌上放两个完全一样的袋子外加1个筹码。右边放7个筹码。说:“看我们的天平。左边有2个完全一样的神秘袋子:每个装有 x 枚硬币,合起来就是2乘以 x,写作 2x。另外还有1枚散落的硬币。右边有7枚硬币:2x + 1 = 7。怎样求出1个袋子里有几枚硬币?第1步:两边同时拿走多余的1枚硬币。现在 2x = 6。第2步:如果2个袋子等于6枚硬币,我们把6枚硬币平分成2份:每份3枚!所以 x = 3。在代数里,我们先剥离多余的常数,再进行等分。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Child models 2x + 3 = 11 using 2 cups and blocks. Step 1: removes 3 from both sides (2x = 8). Step 2: shares 8 blocks into 2 cups (x = 4). Verifies.\n2) Child models 3x + 2 = 14 using 3 cups. Subtracts 2 from both sides (3x = 12). Shares 12 into 3 cups (x = 4).\n3) Abstract pencil solve: 2x + 4 = 16. Child writes: 2x = 16 - 4 = 12, then x = 12 / 2 = 6.\n4) Mystery age word problem: 'Grandpa says: Two times my dog's age plus 3 years equals 15 years. How old is the dog?' Child forms 2x + 3 = 15 -> x = 6.\n5) Spot the Bug: Parent writes 2x + 6 = 10 -> x = 10 - 6 = 4 (forgot to divide by 2!). Child explains why 4 is wrong.\n6) Child invents a 2-step equation for parent with secret number x = 5.",
+                  "ru": "1) Ребёнок моделирует 2x + 3 = 11 с помощью 2 стаканчиков и кубиков. Шаг 1: убирает 3 с обеих сторон (2x = 8). Шаг 2: делит 8 кубиков на 2 стаканчика (x = 4). Проверяет.\n2) Ребёнок моделирует 3x + 2 = 14 с 3 стаканчиками. Вычитает 2 с обеих сторон (3x = 12). Делит 12 на 3 стаканчика (x = 4).\n3) Решение на бумаге: 2x + 4 = 16. Ребёнок пишет: 2x = 16 - 4 = 12, затем x = 12 / 2 = 6.\n4) Задача про возраст: «Дедушка говорит: Два возраста моей собаки плюс 3 года равно 15 лет. Сколько лет собаке?» Ребёнок строит 2x + 3 = 15 -> x = 6.\n5) Найди ошибку: родитель пишет 2x + 6 = 10 -> x = 10 - 6 = 4 (забыл поделить на 2!). Ребёнок исправляет.\n6) Ребёнок придумывает двухшаговое уравнение для родителя с тайным ответом x = 5.",
+                  "zh": "1)孩子用2个纸杯和积木模拟 2x + 3 = 11。第1步:两边减3 (2x = 8)。第2步:把8平分装进2个杯子 (x = 4)。验证。\n2)用3个纸杯模拟 3x + 2 = 14。两边减2 (3x = 12)。把12平分装进3个杯子 (x = 4)。\n3)书面符号求解:2x + 4 = 16。孩子写出:2x = 16 - 4 = 12,x = 12 / 2 = 6。\n4)应用题翻译:“爷爷说:我家小狗年龄的2倍再加上3岁等于15岁。小狗几岁?”孩子列式 2x + 3 = 15 -> x = 6。\n5)找Bug游戏:家长写出 2x + 6 = 10 -> x = 10 - 6 = 4 (漏了除以2!)。孩子指出错误并纠正。\n6)孩子自己设计一道秘密数字为 x = 5 的两步方程考家长。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "A brick balances with 1 kilogram plus half of that same brick on a scale. How much does ONE whole brick weigh?",
+                  "ru": "Кирпич на весах уравновешивается гирей в 1 килограмм и ещё половиной такого же кирпича. Сколько весит ОДИН целый кирпич?",
+                  "zh": "天平上一块完整的砖头刚好与1公斤砝码外加半块同样的砖头平衡。一块完整的砖头重多少公斤?"
+                },
+                "solution": {
+                  "en": "Think algebraically: 1 Brick = 1 kg + 0.5 Brick. Take away half a brick from both sides of the balance scale! On the left remains half a brick; on the right remains 1 kg. If half a brick weighs 1 kg, the whole brick must weigh 2 kilograms!",
+                  "ru": "Рассуждаем алгебраически: 1 Кирпич = 1 кг + 0.5 Кирпича. Снимем по полкирпича с обеих чаш весов! Слева осталась половина кирпича, справа — 1 кг. Если полкирпича весят 1 кг, то целый кирпич весит ровно 2 килограмма!",
+                  "zh": "用代数天平思维:1块砖 = 1公斤 + 半块砖。从两边同时拿走半块砖!天平左边剩下半块砖,右边剩下1公斤。既然半块砖重1公斤,那么整块砖的重量就是 2公斤!"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "g02_w1_l2",
+            "duration_minutes": 38,
+            "category": "Arithmetic",
+            "methodology_focus": "Chinese",
+            "title": {
+              "en": "Multiplication as Spatial Arrays: Proof of Commutativity",
+              "ru": "Умножение как площадь сетки: доказательство переместительного закона",
+              "zh": "乘法即点阵空间面积:乘法交换律的空间证明"
+            },
+            "objective": {
+              "en": "The child proves the Commutative Property (a x b = b x a) geometrically by rotating rectangular dot arrays, and applies the distributive law by partitioning arrays.",
+              "ru": "Ребёнок геометрически доказывает переместительный закон (a x b = b x a) поворотом точечной сетки и применяет распределительный закон разбиением площади.",
+              "zh": "孩子通过旋转点阵矩形几何证明乘法交换律 (a x b = b x a),并利用点阵分割掌握乘法分配律。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Take a grid card with 4 rows of 6 dots (4 x 6). Say: 'In Kiselev arithmetic, multiplication is not just repeated adding; it is calculating the AREA of a rectangle. Here are 4 rows, each with 6 dots: 4 times 6. Now turn the card 90 degrees! Now what do you see? 6 rows of 4 dots: 6 times 4! Did any dot vanish? Did any dot appear? No! Therefore 4 x 6 MUST EQUAL 6 x 4. This is the Commutative Law of Multiplication, proven by rotating space. Now look: if we slice 6 into 5 and 1, we can compute 4 x 6 as (4 x 5) + (4 x 1) = 20 + 4 = 24. This is the Distributive Law!'",
+                  "ru": "Возьмите карточку с точечной сеткой: 4 ряда по 6 точек (4 x 6). Скажите: «В арифметике Киселёва умножение — это не просто сложение; это вычисление ПЛОЩАДИ прямоугольника. Здесь 4 ряда по 6 точек: 4 умножить на 6. А теперь поверни карточку на 90 градусов! Что ты видишь? 6 рядов по 4 точки: 6 умножить на 4! Исчезла ли хоть одна точка? Появилась ли новая? Нет! Значит, 4 x 6 ОБЯЗАНО равняться 6 x 4. Это переместительный закон умножения, доказанный поворотом пространства. А если разбить 6 на 5 и 1, то 4 x 6 = (4 x 5) + (4 x 1) = 20 + 4 = 24. Это распределительный закон!»",
+                  "zh": "拿出一张画有4行6列点阵的卡片 (4 x 6)。说:“在基谢廖夫算术中,乘法不仅仅是连加,它本质上是在计算矩形的面积。这里有4行,每行6个点:4乘以6。现在把卡片旋转90度!你看到了什么?6行,每行4个点:6乘以4!有点消失了吗?有点新跑出来吗?没有!所以 4 x 6 必然等于 6 x 4。这就是乘法交换律的空间证明。现在再看:如果我们把6拆成5和1,4 x 6 就可以算成 (4 x 5) + (4 x 1) = 20 + 4 = 24。这就是乘法分配律!”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Give child graph paper. Child shades a 3 x 7 rectangle. Counts: 3 rows of 7 = 21 squares. Rotates page to show 7 x 3 = 21.\n2) Slicing hard tables: calculate 7 x 8 by splitting 8 into 5 and 3. Child draws a vertical line: (7 x 5) + (7 x 3) = 35 + 21 = 56.\n3) Practice 6 x 7 split as (6 x 5) + (6 x 2) = 30 + 12 = 42.\n4) Missing factor challenge: a rectangular chocolate bar has 28 squares and 4 rows. How many squares in each column? (4 x ? = 28 -> 7).\n5) Parity check: Even x Odd = ? Child draws 2 rows of 5 dots. Every dot has a partner. Proves Even x Odd is always Even.\n6) Flash 5 array problems; child applies 5-anchor split mentally.",
+                  "ru": "1) Дайте клетчатую бумагу. Ребёнок закрашивает прямоугольник 3 x 7: 3 ряда по 7 = 21 клетка. Поворачивает лист: 7 x 3 = 21.\n2) Разрезание сложных таблиц: вычисляем 7 x 8, разбив 8 на 5 и 3. Ребёнок чертит линию: (7 x 5) + (7 x 3) = 35 + 21 = 56.\n3) Вычисляем 6 x 7 как (6 x 5) + (6 x 2) = 30 + 12 = 42.\n4) Поиск множителя: плитка шоколада содержит 28 долек и 4 ряда. Сколько долек в столбце? (4 x ? = 28 -> 7).\n5) Чётность: Чётное x Нечётное = ? Ребёнок рисует 2 ряда по 5 точек. У каждой точки есть пара. Доказывает, что результат всегда Чётен.\n6) Блиц из 5 примеров на умножение с опорой на пятёрку в уме.",
+                  "zh": "1)给孩子方格纸。孩子涂出一个 3 x 7 的矩形:3行7列 = 21格。旋转90度证明 7 x 3 = 21。\n2)巧拆大九九:算 7 x 8 时把8拆成5和3。画线分割矩形:(7 x 5) + (7 x 3) = 35 + 21 = 56。\n3)算 6 x 7,拆分成 (6 x 5) + (6 x 2) = 30 + 12 = 42。\n4)反向求边长:一块巧克力有28小格,共4排。每排有几格? (4 x ? = 28 -> 7)。\n5)奇偶性空间证明:偶数 x 奇数 = ? 孩子画2行5列点阵,点点成对,证明结果必定为偶数。\n6)出示5道点阵乘法题,孩子口算秒报答案。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "A gardener has 24 square meters of land and wants to build a rectangular garden using whole-meter borders. What are all the possible rectangular shapes he can make, and which shape uses the least amount of fence?",
+                  "ru": "У садовника есть 24 квадратных метра земли, и он хочет сделать прямоугольный сад с целыми размерами сторон. Какие прямоугольники он может построить и у какого сада будет самый короткий забор?",
+                  "zh": "园丁有24平方米的土地,想建一个边长为整数米的矩形花园。他能拼出几种不同长宽的矩形?哪一种周围需要的围栏最短?"
+                },
+                "solution": {
+                  "en": "Factor pairs of 24: 1x24 (perimeter = 50m), 2x12 (perimeter = 28m), 3x8 (perimeter = 22m), 4x6 (perimeter = 20m). The 4x6 meter shape is closest to a square, so it uses the least fence: only 20 meters!",
+                  "ru": "Пары множителей числа 24: 1x24 (периметр = 50 м), 2x12 (периметр = 28 м), 3x8 (периметр = 22 м), 4x6 (периметр = 20 м). Прямоугольник 4x6 ближе всего к квадрату, поэтому для него нужен самый короткий забор: всего 20 метров!",
+                  "zh": "24的因数配对:1x24 (周长50米), 2x12 (周长28米), 3x8 (周长22米), 4x6 (周长20米)。4x6米的矩形最接近正方形,所以它用的围栏最短:只需要20米!"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "g02_w1_l3",
+            "duration_minutes": 38,
+            "category": "Computer Science",
+            "methodology_focus": "Oxford",
+            "title": {
+              "en": "Branching Logic: If-Then-Else Decision Trees",
+              "ru": "Ветвления в алгоритмах: деревья решений «Если-То-Иначе»",
+              "zh": "分支算法:如果-那么-否则 条件决策树"
+            },
+            "objective": {
+              "en": "The child constructs computational decision trees using Boolean conditions (If condition Then action Else alternative) to sort elements and classify numbers.",
+              "ru": "Ребёнок строит вычислительные деревья решений с булевыми условиями (Если условие То действие Иначе другое) для классификации чисел.",
+              "zh": "孩子运用布尔条件构建计算机决策树(如果/那么/否则),对数字和几何图形进行分流筛选。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Draw a diamond shape with two arrows coming out: 'Computers do not think like humans; they evaluate CONDITIONS. A condition is a question with only two possible answers: TRUE or FALSE. In computer science, this is an IF-THEN-ELSE statement: IF it is raining, THEN take an umbrella, ELSE wear sunglasses. Look at this number sorting robot: IF number is greater than 10, THEN send down path A, ELSE send down path B. A computer can sort a million numbers per second because every decision splits strictly into True or False without guessing.'",
+                  "ru": "Нарисуйте ромб с двумя стрелками: «Компьютер не умеет размышлять как человек; он проверяет УСЛОВИЯ. Условие — это вопрос, у которого есть только два ответа: ИСТИНА или ЛОЖЬ. В программировании это называется командой ЕСЛИ-ТО-ИНАЧЕ: ЕСЛИ идёт дождь, ТО возьми зонт, ИНАЧЕ надень очки. Посмотри на робота-сортировщика: ЕСЛИ число больше 10, ТО отправить по пути А, ИНАЧЕ отправить по пути Б. Компьютер сортирует миллионы чисел в секунду именно потому, что каждое ветвление делится строго на Да или Нет».",
+                  "zh": "画一个菱形分支框,引出两条箭头:“计算机不会像人一样猜想,它通过判断‘条件’做决定。条件是一个只有两种答案的问题:‘真’还是‘假’。在计算机科学中,这叫‘如果-那么-否则’语句:如果下雨,那么带伞,否则戴太阳镜。看这台分拣数字的机器人:如果数字大于10,那么送入通道A,否则送入通道B。计算机一秒钟能分拣几百万个数字,因为每次判断都严格切分为真与假,绝无模棱两可。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Draw a flowchart on a large page: Start -> Box: 'Is number Even?' -> If YES go Right ('Box of Pairs'), If NO go Left ('Box of Loners').\n2) Test with numbers 4, 7, 12, 15, 20. Child traces with finger and places cards into correct bins.\n3) 2-Level Nested Decision Tree: Start -> 'Is number > 10?' -> If YES, ask 'Is it Even?' -> 4 output boxes: [Big Even], [Big Odd], [Small Even], [Small Odd].\n4) Child sorts 8 numbers (3, 8, 14, 17, 2, 19, 6, 22) through the 2-level tree.\n5) Parent gives an invalid condition: 'Is number pretty?' Child explains why a computer rejects it (not a boolean condition).\n6) Child programs parent: child writes an If-Then-Else rule for shapes (e.g. IF corners = 4 THEN clap ELSE stomp).",
+                  "ru": "1) Нарисуйте блок-схему: Старт -> Ромб: «Число Чётное?» -> ЕСЛИ ДА: направо («Коробка пар»), ЕСЛИ НЕТ: налево («Коробка непарных»).\n2) Протестируйте числа 4, 7, 12, 15, 20. Ребёнок ведёт пальцем по стрелкам и раскладывает карточки.\n3) Двухуровневое дерево: Старт -> «Число > 10?» -> Если ДА, проверить: «Оно чётное?» -> 4 корзины: [Большие чётные], [Большие нечётные], [Малые чётные], [Малые нечётные].\n4) Ребёнок сортирует 8 чисел (3, 8, 14, 17, 2, 19, 6, 22) через двухуровневое дерево.\n5) Некорректное условие: «Число красивое?» Ребёнок объясняет, почему компьютер выдаст ошибку (это не булево условие).\n6) Ребёнок программирует родителя: придумывает правило Если-То-Иначе (например: ЕСЛИ 4 угла — хлопни, ИНАЧЕ — топни).",
+                  "zh": "1)在纸上画流程图:起点 -> 菱形判断框:‘是偶数吗?’ -> 如果‘是’走右边(双数箱),如果‘否’走左边(单数箱)。\n2)测试数字 4, 7, 12, 15, 20。孩子用手指沿着箭头走,将数字卡片分拣归位。\n3)两层嵌套决策树:起点 -> ‘数字大于10吗?’ -> 若‘是’,再问‘是偶数吗?’ -> 得到4个输出箱:[大偶数]、[大奇数]、[小偶数]、[小奇数]。\n4)孩子用两层决策树分拣8个数字 (3, 8, 14, 17, 2, 19, 6, 22)。\n5)测试无效条件:‘这个数字好看吗?’让孩子指出为什么计算机无法执行(非真即假的布尔命题)。\n6)孩子给家长编写程序:制定一套几何图形的‘如果-那么-否则’规则(如:如果4个角就拍手,否则就跺脚)。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "A sorting machine follows this rule: IF a number is greater than 5, subtract 2. ELSE, add 3. You drop the number 4 into the machine, take the output, and drop it back into the machine. What number comes out the second time?",
+                  "ru": "Сортировочная машина работает по правилу: ЕСЛИ число больше 5, вычти 2. ИНАЧЕ прибавь 3. В машину бросили число 4, взяли результат и снова бросили в машину. Какое число выйдет во второй раз?",
+                  "zh": "分拣机器人的规则是:如果数字大于5,就减去2;否则,就加上3。把数字4投入机器,取出输出结果后,再次投入机器。第二次出来的数字是多少?"
+                },
+                "solution": {
+                  "en": "First round: Input is 4. Is 4 > 5? FALSE! So follow ELSE: add 3. 4 + 3 = 7. Second round: Input is 7. Is 7 > 5? TRUE! So follow IF: subtract 2. 7 - 2 = 5. Final output is 5!",
+                  "ru": "Первый раунд: на входе 4. 4 > 5? ЛОЖЬ! Идём по ветке ИНАЧЕ: прибавить 3. 4 + 3 = 7. Второй раунд: на входе 7. 7 > 5? ИСТИНА! Идём по ветке ТО: вычесть 2. 7 - 2 = 5. Итоговый ответ: 5!",
+                  "zh": "第一轮:输入是4。4大于5吗?假!走‘否则’分支:加3。4 + 3 = 7。第二轮:输入是7。7大于5吗?真!走‘如果’分支:减2。7 - 2 = 5。最终输出的数字是 5!"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "stage_id": "elem_g3",
+        "age_range": "8-9",
+        "title": {
+          "en": "Grade 3: Fractions, Rates of Change & Balance Equations",
+          "ru": "3 класс: Дроби, скорость изменения и уравнения",
+          "zh": "小学三年级:数轴分数、变化率启蒙与代数方程"
+        },
+        "lessons": [
+          {
+            "lesson_id": "g03_w1_l1",
+            "duration_minutes": 38,
+            "category": "Algebra",
+            "methodology_focus": "Oxford",
+            "title": {
+              "en": "Two-Step Equations: Bar Models (3x + 4 = 19)",
+              "ru": "Двухшаговые уравнения и полосковые модели (3x + 4 = 19)",
+              "zh": "两步线性代数方程与线段图模型 (3x + 4 = 19)"
+            },
+            "objective": {
+              "en": "The child models two-step linear equations (ax + b = c) using visual bar models and solves for x using inverse operations.",
+              "ru": "Ребёнок моделирует двухшаговые уравнения (ax + b = c) через полосковые схемы и находит x обратными операциями.",
+              "zh": "孩子通过线段直观模型建模两步线性方程 (ax + b = c),运用逆运算系统解方程。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Draw a long bar of length 19. Underneath draw three equal blocks marked x, plus a short block marked 4: 'Look at this bar diagram. The total length is 19. The bottom bar has the exact same total length, made of three identical x blocks plus a block of 4: 3x + 4 = 19. To find the size of one x, we work backward using inverse operations! Step 1: Undo the addition by subtracting 4 from total: 19 - 4 = 15. Now the three x blocks together equal 15: 3x = 15. Step 2: Undo the multiplication by dividing by 3: 15 / 3 = 5. So x = 5! Whatever operation was done forward, we undo backward in reverse order.'",
+                  "ru": "Нарисуйте длинную полоску длиной 19. Снизу нарисуйте три одинаковых блока с буквой x и блок 4: «Посмотри на полосковую модель. Общая длина — 19. Нижняя полоса точно такой же длины, но состоит из трёх одинаковых блоков x и отрезка 4: 3x + 4 = 19. Чтобы найти один x, пойдём назад с помощью обратных действий! Шаг 1: отменяем сложение вычитанием: 19 - 4 = 15. Теперь три блока x вместе равны 15: 3x = 15. Шаг 2: отменяем умножение делением на 3: 15 / 3 = 5. Значит, x = 5! Любое прямое действие мы отменяем обратным действием в обратном порядке».",
+                  "zh": "画一条总长代表19的长线段。在下方画出3段等长标有 x 的线段,再连上一小段4:“看这个线段模型。总长度是19。下方总长完全一样,由3个相同的 x 线段加上一段4组成:3x + 4 = 19。要求出1个 x 的长度,我们用逆运算倒推!第1步:通过减法抵消加法,总数减去4:19 - 4 = 15。现在3个 x 合起来等于15:3x = 15。第2步:通过除法抵消乘法,15除以3:15 / 3 = 5。所以 x = 5!正向做了什么运算,我们就用相反的逆运算倒着拆解回去。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Child draws bar model for 2x + 7 = 21. Computes: 21 - 7 = 14; 14 / 2 = 7. Verifies: (2*7) + 7 = 21.\n2) Model 4x + 5 = 29. Child solves: 29 - 5 = 24; 24 / 4 = 6. Verifies.\n3) Subtracting constant: 3x - 2 = 13. Child uses inverse: 'Undo subtraction by adding 2': 13 + 2 = 15; 15 / 3 = 5.\n4) Word Problem: 'Liam has 3 packs of stickers and 5 loose stickers, giving 26 total. How many in each pack?' Child writes 3x + 5 = 26 -> x = 7.\n5) Parent gives scrambled equation: 5 + 2x = 17. Child rearranges and solves x = 6.\n6) Child creates a riddle for parent: 'I think of a number, multiply by 4, add 6, get 38. What was my number?' (x = 8).",
+                  "ru": "1) Ребёнок чертит полосковую модель для 2x + 7 = 21. Вычисляет: 21 - 7 = 14; 14 / 2 = 7. Проверяет: 2*7 + 7 = 21.\n2) Модель 4x + 5 = 29. Ребёнок решает: 29 - 5 = 24; 24 / 4 = 6. Проверяет.\n3) Вычитание в уравнении: 3x - 2 = 13. Обратная операция: «Отменяем вычитание сложением»: 13 + 2 = 15; 15 / 3 = 5.\n4) Текстовая задача: «У Лиама 3 пачки наклеек и 5 отдельных, всего 26. Сколько в пачке?» Уравнение: 3x + 5 = 26 -> x = 7.\n5) Задача с перестановкой: 5 + 2x = 17. Ребёнок переставляет слагаемые и находит x = 6.\n6) Ребёнок загадывает родителю загадку: «Я задумал число, умножил на 4, прибавил 6 и получил 38. Какое число?» (x = 8).",
+                  "zh": "1)孩子画出 2x + 7 = 21 的线段图。计算:21 - 7 = 14; 14 / 2 = 7。代入验证:2*7 + 7 = 21。\n2)画线段图解 4x + 5 = 29。计算:29 - 5 = 24; 24 / 4 = 6。代入验证。\n3)含减法的方程:3x - 2 = 13。逆运算思维:“通过加2抵消减2”:13 + 2 = 15; 15 / 3 = 5。\n4)应用题实战:“小明买了3包贴纸外加5张散装贴纸,总共26张。每包贴纸有多少张?”列式 3x + 5 = 26 -> x = 7。\n5)常数在前干扰项:5 + 2x = 17。孩子调整顺序求解 x = 6。\n6)孩子给家长出谜题:“我想了一个数,乘4加6等于38。我想的是几?”(x = 8)。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "Three baskets hold 30 apples in total. The second basket has twice as many apples as the first basket. The third basket has 3 times as many apples as the first basket. How many apples are in each basket?",
+                  "ru": "В трёх корзинах лежит всего 30 яблок. Во второй корзине в 2 раза больше яблок, чем в первой. В третьей корзине в 3 раза больше яблок, чем в первой. Сколько яблок в каждой корзине?",
+                  "zh": "三个篮子共有30个苹果。第二个篮子里的苹果是第一个篮子的2倍。第三个篮子里的苹果是第一个篮子的3倍。每个篮子里各有多少个苹果?"
+                },
+                "solution": {
+                  "en": "Let the 1st basket be 1 share (x). Then 2nd basket is 2x, and 3rd basket is 3x. Total shares: x + 2x + 3x = 6x = 30 apples. So 1 share (x) = 30 / 6 = 5 apples. Basket 1 = 5, Basket 2 = 10, Basket 3 = 15 apples!",
+                  "ru": "Пусть в 1-й корзине 1 часть (x). Тогда во 2-й корзине 2x, а в 3-й — 3x. Всего частей: x + 2x + 3x = 6x = 30 яблок. Значит, 1 часть x = 30 / 6 = 5 яблок. В 1-й корзине — 5, во 2-й — 10, в 3-й — 15 яблок!",
+                  "zh": "设第1个篮子为1份 (x)。那么第2个篮子就是 2x,第3个篮子是 3x。总份数:x + 2x + 3x = 6x = 30个苹果。所以1份 x = 30 / 6 = 5个苹果。第1个篮子5个,第2个篮子10个,第3个篮子15个!"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "g03_w1_l2",
+            "duration_minutes": 38,
+            "category": "Math Analysis",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Rates of Change: Motion Graphs & Speed (v = s / t)",
+              "ru": "Скорость изменения: графики движения и скорость (v = s / t)",
+              "zh": "变化率启蒙:运动图像与速度的斜率本质 (v = s / t)"
+            },
+            "objective": {
+              "en": "The child understands rate of change (speed as distance per unit time) through distance-time graphs, observing that steeper slope indicates higher velocity.",
+              "ru": "Ребёнок понимает скорость изменения величины (скорость как путь за единицу времени) через графики движения, связывая крутизну наклона со скоростью.",
+              "zh": "孩子通过距离-时间图像理解变化率(单位时间内的路程变化),领会图像越陡峭代表速度越快的微积分直觉。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Draw two axes on grid paper: Time along the bottom (seconds: 1, 2, 3...), Distance along the side (meters). Say: 'In math analysis, we study how quantities CHANGE. Look at a car driving: in 1 second it travels 3 meters; in 2 seconds it travels 6 meters; in 3 seconds it travels 9 meters. Connect the dots: it makes a straight climbing line! The steepness of this line is the SPEED: v = distance / time = 3 meters per second. Now look at a sports car that travels 6 meters in 1 second: its line climbs twice as steeply! If the car stops at a red light, distance does NOT change as time ticks forward, so the line is flat. The steeper the hill, the faster the rate of change!'",
+                  "ru": "Нарисуйте две оси на клетчатой бумаге: Время снизу (секунды: 1, 2, 3...), Расстояние по вертикали (метры). Скажите: «В математическом анализе мы изучаем, как величины ИЗМЕНЯЮТСЯ. Представь машинку: за 1 секунду она проехала 3 метра; за 2 секунды — 6 метров; за 3 секунды — 9 метров. Соедини точки: получилась прямая горка! Крутизна этой линии — это СКОРОСТЬ: v = путь / время = 3 метра в секунду. А теперь гоночная машина, которая за 1 секунду проезжает 6 метров: её линия в два раза круче! Если машина встала на светофоре, время идёт, а путь не меняется — линия горизонтальна. Чем круче склон, тем выше скорость изменения!»",
+                  "zh": "在方格纸上画出两个坐标轴:横轴代表时间(秒:1, 2, 3...),纵轴代表距离(米)。说:“在数学分析中,我们研究量是如何变化的。看一辆汽车:1秒行驶3米,2秒行驶6米,3秒行驶9米。把这些点连起来:形成了一条笔直向上爬升的斜线!这条斜线的陡峭程度就是速度:速度 = 距离 / 时间 = 每秒3米。再看一辆赛车1秒跑6米:它的线爬升得比普通车陡峭两倍!如果车在红灯前停下,时间一秒秒过去而距离不变,线就变成了水平线。坡度越陡,变化率就越大!”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Child plots a snail moving 1 meter every 2 seconds: points (2s, 1m), (4s, 2m), (6s, 3m). Draws line.\n2) On the same graph, child plots a dog moving 2 meters every 1 second: points (1s, 2m), (2s, 4m), (3s, 6m). Compares slope steepness.\n3) Interpreting flat lines: graph shows line rising for 3 seconds, staying flat from 3s to 6s, then rising again. Child narrates: 'Walker stopped to tie shoes for 3 seconds.'\n4) Calculating rate: Cyclist travels 60 kilometers in 3 hours. Child computes v = 60 / 3 = 20 km/h.\n5) Two cars meet: Car A at 40 km/h and Car B at 60 km/h drive toward each other from 200 km apart. Combined speed = 100 km/h. Time to crash = 200 / 100 = 2 hours.\n6) Child acts out a motion graph: parent draws a slope; child walks fast, slow, or freezes to match the line.",
+                  "ru": "1) Ребёнок строит график улитки (1 метр за 2 секунды): точки (2с, 1м), (4с, 2м), (6с, 3м). Соединяет линией.\n2) На том же графике строит собаку (2 метра за 1 секунду): точки (1с, 2м), (2с, 4м), (3с, 6м). Сравнивает крутизну наклона.\n3) Чтение горизонтального участка: график растёт 3 секунды, плоский с 3с по 6с, затем снова растёт. Ребёнок объясняет: «Пешеход остановился завязать шнурки на 3 секунды».\n4) Вычисление скорости: велосипедист проехал 60 км за 3 часа. Ребёнок находит v = 60 / 3 = 20 км/ч.\n5) Встречное движение: машина А (40 км/ч) и машина Б (60 км/ч) едут навстречу с расстояния 200 км. Общая скорость сближения = 100 км/ч. Время встречи = 200 / 100 = 2 часа.\n6) Театр графиков: родитель чертит наклон, ребёнок идёт быстро, медленно или замирает, изображая линию.",
+                  "zh": "1)孩子在坐标图上画一只蜗牛(每2秒走1米):描点 (2秒, 1米), (4秒, 2米), (6秒, 3米),画出直线。\n2)在同一图上画奔跑的小狗(每秒走2米):描点 (1秒, 2米), (2秒, 4米), (3秒, 6米)。对比谁的线更陡峭。\n3)识读水平停滞线:图像上升3秒,在3到6秒间水平不变,随后继续上升。孩子解读:“行人在原地系鞋带停了3秒钟。”\n4)变化率计算:自行车3小时行驶60公里。孩子计算速度 v = 60 / 3 = 20公里/小时。\n5)相向而行问题:甲车时速40公里,乙车时速60公里,相距200公里相对开出。相遇速度 = 100公里/小时,相遇时间 = 200 / 100 = 2小时。\n6)图像身体演绎:家长随手画一条折线,孩子用快走、慢走或原地静止来同步还原图像斜率。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "A cyclist rides up a mountain at 10 km/h, and rides down the exact same road at 30 km/h. Is the average speed for the whole round trip 20 km/h? Why or why not?",
+                  "ru": "Велосипедист поднялся на гору со скоростью 10 км/ч, а спустился по той же дороге со скоростью 30 км/ч. Равна ли средняя скорость за всю поездку 20 км/ч? Почему?",
+                  "zh": "骑车人以每小时10公里的速度上山,沿着同一条路以每小时30公里的速度冲下山。整个来回行程的平均速度是每小时20公里吗?为什么?"
+                },
+                "solution": {
+                  "en": "No, it is NOT 20 km/h! Average speed is Total Distance divided by Total Time. Assume the road is 30 km. Uphill takes 30/10 = 3 hours. Downhill takes 30/30 = 1 hour. Total distance = 60 km; total time = 4 hours. Average speed = 60 / 4 = 15 km/h! The cyclist spent 3 times longer moving at the slow speed, which pulls the average down heavily.",
+                  "ru": "Нет, НЕ 20 км/ч! Средняя скорость — это весь путь, делённый на всё время. Пусть длина дороги 30 км. Подъём занял 30/10 = 3 часа. Спуск занял 30/30 = 1 час. Весь путь = 60 км, всё время = 4 часа. Средняя скорость = 60 / 4 = 15 км/ч! Велосипедист провёл в 3 раза больше времени на низкой скорости, что сильно тянет среднюю вниз.",
+                  "zh": "绝对不是20公里/小时!平均速度等于总路程除以总时间。假设单程为30公里:上山用时 30/10 = 3小时;下山用时 30/30 = 1小时。总路程 = 60公里,总时间 = 4小时。平均速度 = 60 / 4 = 15公里/小时!因为骑车人在慢速爬坡上耗费的时间是下山的三倍,慢速极大地拉低了全程平均值。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "g03_w1_l3",
+            "duration_minutes": 38,
+            "category": "Probability",
+            "methodology_focus": "Oxford",
+            "title": {
+              "en": "Sample Space Grids: Rolling Two Dice (Fair vs Unfair)",
+              "ru": "Сетка пространства исходов: два кубика (честные и нечестные шансы)",
+              "zh": "样本空间点阵图:双骰子点数和 (公平与不公平概率)"
+            },
+            "objective": {
+              "en": "The child constructs a 6x6 sample space grid to map all 36 outcomes of rolling two dice, discovering why sum 7 is 6 times more likely than sum 2 or 12.",
+              "ru": "Ребёнок строит координатную сетку 6x6 всех 36 исходов двух кубиков, доказывая, почему сумма 7 выпадает в 6 раз чаще суммы 2 или 12.",
+              "zh": "孩子绘制 6x6 样本空间二维网格,穷尽两个骰子的全部36种结果,发现为什么和为7的概率是和为2或12的6倍。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Draw a 6x6 table with numbers 1 to 6 on top and 1 to 6 on the side: 'If we roll two dice, what sum is most likely to win? Many people guess that every sum from 2 to 12 has an equal chance. That is an optical illusion! In Oxford probability, we map the entire SAMPLE SPACE. A red die can show 1 to 6; a blue die can show 1 to 6. That gives 6 x 6 = 36 total combinations! How many ways make sum 2? Only ONE: (1,1). How many ways make sum 7? Six ways: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1)! Sum 7 is six times more likely than sum 2. Probability = favorable ways / total ways.'",
+                  "ru": "Нарисуйте таблицу 6x6 с числами от 1 до 6 сверху и слева: «Если бросить два кубика, какая сумма очков выигрывает чаще всего? Многие думают, что все суммы от 2 до 12 равновероятны. Это иллюзия! В теории вероятностей мы строим ПРОСТРАНСТВО ВСЕХ ИСХОДОВ. Красный кубик даёт от 1 до 6, синий — от 1 до 6. Всего 6 x 6 = 36 комбинаций! Сколькими способами получается сумма 2? Только ОДНИМ: (1,1). А сумма 7? Шестью способами: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1)! Сумма 7 выпадает в шесть раз чаще, чем сумма 2. Вероятность = число нужных исходов / все возможные исходы».",
+                  "zh": "画一张 6x6 的表格,上方标注1到6,左侧标注1到6:“如果掷两枚骰子,哪一个点数和最容易赢?许多人误以为从2到12每个和的出现几率都一样。这是直觉错觉!在概率论中,我们必须列出完整的样本空间。红色骰子有1到6,蓝色骰子有1到6,总共有 6 x 6 = 36种完全平等的组合!和为2有几种可能?只有1种:(1,1)。和为7有几种可能?整整6种:(1,6), (2,5), (3,4), (4,3), (5,2), (6,1)!和为7的出现概率是和为2的整整6倍。概率 = 目标组合数 / 总组合数。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Child fills in the 6x6 grid with the sum of each cell (row + column). Observes the diagonal bands.\n2) Count occurrences of each sum: Sum 2 (1), Sum 3 (2), Sum 4 (3), Sum 5 (4), Sum 6 (5), Sum 7 (6), Sum 8 (5), Sum 9 (4), Sum 10 (3), Sum 11 (2), Sum 12 (1).\n3) Calculate exact probabilities: P(sum=7) = 6/36 = 1/6. P(sum=2) = 1/36. P(sum is even) = 18/36 = 1/2.\n4) Real Dice Rolling Experiment: Child rolls two dice 30 times, tallies sums on a bar chart. Verifies that the bell peak centers around 6, 7, 8.\n5) Fair game test: Player A wins if sum is 2, 3, 4, 10, 11, 12 (total ways = 1+2+3+3+2+1 = 12). Player B wins if sum is 6, 7, 8 (total ways = 5+6+5 = 16). Child proves why the game is unfair to Player A.\n6) Coin tossing grid: Child maps 2 coins (HH, HT, TH, TT) and states probability of getting exactly one Head is 2/4 = 1/2.",
+                  "ru": "1) Ребёнок заполняет таблицу 6x6 суммами в каждой клетке (строка + столбец). Видит диагональные полосы.\n2) Подсчёт частоты каждой суммы: сумма 2 (1 раз), 3 (2 раза), 4 (3), 5 (4), 6 (5), 7 (6 раз), 8 (5), 9 (4), 10 (3), 11 (2), 12 (1 раз).\n3) Вычисление точных вероятностей: P(сумма 7) = 6/36 = 1/6. P(сумма 2) = 1/36. P(сумма чётная) = 18/36 = 1/2.\n4) Эксперимент с реальными кубиками: бросает 2 кубика 30 раз, строит гистограмму. Убеждается, что пик колокола в районе 6, 7, 8.\n5) Проверка игры на честность: Игрок А побеждает при суммах 2, 3, 4, 10, 11, 12 (всего 12 вариантов). Игрок Б — при 6, 7, 8 (всего 16 вариантов). Ребёнок доказывает нечестность игры.\n6) Сетка для монет: ребёнок строит варианты 2 монет (Орел-Орел, Орел-Решка, Решка-Орел, Решка-Решка) и находит вероятность одного Орла = 2/4 = 1/2.",
+                  "zh": "1)孩子在 6x6 网格中填入每个交叉格子的和(行+列)。观察对称的对角线带状分布。\n2)统计每个和出现的次数:和为2(1次), 3(2次), 4(3次), 5(4次), 6(5次), 7(6次), 8(5次), 9(4次), 10(3次), 11(2次), 12(1次)。\n3)精确概率计算:P(和为7) = 6/36 = 1/6。P(和为2) = 1/36。P(和为偶数) = 18/36 = 1/2。\n4)掷骰子实测:孩子掷双骰子30次,用条形图记录结果。直观验证峰值聚集在6、7、8之间。\n5)博弈公平性论证:甲玩家在和为2、3、4、10、11、12时赢(共12种可能);乙玩家在和为6、7、8时赢(共16种可能)。孩子数学证明为什么游戏偏向乙。\n6)抛硬币二维样本:孩子列出抛两枚硬币的4种组合(正正, 正反, 反正, 反反),得出恰好出现一次正面的概率是 2/4 = 1/2。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "In a bag there are 4 balls: 2 Red and 2 Blue. You pull out two balls at the exact same time without looking. What is more likely: that the two balls have the SAME color, or that they have DIFFERENT colors?",
+                  "ru": "В мешке 4 шарика: 2 красных и 2 синих. Вы достаёте два шарика одновременно, не глядя. Что вероятнее: шарики ОДНОГО цвета или РАЗНЫХ цветов?",
+                  "zh": "袋子里有4个球:2个红球和2个蓝球。你闭着眼睛同时摸出两个球。两个球‘颜色相同’与‘颜色不同’,哪个可能性更大?"
+                },
+                "solution": {
+                  "en": "Count all pairs: Name balls R1, R2, B1, B2. Total pairs = 6: (R1,R2) [Same], (R1,B1) [Diff], (R1,B2) [Diff], (R2,B1) [Diff], (R2,B2) [Diff], (B1,B2) [Same]. Exactly 2 pairs have the same color, but 4 pairs have different colors! Different colors is TWICE as likely: 4/6 vs 2/6!",
+                  "ru": "Посчитаем все пары: назовём шарики К1, К2, С1, С2. Всего пар 6: (К1,К2) [Один], (К1,С1) [Разн], (К1,С2) [Разн], (К2,С1) [Разн], (К2,С2) [Разн], (С1,С2) [Один]. Всего 2 пары одного цвета и 4 пары разных цветов! Вынуть РАЗНЫЕ цвета в два раза вероятнее: 4/6 против 2/6!",
+                  "zh": "把4个球编号:红1, 红2, 蓝1, 蓝2。两两组合共6种:(红1,红2)[同色], (红1,蓝1)[异色], (红1,蓝2)[异色], (红2,蓝1)[异色], (红2,蓝2)[异色], (蓝1,蓝2)[同色]。同色的组合只有2种,而异色的组合整整有4种!摸出不同颜色的可能性是同色可能性的整整两倍(4/6 对比 2/6)!"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "stage_id": "elem_g4",
+        "age_range": "9-10",
+        "title": {
+          "en": "Grade 4: Systems of Equations, Dirichlet Proofs & Triangle Geometry",
+          "ru": "4 класс: Системы уравнений, доказательства Дирихле и геометрия треугольника",
+          "zh": "小学四年级:二元方程组、抽屉原理证明与三角形几何公理"
+        },
+        "lessons": [
+          {
+            "lesson_id": "g04_w1_l1",
+            "duration_minutes": 38,
+            "category": "Algebra",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Systems of Two Equations: Substitution via Balance Logic",
+              "ru": "Системы двух уравнений: метод подстановки через баланс",
+              "zh": "二元一次方程组:代入消元法与天平置换"
+            },
+            "objective": {
+              "en": "The child solves systems of two linear equations with two unknowns (x + y = 14, x - y = 4) using substitution and physical balance elimination.",
+              "ru": "Ребёнок решает системы двух линейных уравнений с двумя неизвестными (x + y = 14, x - y = 4) методом подстановки и сложения чаш весов.",
+              "zh": "孩子运用天平置换与消元思想,求解二元一次方程组 (x + y = 14, x - y = 4)。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Show two scale balance cards: 'What happens when we have TWO mystery items, x and y? On Scale 1: an apple (x) plus a pear (y) weigh 140 grams (x + y = 140). On Scale 2: an apple weighs the same as a pear plus 40 grams (x = y + 40). How do we solve this without guessing? In Kiselev algebra, we use the Principle of SUBSTITUTION: since an apple is IDENTICAL to (pear + 40g), we replace the apple on Scale 1 with (pear + 40g)! Now Scale 1 holds: (pear + 40) + pear = 140g. That means 2 pears + 40g = 140g. Subtract 40g from both sides: 2 pears = 100g. One pear weighs 50g! Now plug 50g back into Scale 2: Apple = 50 + 40 = 90 grams. Two unknowns solved cleanly by substitution!'",
+                  "ru": "Покажите две карточки с весами: «Что делать, если у нас ДВЕ неизвестные вещи: x и y? На Весах 1: яблоко (x) и груша (y) вместе весят 140 граммов (x + y = 140). На Весах 2: яблоко весит столько же, сколько груша и ещё 40 граммов (x = y + 40). Как решить без угадывания? В алгебре Киселёва мы используем метод ПОДСТАНОВКИ: раз яблоко в точности равно (груша + 40 г), заменим яблоко на первых весах этой связкой! Теперь на Весах 1: (груша + 40) + груша = 140 г. То есть 2 груши + 40 г = 140 г. Вычтем 40 г с обеих чаш: 2 груши = 100 г. Одна груша = 50 г! Подставим 50 г во вторые весы: Яблоко = 50 + 40 = 90 граммов. Два неизвестных найдены строго через подстановку!»",
+                  "zh": "出示两幅天平图:“当有两个未知数 x 和 y 时怎么办?在天平1上:一个苹果(x)加一个梨(y)重140克 (x + y = 140)。在天平2上:一个苹果刚好与一个梨加40克平衡 (x = y + 40)。不用猜试怎么解?在代数中,我们使用‘代入消元法’:既然一个苹果完全等价于‘一个梨+40克’,我们就把天平1上的苹果换成‘一个梨+40克’!现在天平1变成:(梨+40)+梨 = 140克。也就是 2个梨 + 40克 = 140克。两边同时拿走40克:2个梨 = 100克。一个梨重50克!再代入天平2:苹果 = 50 + 40 = 90克。两个未知数通过代入置换完美求解!”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Child models with cards: Box A + Box B = 10; Box A = Box B + 2. Substitutes: (B+2) + B = 10 -> 2B = 8 -> B = 4, A = 6.\n2) System 2: x + y = 20, and x = 3y. Child substitutes: 3y + y = 20 -> 4y = 20 -> y = 5, x = 15.\n3) The Elimination Method: Place Scale 1 (x + y = 12) and Scale 2 (x - y = 4). Add both equations together: (x+y) + (x-y) = 2x = 16 -> x = 8, y = 4.\n4) Real-world farm problem: 'A farmer has 10 animals (chickens and cows). There are 28 legs in total. How many chickens and cows?' Child writes: c + w = 10 and 2c + 4w = 28. Solves w = 4 cows, c = 6 chickens.\n5) Spot the bug: Parent substitutes x = y + 3 into x + y = 11, writes y + 3 = 11 (forgot the second y!). Child explains error.\n6) Child creates their own 2-variable mystery riddle for parent.",
+                  "ru": "1) Ребёнок моделирует: Коробка А + Коробка Б = 10; Коробка А = Коробка Б + 2. Подставляет: (Б+2) + Б = 10 -> 2Б = 8 -> Б = 4, А = 6.\n2) Система 2: x + y = 20, при этом x = 3y. Подстановка: 3y + y = 20 -> 4y = 20 -> y = 5, x = 15.\n3) Метод сложения: Уравнение 1 (x + y = 12), Уравнение 2 (x - y = 4). Складываем обе части: 2x = 16 -> x = 8, y = 4.\n4) Классическая задача: «На ферме 10 голов кур и коров. Всего 28 ног. Сколько кур и коров?» Запись: c + w = 10 и 2c + 4w = 28. Решение: 4 коровы, 6 кур.\n5) Найди баг: родитель подставляет x = y + 3 в x + y = 11 и пишет y + 3 = 11 (забыл второй y!). Ребёнок исправляет.\n6) Ребёнок составляет систему из двух загадок для родителя.",
+                  "zh": "1)孩子用卡片模拟:盒子A + 盒子B = 10; 盒子A = 盒子B + 2。代入:(B+2) + B = 10 -> 2B = 8 -> B = 4, A = 6。\n2)解方程组2:x + y = 20, 且 x = 3y。代入:3y + y = 20 -> 4y = 20 -> y = 5, x = 15。\n3)加减消元法体验:等式1 (x + y = 12) 与等式2 (x - y = 4)。两式相加:2x = 16 -> x = 8, y = 4。\n4)鸡兔同笼经典题:“农场里有鸡和兔共10只,共有28条腿。鸡和兔各几只?”列方程:j + t = 10, 2j + 4t = 28。求解得出4只兔,6只鸡。\n5)找Bug游戏:家长将 x = y + 3 代入 x + y = 11 时写成 y + 3 = 11 (漏掉了原式的第二个y!)。孩子纠正。\n6)孩子自己编一道二元未知数谜题考家长。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "A pencil and an eraser together cost $1.10. The pencil costs $1.00 more than the eraser. How much does the eraser cost?",
+                  "ru": "Карандаш и ластик вместе стоят 1 доллар и 10 центов. Карандаш на 1 доллар дороже ластика. Сколько стоит ластик?",
+                  "zh": "一支铅笔和一块橡皮合起来一共1.10元。铅笔比橡皮贵整整1.00元。橡皮要多少钱?"
+                },
+                "solution": {
+                  "en": "Common trap is to guess 10 cents (then pencil would be $1.10 and sum would be $1.20!). Use algebra: Eraser = e, Pencil = e + 1.00. Total: (e + 1.00) + e = 1.10 -> 2e = 0.10 -> e = 0.05. The eraser costs 5 cents, and the pencil costs $1.05!",
+                  "ru": "Классическая ловушка — ответить 10 центов (тогда карандаш стоил бы 1.10, а вместе 1.20!). Считаем через систему: Ластик = x, Карандаш = x + 1.00. Всего: 2x + 1.00 = 1.10 -> 2x = 0.10 -> x = 0.05. Ластик стоит 5 центов, а карандаш — 1 доллар и 5 центов!",
+                  "zh": "最常见的直觉陷阱是脱口而出1毛钱(如果橡皮1毛,铅笔就是1.10元,合起来就是1.20元!)。用方程组:橡皮为e,铅笔为 e + 1.00。合起来:2e + 1.00 = 1.10 -> 2e = 0.10 -> e = 0.05元(5分钱)。橡皮5分钱,铅笔1.05元!"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "g04_w1_l2",
+            "duration_minutes": 38,
+            "category": "Logic",
+            "methodology_focus": "Oxford",
+            "title": {
+              "en": "Dirichlet's Principle: Proofs of Inevitable Overlap",
+              "ru": "Принцип Дирихле: доказательства неизбежного совпадения",
+              "zh": "抽屉原理:必然重合与极值反证法"
+            },
+            "objective": {
+              "en": "The child applies Dirichlet's Pigeonhole Principle (if n items are placed into m boxes and n > m, at least one box contains at least two items) to construct formal deductive proofs.",
+              "ru": "Ребёнок применяет принцип Дирихле (если n предметов разложить в m ящиков и n > m, то хотя бы в одном ящике окажется не менее двух предметов) для строгих доказательств.",
+              "zh": "孩子掌握抽屉原理 (若将n个物体放入m个抽屉且 n > m,则至少有一个抽屉含有至少2个物体),学会构造反证法证明。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Put 3 plastic cups on the table and hold 4 small balls: 'In Oxford mathematics, we prove facts with absolute certainty using Dirichlet's Principle, also called the Pigeonhole Principle. Here are 3 cups (pigeonholes) and 4 balls (pigeons). Can we place all 4 balls into the cups so that every cup has AT MOST one ball? Try it! Put 1, 1, 1... now you have 1 ball left in your hand! Wherever you place that 4th ball, it MUST join another ball. Dirichlet proved: If n items go into m boxes, and n > m, at least one box MUST contain at least two items. This simple principle allows us to prove astonishing truths about giant groups of people without counting them one by one!'",
+                  "ru": "Поставьте на стол 3 стаканчика и возьмите 4 шарика: «В логике мы доказываем факты со стопроцентной уверенностью с помощью принципа Дирихле (принципа голубей и ящиков). Вот 3 стаканчика (ящика) и 4 шарика (голубя). Можем ли мы разложить 4 шарика так, чтобы в каждом стаканчике было НЕ БОЛЬШЕ одного шарика? Попробуй! Положим 1, 1, 1... в руке остался ещё один шарик! Куда бы ты его ни положил, он ОБЯЗАН попасть к другому шарику. Дирихле доказал: если n предметов раскладывают в m ящиков и n > m, то хотя бы в одном ящике окажется не менее двух предметов. Этот принцип позволяет доказывать поразительные вещи о миллионах людей, не пересчитывая каждого!»",
+                  "zh": "在桌上放3个杯子,拿4个小球:“在牛津逻辑学中,我们用狄利克雷原则(抽屉原理)进行确凿无疑的数学证明。这里有3个杯子(抽屉)和4个球(鸽子)。我们能不能把4个球放进去,使得每个杯子里至多只有1个球?试试看!放1个、1个、1个……手里还剩下1个球!无论你把第4个球放进哪个杯子,它都必须和另一个球住在一起。狄利克雷证明:如果将n个物体放入m个抽屉,且 n > m,那么至少有1个抽屉里必然含有至少2个物体。这个简单的原理能让我们无需逐个调查,就能证明关于复杂群体的确凿真理!”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Sock Drawer Problem: A drawer has 10 black and 10 blue socks. How many must you pull in the dark to guarantee a pair? Child identifies 2 boxes (Black, Blue). n = 2 + 1 = 3 socks guaranteed.\n2) Glove Drawer Trap: 10 left gloves and 10 right gloves. How many to guarantee a matched wearable pair? Child deduces: worst case pulls all 10 left gloves, needs 10 + 1 = 11 gloves.\n3) Birthdays in months: Show that in any group of 13 people, at least two share a birth month (12 months = boxes, 13 people = items -> 13 > 12).\n4) Birthdays in weeks: How many people to guarantee two share a day of the week? Child writes: 7 days + 1 = 8 people.\n5) Generalized Pigeonhole: 7 pigeons and 3 holes. 7 / 3 = 2 with remainder 1. Child proves at least one hole has 2 + 1 = 3 pigeons.\n6) London hair proof: London has 8 million people. No human has more than 500,000 hairs. Child proves at least two Londoners have the exact same number of hairs.",
+                  "ru": "1) Задача о носках: в темноте лежат 10 чёрных и 10 синих носков. Сколько достать, чтобы гарантировать пару? Ребёнок определяет: 2 ящика (цвета). n = 2 + 1 = 3 носка.\n2) Ловушка с перчатками: 10 левых и 10 правых перчаток одного цвета. Сколько достать для пары? В худшем случае достанем все 10 левых, значит надо 10 + 1 = 11 перчаток.\n3) Месяцы рождения: докажи, что среди 13 человек хотя бы двое родились в один месяц (12 месяцев = ящики, 13 > 12).\n4) Дни недели: сколько людей гарантируют двоих с одинаковым днём рождения на неделе? Ребёнок пишет: 7 дней + 1 = 8 человек.\n5) Обобщённый Дирихле: 7 голубей и 3 ящика. 7 / 3 = 2 (остаток 1). Ребёнок доказывает, что в одном ящике будет не менее 3 голубей.\n6) Теорема о волосах Лондона: в Лондоне 8 миллионов жителей. Ни у кого нет больше 500 000 волос. Ребёнок доказывает, что есть люди с абсолютно одинаковым числом волос.",
+                  "zh": "1)抽屉黑白袜子问题:抽屉里混放着10只黑袜子和10只蓝袜子。摸黑至少拿几只必定能配成一双?孩子指出2个抽屉(颜色),n = 2 + 1 = 3只必有一双。\n2)分左右的手套陷阱:10只左手套和10只右手套。至少拿几只必能配成一副可用手套?最倒霉情况全摸出10只左手套,必须拿 10 + 1 = 11只。\n3)出生月份证明:证明任意13个人中,必定至少有2个人出生在同一个月份(12个月份为抽屉,13个人 > 12)。\n4)星期生日证明:至少几个人必有2人出生在同一个星期几?孩子列式:7天 + 1 = 8人。\n5)广义抽屉原理:7只鸽子进3个笼子。7 / 3 = 2余1。孩子证明必定有1个笼子里至少住了3只鸽子。\n6)伦敦头发定理:伦敦有800万人口,人的头发最多不超过50万根。孩子推导出伦敦至少有两个人头发根数完全相同。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "Five points are placed anywhere inside an equilateral triangle with side length 2 centimeters. Prove that at least two of the points are within 1 centimeter of each other.",
+                  "ru": "Внутри правильного треугольника со стороной 2 сантиметра произвольно поставили 5 точек. Докажи, что хотя бы две из них находятся на расстоянии не больше 1 сантиметра друг от друга.",
+                  "zh": "在一个边长为2厘米的等边三角形内部随意点上5个点。证明:其中至少有两个点之间的距离不超过1厘米。"
+                },
+                "solution": {
+                  "en": "Connect the midpoints of the three sides: the big triangle is divided into 4 smaller equilateral triangles, each with side length 1 cm. These 4 small triangles are the 'pigeonholes'! We have 5 points (pigeons) placed into 4 triangles. By Dirichlet's Principle, at least one small triangle MUST contain at least two points. Since the maximum distance inside a triangle of side 1 cm is 1 cm, those two points must be within 1 centimeter of each other! Q.E.D.",
+                  "ru": "Соединим середины сторон: большой треугольник разобьётся на 4 маленьких правильных треугольника со стороной 1 см. Эти 4 треугольника — наши «ящики»! У нас 5 точек (голубей) в 4 ящиках. По принципу Дирихле хотя бы в одном маленьком треугольнике окажется не менее двух точек. А так как наибольшее расстояние в треугольнике со стороной 1 см равно 1 см, эти две точки находятся не дальше 1 сантиметра друг от друга! Что и требовалось доказать.",
+                  "zh": "连接三边中点:大三角形被切分成4个边长为1厘米的小等边三角形。这4个小三角形就是我们的‘抽屉’!现在有5个点(鸽子)放入4个抽屉中。根据抽屉原理,必定至少有1个小三角形里包含至少2个点。而边长为1厘米的三角形内部两点间最大距离就是1厘米,因此这两个点之间的距离绝对不会超过1厘米!证明完毕。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "g04_w1_l3",
+            "duration_minutes": 38,
+            "category": "Geometry",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Triangle Angle Sum Theorem (180 Degree Proof via Parallel Lines)",
+              "ru": "Сумма углов треугольника: доказательство 180 градусов через параллельные",
+              "zh": "三角形内角和定理:平行线内错角严格证明180度"
+            },
+            "objective": {
+              "en": "The child proves that the sum of interior angles in any triangle is always 180 degrees (a straight line) by drawing an auxiliary parallel line and matching alternating interior angles.",
+              "ru": "Ребёнок доказывает, что сумма углов любого треугольника равна 180 градусам (развёрнутому углу), проводя вспомогательную параллельную прямую и находя накрест лежащие углы.",
+              "zh": "孩子通过作辅助平行线与对顶/内错角相等的公理,严格证明任意三角形内角和恒为180度(平角)。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Draw any triangle ABC on paper. Color angle A blue, angle B red, angle C yellow: 'Does a tiny triangle have smaller total angles than a giant triangle? In Kiselev geometry, we never guess; we PROVE. Draw a straight line through top vertex B that is PARALLEL to bottom side AC. Look at the straight line at the top: a straight line is always 180 degrees! Notice how bottom angle A matches top-left alternating angle A. Bottom angle C matches top-right alternating angle C. And middle angle B is already there! Together, angles A, B, and C assemble perfectly to make that straight 180-degree line! Therefore, the sum of angles in EVERY triangle in the universe is ALWAYS exactly 180 degrees!'",
+                  "ru": "Нарисуйте любой треугольник ABC на бумаге. Раскрасьте угол A синим, угол B красным, угол C жёлтым: «Правда ли, что у маленького треугольника сумма углов меньше, чем у гигантского? В геометрии Киселёва мы не гадаем, а ДОКАЗЫВАЕМ. Проведём через вершину B прямую, ПАРАЛЛЕЛЬНУЮ основанию AC. Посмотри на развёрнутую линию сверху: развёрнутый угол — это ровно 180 градусов! Угол A внизу равен накрест лежащему углу A сверху. Угол C внизу равен накрест лежащему углу C сверху. А угол B уже сидит посередине! Вместе углы A, B и C идеально собрались в развёрнутый угол 180 градусов! Поэтому сумма углов в ЛЮБОМ треугольнике во Вселенной ВСЕГДА равна 180 градусам!»",
+                  "zh": "在纸上任意画一个三角形ABC。将角A涂成蓝色,角B涂成红色,角C涂成黄色:“小三角形的三个角合起来会比巨大三角形更小吗?在基谢廖夫几何中,我们绝不凭空猜测,而是严格证明。过顶点B画一条平行于底边AC的平行线。看顶部的平角:一条直线展开的平角恰好是180度!由于内错角相等,底部的蓝色角A刚好等于顶端左侧的角A;底部的黄色角C刚好等于顶端右侧的角C;而红色的角B本身就在中间!看:角A、角B、角C三个角严丝合缝拼成了180度的直线平角!所以,全宇宙中任意三角形的内角和都永远精确等于180度!”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Physical Paper Tear Proof: Child cuts out any triangle from paper, tears off the 3 corners, and puts their tips together on a flat line. Observes they form a flat 180-degree straight edge.\n2) Calculating missing angle: Triangle has angles 50 deg and 70 deg. Child computes: 180 - (50 + 70) = 180 - 120 = 60 degrees.\n3) Right triangle rule: Triangle has one 90 deg right angle and one 35 deg angle. Child finds third angle: 180 - 90 - 35 = 55 degrees.\n4) Equilateral triangle proof: All 3 angles are equal. 3x = 180 -> x = 60 degrees each!\n5) Isosceles triangle: Peak angle is 40 deg. Base angles are equal: (180 - 40) / 2 = 140 / 2 = 70 degrees each.\n6) Impossible Triangle Challenge: Parent asks: 'Can you draw a triangle with angles 80, 80, 30?' Child checks: 80+80+30 = 190 != 180. Declares it mathematically impossible.",
+                  "ru": "1) Физическое доказательство отрыванием углов: ребёнок вырезает треугольник, отрывает 3 угла и складывает вершины к одной линии: они образуют прямую линию в 180 градусов.\n2) Вычисление неизвестного угла: в треугольнике углы 50° и 70°. Ребёнок считает: 180 - (50 + 70) = 180 - 120 = 60°.\n3) Прямоугольный треугольник: один угол 90°, второй 35°. Третий угол: 180 - 90 - 35 = 55°.\n4) Равносторонний треугольник: все 3 угла равны. 3x = 180 -> x = 60° каждый!\n5) Равнобедренный треугольник: угол при вершине 40°. Углы при основании равны: (180 - 40) / 2 = 140 / 2 = 70° каждый.\n6) Невозможный треугольник: родитель спрашивает: «Можно ли нарисовать треугольник с углами 80°, 80°, 30°?» Ребёнок проверяет: 80+80+30 = 190 != 180. Объявляет фигуру невозможной.",
+                  "zh": "1)撕纸拼角物理证明:孩子剪下一个三角形,撕下三个角,将三个顶点拼在一起,证明刚好拼成一条平整的180度直线。\n2)求未知角:三角形两个角分别为50度和70度。孩子计算:180 - (50 + 70) = 180 - 120 = 60度。\n3)直角三角形特例:一个角为90度,另一个角为35度。第三个角:180 - 90 - 35 = 55度。\n4)等边三角形证明:三内角完全相等。3x = 180 -> 每个角都是 60度!\n5)等腰三角形计算:顶角为40度,两底角相等:(180 - 40) / 2 = 140 / 2 = 70度。\n6)不存在的三角形挑战:家长出题:“能画出角为80度、80度、30度的三角形吗?”孩子核算:80+80+30 = 190 != 180。判定在几何上绝不可能存在。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "What is the sum of all interior angles inside ANY four-sided polygon (quadrilateral), such as a square, rectangle, or irregular trapezoid? Prove it without a protractor!",
+                  "ru": "Чему равна сумма внутренних углов ЛЮБОГО четырёхугольника (квадрата, прямоугольника или неровной трапеции)? Докажи без транспортира!",
+                  "zh": "任意四边形(如正方形、长方形或不规则四边形)的四个内角之和是多少度?不许用量角器,请给出严格证明!"
+                },
+                "solution": {
+                  "en": "Draw ANY four-sided quadrilateral and draw one diagonal line from one corner to the opposite corner. This splits the quadrilateral into exactly TWO triangles! Each triangle has an angle sum of 180 degrees. Since the angles of the two triangles make up all the corners of the quadrilateral, the total sum is 180 + 180 = 360 degrees! Q.E.D.",
+                  "ru": "Нарисуйте ЛЮБОЙ четырёхугольник и проведите одну диагональ от угла к противоположному углу. Диагональ делит любой четырёхугольник ровно на ДВА треугольника! Сумма углов в каждом треугольнике — 180°. Значит, сумма всех углов четырёхугольника равна 180° + 180° = 360 градусов! Что и требовалось доказать.",
+                  "zh": "在纸上画出任意四边形,连接一条对角线。这条对角线把任意四边形切分成了整整两个三角形!每个三角形的内角和都是180度。由于这两个三角形的内角刚好拼成了四边形的全部4个内角,因此总和必然是 180 + 180 = 360度!证明完毕。"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

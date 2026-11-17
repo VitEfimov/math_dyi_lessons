@@ -1,0 +1,417 @@
+{
+  "curriculum": {
+    "stages": [
+      {
+        "stage_id": "prek",
+        "age_range": "3–4",
+        "title": {
+          "en": "Stage 0: Pre-K Foundations (Ages 3–4)",
+          "ru": "Ступень 0: Малыши Pre-K (3–4 года)",
+          "zh": "第0阶段: 幼儿园小/中班启蒙 (3–4岁)"
+        },
+        "lessons": [
+          {
+            "lesson_id": "prek_w1_l1",
+            "duration_minutes": 30,
+            "category": "Logic",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Lesson A: Discovering Sets by Pure Color",
+              "ru": "Урок А: Открытие множеств по чистому цвету",
+              "zh": "A课: 纯色感官集合启蒙"
+            },
+            "objective": {
+              "en": "Establish strict set membership based on a single unmistakable sensory property: color (Kiselev first principle for toddlers).",
+              "ru": "Сформировать строгое понимание принадлежности к множеству по единому чувственному признаку: цвету (первый принцип Киселёва для малышей).",
+              "zh": "依据单一不可置疑的感官特征(颜色)建立严格的集合归属判定(基谢廖夫幼小启蒙第一原则)。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 8,
+                "parent_script": {
+                  "en": "Look at these red and blue buttons on our mat. Today, we are making a special home called a 'Set'. Only red buttons are allowed inside this circle! Watch: This button is red, so it belongs here. But look at this blue button. Can it come in? No! It is blue, so it must stay outside.",
+                  "ru": "Посмотри на эти красные и синие пуговицы на коврике. Сегодня мы строим особый домик, который математики называют «Множество». Внутрь этого круга могут зайти только красные пуговицы! Смотри: эта пуговица красная — её место здесь. А вот синяя пуговица. Может она войти? Нет! Она синяя, она остаётся снаружи.",
+                  "zh": "看垫子上的这些红色和蓝色纽扣。今天我们要建一个数学家称为“集合”的专属小家。这个红绳圈里只能住红色的纽扣!看: 这颗纽扣是红色的,它属于这里。但看看这颗蓝纽扣,它能进来吗?绝对不行!它是蓝色的,必须留在圈外。"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 15,
+                "activity": {
+                  "en": "1) Give your child a bowl of 5 bright red and 5 bright blue blocks. Lay down a red yarn loop.\n2) Ask child: 'Pick one block. What color is it? Does it live inside or outside our loop?'\n3) Introduce a yellow toy car as a counter-example. 'Does this car belong in our red set? Why not?'",
+                  "ru": "1) Дайте ребёнку миску с 5 красными и 5 синими кубиками. Положите на стол кольцо из красной нити.\n2) Спросите: «Возьми один кубик. Какой он? Он живёт внутри кольца или снаружи?»\n3) Покажите жёлтую машинку: «Принадлежит ли машинка нашему красному множеству? Почему нет?»",
+                  "zh": "1) 给孩子一碗积木(5个红积木,5个蓝积木),桌上摆一条红毛线圈。\n2) 问孩子: “拿一个积木。它是什么颜色?它属于圈内还是圈外?”\n3) 拿出一辆黄色小汽车作为反例测试: “这辆小车属于我们的红色集合吗?为什么不属于?”"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 7,
+                "prompt": {
+                  "en": "A sneaky green button rolled inside our red circle while we were blinking! How do we know it does not belong, even if it is very small and round?",
+                  "ru": "Хитрый зелёный кругляшок тихонько закатился в наш красный круг, пока мы моргали! Как мы докажем, что ему здесь не место, даже если он круглый и красивый?",
+                  "zh": "一颗绿色的小纽扣趁我们眨眼悄悄滚进了红圈子里!虽然它也圆圆小小的,但我们怎么证明它绝对不属于这里?"
+                },
+                "solution": {
+                  "en": "Our set has one strict rule: RED COLOR ONLY. The button is green, so it breaks the membership rule and must be removed.",
+                  "ru": "Правило множества строго одно: ТОЛЬКО КРАСНЫЙ ЦВЕТ. Пуговица зелёная, значит, она нарушает правило и должна быть удалена.",
+                  "zh": "集合的判定规则是单一且唯一的: 只有红色才能进。这颗纽扣是绿色的,违背了归属法则,必须移到圈外。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "prek_w1_l2",
+            "duration_minutes": 30,
+            "category": "Counting",
+            "methodology_focus": "Chinese",
+            "title": {
+              "en": "Lesson B: Pairwise Match Without Counting",
+              "ru": "Урок Б: Попарное сопоставление без счёта",
+              "zh": "B课: 无数一一配对与等量直觉"
+            },
+            "objective": {
+              "en": "Understand equality of two groups purely by pairwise bijection (Chinese abacus one-to-one principle) before introducing numbers.",
+              "ru": "Освоить равенство двух групп строго через попарное соединение один к одному (принцип счётов без называния чисел).",
+              "zh": "在引入数字符号前,纯粹通过实物一一配对直观领悟“一样多”与“谁多谁少”(中国算盘珠与珠对应原理)。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 8,
+                "parent_script": {
+                  "en": "Let us give every hungry bunny a delicious carrot! We do not need to count with words. Watch: One bunny eats this carrot. Another bunny eats that carrot. Look: Every bunny has a carrot, and no carrots are left over! That means they are exactly EQUAL.",
+                  "ru": "Давай угостим каждого голодного зайчика морковкой! Нам даже не нужно считать вслух. Смотри: этому зайке — вот эта морковка. Второму зайке — вот эта. Смотри: у каждого зайчика есть пара, и лишних морковок нет! Значит, их ровно ПОРОВНУ.",
+                  "zh": "我们来给每只饿肚子的小兔子喂胡萝卜!我们不需要数数字。看: 这只小兔子分一根胡萝卜,那只小兔子也分一根胡萝卜。看: 每只兔子都有胡萝卜吃,一根多余的也没有!这就叫“正好一样多”。"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 15,
+                "activity": {
+                  "en": "1) Place 3 toy cups and 3 spoons on the table. Ask child to put one spoon into each cup.\n2) Ask: 'Is any cup lonely without a spoon? Is any spoon left on the table? They are equal!'\n3) Add 1 extra spoon. 'Now look: who has no cup? The spoon! So there are MORE spoons than cups.'",
+                  "ru": "1) Поставьте 3 чашки и положите 3 ложки. Попросите ребёнка опустить по одной ложке в каждую чашку.\n2) Спросите: «Осталась ли чашка без ложки? Или ложка на столе? Их поровну!»\n3) Положите 4-ю ложку: «А теперь смотри: кому не хватило чашки? Ложке! Значит, ложек БОЛЬШЕ».",
+                  "zh": "1) 桌上放3个玩具小杯子和3把勺子。让孩子把勺子一把一把放进杯子里。\n2) 问: “有哪个杯子没分到勺子吗?有勺子落单在桌上吗?这就叫一样多!”\n3) 再加1把勺子: “看,现在谁落单了?勺子多出来了!所以勺子比杯子多!”"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 7,
+                "prompt": {
+                  "en": "3 teddy bears want to wear hats in the snow, but there are only 2 hats in the closet. Will every bear have warm ears?",
+                  "ru": "3 плюшевых мишки собрались гулять на снег, а в шкафу только 2 шапочки. Сможет ли каждый мишка согреть ушки?",
+                  "zh": "3只小熊想戴帽子去雪地里玩,但柜子里只有2顶帽子。每只小熊都能戴上温暖的帽子吗?"
+                },
+                "solution": {
+                  "en": "No! When we pair 2 bears with 2 hats, 1 bear is left without a hat. 2 is less than 3.",
+                  "ru": "Нет! Если надеть шапки на двух мишек, один мишка останется без шапки. 2 меньше, чем 3.",
+                  "zh": "不能!两顶帽子只能配两只小熊,还有一只小熊没有帽子。2比3少,必须多找一顶帽子。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "prek_w2_l1",
+            "duration_minutes": 30,
+            "category": "Geometry",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Lesson A: Big and Small Ordering (Transitivity)",
+              "ru": "Урок А: Большой и маленький (транзитивность)",
+              "zh": "A课: 大小空间排序与传递性公理"
+            },
+            "objective": {
+              "en": "Develop strict transitive size ordering (A > B and B > C implies A > C) using nesting toys and tactile stacking.",
+              "ru": "Освоить транзитивность размера (если А больше Б, а Б больше В, то А больше В) на матрёшках и стаканчиках.",
+              "zh": "通过套杯与俄罗斯套娃实物建立严格的大小传递性公理(若A大于B且B大于C,则A必大于C)。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 8,
+                "parent_script": {
+                  "en": "Look at these three nesting bowls: Daddy Bear bowl, Mama Bear bowl, and Baby Bear bowl. Can Daddy Bear fit inside Baby Bear's bowl? No, because Daddy is bigger! But Baby Bear can hide completely inside Mama, and Mama can hide inside Daddy!",
+                  "ru": "Посмотри на эти три мисочки: миска Папы-медведя, миска Мамы-медведицы и миска Мишутки. Поместится ли папина миска в мишуткину? Нет, папина больше! Но Мишуткина миска легко прячется в мамину, а мамина — в папину!",
+                  "zh": "看这三只套碗: 熊爸爸的大碗、熊妈妈的中碗和小熊宝宝的小碗。熊爸爸的碗能塞进小熊的碗里吗?不行,因为爸爸的碗更大!但小熊的碗能完全藏进妈妈的碗里,妈妈的碗又能藏进爸爸的碗里!"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 15,
+                "activity": {
+                  "en": "1) Give child 4 nesting cups of different sizes mixed up on the mat.\n2) Ask child to build a tower from biggest on the bottom to smallest on top.\n3) Test transitivity: 'If the blue cup fits inside yellow, and yellow fits inside red, will blue fit inside red? Try it!'",
+                  "ru": "1) Перемешайте на коврике 4 стаканчика-вкладыша разного размера.\n2) Попросите ребёнка построить башню: самый большой внизу, самый крошечный на верхушке.\n3) Проверьте правило: «Если синий прячется в жёлтый, а жёлтый — в красный, спрячется ли синий в красный? Проверь!»",
+                  "zh": "1) 打乱4个不同大小的套叠杯放在垫子上。\n2) 让孩子搭建宝塔: 最大的在最底下,最小的在最顶尖。\n3) 验证传递性: “如果蓝杯子能装进黄杯子,黄杯子能装进红杯子,那蓝杯子能直接装进红杯子吗?试一试!”"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 7,
+                "prompt": {
+                  "en": "We have 3 boxes: Gold, Silver, and Bronze. Gold is bigger than Silver. Silver is bigger than Bronze. Which box is the biggest of all without putting Bronze next to Gold?",
+                  "ru": "У нас 3 коробки: Золотая, Серебряная и Бронзовая. Золотая больше Серебряной. Серебряная больше Бронзовой. Какая коробка самая большая из всех, даже не прикладывая Бронзовую к Золотой?",
+                  "zh": "有3个盒子: 金盒、银盒、铜盒。金盒比银盒大,银盒比铜盒大。不用把铜盒拿到金盒旁边比,你能立刻知道哪个盒子最大吗?"
+                },
+                "solution": {
+                  "en": "The Gold box! Because Gold > Silver > Bronze. By mathematical transitivity, Gold is bigger than Bronze.",
+                  "ru": "Золотая коробка! Потому что Золотая > Серебряная > Бронзовая. По закону транзитивности Золотая больше Бронзовой.",
+                  "zh": "金盒子最大!因为金盒大于银盒,银盒又大于铜盒,依据数学传递性原理,金盒必然大于铜盒。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "prek_w2_l2",
+            "duration_minutes": 30,
+            "category": "Computer Science",
+            "methodology_focus": "Oxford",
+            "title": {
+              "en": "Lesson B: ABAB Rhythm Patterns & Sequences",
+              "ru": "Урок Б: Ритмические цепочки ABAB и алгоритмы",
+              "zh": "B课: ABAB 韵律模式与顺序算法"
+            },
+            "objective": {
+              "en": "Recognize and predict repeating cyclic patterns (foundational algorithmic loops) using colored blocks.",
+              "ru": "Распознавать и продолжать циклические повторяющиеся узоры (основа циклов в программировании) на кубиках.",
+              "zh": "通过彩色积木识别并预测周期性重复模式(计算机程序循环的基础结构)。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 8,
+                "parent_script": {
+                  "en": "Let us make a singing train with our colored blocks! Listen to the music of the train: RED, BLUE, RED, BLUE, RED, BLUE! Hear the rhythm? Red and blue take turns. Who can come next after blue? The train must sing: RED!",
+                  "ru": "Давай построим поющий поезд из цветных кубиков! Послушай его песенку: КРАСНЫЙ, СИНИЙ, КРАСНЫЙ, СИНИЙ, КРАСНЫЙ, СИНИЙ! Слышишь ритм? Они чередуются по очереди. Кто встанет в вагончик после синего? Конечно, КРАСНЫЙ!",
+                  "zh": "我们用彩色积木来造一列会唱歌的小火车吧!听听火车的节奏旋律: 红、蓝、红、蓝、红、蓝!听出规律了吗?红色和蓝色在排队轮流出场。蓝色后面接着该轮到谁了?火车大声唱: 是红色!"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 15,
+                "activity": {
+                  "en": "1) Lay down blocks: Apple, Banana, Apple, Banana, Apple, [blank space].\n2) Ask child: 'What fruit goes into the empty station?' Let child choose.\n3) Try a physical body pattern: Clap, Stomp, Clap, Stomp, Clap... what is next?",
+                  "ru": "1) Выложите ряд: Яблоко, Банан, Яблоко, Банан, Яблоко, [пустое место].\n2) Спросите: «Какой фрукт приедет на пустую станцию?» Ребёнок кладёт банан.\n3) Сыграйте телом: Хлопок в ладоши, Топот ножкой, Хлопок, Топот, Хлопок... что дальше?",
+                  "zh": "1) 摆出实物序列: 苹果、香蕉、苹果、香蕉、苹果、[空格]。\n2) 问孩子: “空格里该放什么水果?” 让孩子自己抓取香蕉放上。\n3) 身体动作韵律练习: 拍手、跺脚、拍手、跺脚、拍手…接下来该做什么动作?"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 7,
+                "prompt": {
+                  "en": "A naughty puppy swapped one block in our train: Red, Blue, Red, GREEN, Red, Blue. Can you point your finger at the imposter block?",
+                  "ru": "Озорной щенок перепутал один вагончик в поезде: Красный, Синий, Красный, ЗЕЛЁНЫЙ, Красный, Синий. Покажи пальчиком на вагончик-обманщик!",
+                  "zh": "淘气的小狗把我们火车里的一节车厢偷偷掉包了: 红、蓝、红、绿、红、蓝。快用小手指指出来哪节车厢被搞错了?"
+                },
+                "solution": {
+                  "en": "The Green block! The pattern rule is Red followed by Blue. The fourth block should be Blue, not Green.",
+                  "ru": "Зелёный кубик! Правило узора: после красного всегда идёт синий. Четвёртым должен быть синий, а не зелёный.",
+                  "zh": "绿色积木!因为规律是红后跟蓝。第四个车厢按照规则必须是蓝色,绿色破坏了规律。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "prek_w3_l1",
+            "duration_minutes": 30,
+            "category": "Geometry",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Lesson A: Straight Yarn vs Curved Yarn",
+              "ru": "Урок А: Натянутая нить против изогнутой",
+              "zh": "A课: 紧绷直绳与弯曲曲线公理"
+            },
+            "objective": {
+              "en": "Experience Kiselev's straight line axiom physically: pulling a string taut produces the unique shortest path between hands.",
+              "ru": "Физически ощутить аксиому прямой Киселёва: туго натянутая нить создаёт кратчайший путь между ладонями.",
+              "zh": "通过手拉毛线直观领悟基谢廖夫直线公理: 双手拉紧时的直线是两点间唯一的最短路径。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 8,
+                "parent_script": {
+                  "en": "Take this soft wool yarn in your left hand, and I will hold it in my right hand. When the yarn is floppy and wavy, it is CURVED. But pull it tight! Pull! Look: It becomes straight as an arrow. Can we make it any shorter? No! That straight line is the shortest path between our hands.",
+                  "ru": "Возьми шерстяную ниточку в левую ручку, а я возьму в правую. Когда нить провисает волнами — она КРИВАЯ. А теперь потяни сильно! Тяни! Смотри: она стала прямой, как стрела. Можно сделать её ещё короче? Нет! Прямая линия — это самый короткий путь между нашими руками.",
+                  "zh": "你左手抓住这根软毛线,我右手抓住另一头。当毛线松松垮垮垂下来时,它是“弯曲的线”。现在用力往后拉紧!使劲拉!看: 它变得像箭一样笔直。还能让它变得更短吗?绝对不能了!这条拉紧的直线,就是我们两只手之间最近最近的距离。"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 15,
+                "activity": {
+                  "en": "1) Give child two toy toy dinosaurs placed 30 cm apart on the carpet.\n2) Lay down a curvy, wiggly green string path between them, and a straight yellow wooden stick.\n3) Have an ant toy walk both paths. Ask: 'Which path is quicker and has no wiggles?'",
+                  "ru": "1) Поставьте двух игрушечных динозавриков на расстоянии 30 см друг от друга.\n2) Проложите между ними извилистую верёвочку и положите прямую деревянную палочку.\n3) Проведите игрушечного муравья по обоим путям. Спросите: «Какой путь быстрее и без лишних поворотов?»",
+                  "zh": "1) 地毯上相距30厘米放两只玩具恐龙。\n2) 在它们之间分别摆一条弯弯曲曲的绿毛线,和一根笔直的黄色小木棒。\n3) 让小蚂蚁玩具分别走两条路。问: “哪条路更快、一步弯路都不用走?”"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 7,
+                "prompt": {
+                  "en": "A hungry squirrel sees a nut on the grass. Path 1 is straight. Path 2 bends around a big rock. If no dog is chasing her, which path should she run to get the nut first?",
+                  "ru": "Голодная белочка видит орешек на травке. Дорожка 1 — прямая. Дорожка 2 огибает большой камень дугой. Если вокруг безопасно, по какой дорожке белочка добежит быстрее всего?",
+                  "zh": "一只饿了的小松鼠看见草地上有一个大松果。1号小路是笔直笔直的; 2号小路绕着大石头兜了一个大弯。哪条路能让小松鼠最先吃到松果?"
+                },
+                "solution": {
+                  "en": "Path 1! Because a straight line is the shortest and fastest path between the squirrel and the nut.",
+                  "ru": "Дорожка 1! Потому что прямая линия — это самый короткий и быстрый путь между белочкой и орехом.",
+                  "zh": "1号笔直的小路!因为两点之间的直线是最近的捷径,不用绕弯子跑路。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "prek_w3_l2",
+            "duration_minutes": 30,
+            "category": "Geometry",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Lesson B: Inside, Outside, and Borderline (Jordan Loops)",
+              "ru": "Урок Б: Внутри, снаружи и граница (замкнутые кривые)",
+              "zh": "B课: 圈内、圈外与边界线 (闭合曲线公理)"
+            },
+            "objective": {
+              "en": "Understand topological space division: a closed loop creates an interior, an exterior, and an impassable boundary (early Jordan curve theorem).",
+              "ru": "Освоить топологическое деление пространства: замкнутый контур делит плоскость на внутри, снаружи и границу (теорема Жордана).",
+              "zh": "理解拓扑空间划分公理: 任何闭合的圈线都把空间严格分为圈内、圈外与不可逾越的边界线(若尔当曲线定理初阶)。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 8,
+                "parent_script": {
+                  "en": "Let us tie our rope into a magic circle fence on the floor. Look: The sheep is INSIDE the fence, eating grass safely. The wolf is OUTSIDE the fence in the forest. To get from outside to inside, the wolf MUST step across the rope boundary! If the fence has no gate, inside and outside never touch.",
+                  "ru": "Давай свяжем концы верёвочки и сделаем заборчик на полу. Смотри: овечка гуляет ВНУТРИ забора и кушает травку. Волк бродит СНАРУЖИ, в лесу. Чтобы волк попал к овечке, ему ОБЯЗАТЕЛЬНО нужно перешагнуть через верёвочную границу! Если забор закрыт, внутри и снаружи разделены навсегда.",
+                  "zh": "我们把绳子的两头打个结,在地上围成一个闭合的大围栏。看: 小羊在围栏的“里面”安全地吃草; 大灰狼在围栏的“外面”树林里。大灰狼要想抓小羊,就必须跨过这根绳子组成的“边界线”!只要围栏闭合没有开口,里面和外面就绝对分得清清楚楚。"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 15,
+                "activity": {
+                  "en": "1) Make a closed loop with yarn on the table.\n2) Place 3 toy sheep inside the loop. Place 1 wolf outside.\n3) Ask child: 'Can your finger walk from outside to inside without touching the rope? Try it! What if we open the rope gate?'",
+                  "ru": "1) Выложите замкнутое кольцо из верёвочки на столе.\n2) Поставьте 3 овечки внутрь кольца. Поставьте 1 волка снаружи.\n3) Спросите: «Может ли твой пальчик пройти снаружи внутрь, не коснувшись верёвки? Попробуй! А если развязать узелок?»",
+                  "zh": "1) 在桌上用毛线围成一个闭合圆环。\n2) 圈内放3只小羊玩具,圈外放1只狼。\n3) 让孩子用小手指当小人从外面走到圈里: “你的手指能在一次都不碰到绳子的情况下走进去吗?试一试!如果把绳子解开一个小缺口呢?”"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 7,
+                "prompt": {
+                  "en": "A little chick is sitting right on top of the rope fence! Is the chick inside the garden, outside the garden, or on the boundary line?",
+                  "ru": "Маленький цыплёнок сидит прямо на верёвочном заборчике! Он внутри сада, снаружи сада или на самой границе?",
+                  "zh": "一只小鸡不小心正好坐在了围栏的绳子正上方!这只小鸡算是在花园里面、花园外面,还是在边界线上?"
+                },
+                "solution": {
+                  "en": "On the boundary! The boundary line is neither strictly inside nor outside; it is the wall that separates them.",
+                  "ru": "На границе! Сама линия границы не является ни «внутри», ни «снаружи» — она разделяет эти две области.",
+                  "zh": "在边界线上!分界线既不属于纯里面,也不属于纯外面,它恰恰是把内外隔开的边界本身。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "prek_w4_l1",
+            "duration_minutes": 30,
+            "category": "Counting",
+            "methodology_focus": "Chinese",
+            "title": {
+              "en": "Lesson A: Subitizing 1, 2, 3 in a Single Glance",
+              "ru": "Урок А: Мгновенное распознавание 1, 2, 3 (субитизация)",
+              "zh": "A课: 1、2、3 瞬间识数 (无须点数)"
+            },
+            "objective": {
+              "en": "Recognize groups of 1, 2, and 3 instantly without counting one by one (Chinese mental arithmetic visual subitizing).",
+              "ru": "Научиться мгновенно узнавать количества 1, 2 и 3 без пересчёта по пальцам (визуальная субитизация китайской школы).",
+              "zh": "不通过掰手指一个一个数,而是在一眼之间瞬间识别1、2、3个物品的整体数量(中国算盘视觉化极速数感)。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 8,
+                "parent_script": {
+                  "en": "Look at my hand! In one second, I will open my fingers and close them. Ready? Flash! How many fingers did you see? TWO! You did not need to say 'one, two'. Your eyes took a photo like a camera! That is the secret superpower of mathematicians called Flash Counting.",
+                  "ru": "Посмотри на мою ладошку! Я на одну секунду покажу пальчики и спрячу. Готов? Вспышка! Сколько пальчиков мелькнуло? ДВА! Тебе даже не пришлось считать «один, два». Твои глазки сфотографировали их, как камера! Это суперсила математиков — счёт-вспышка.",
+                  "zh": "看着我的手!我只张开一秒钟就会马上合拢。准备好了吗?看——闪!刚才有几个手指头?2个!你根本不需要心里数“一、二”,你的小眼睛就像照相机一样咔嚓一下拍下来了!这就是数学家神奇的特异功能——“拍照识数法”。"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 15,
+                "activity": {
+                  "en": "1) Prepare paper cards with 1, 2, and 3 bold black dots in triangular or domino patterns.\n2) Flash each card for exactly 1 second, then hide behind your back. Ask child to shout the number.\n3) Have child slap table once for 1 dot, twice for 2 dots, three times for 3 dots.",
+                  "ru": "1) Подготовьте карточки с 1, 2 и 3 крупными чёрными точками (как на домино).\n2) Показывайте карточку ровно на 1 секунду и прячьте за спину. Ребёнок громко называет число.\n3) Попросите хлопнуть по столу: 1 раз для одной точки, 2 раза для двух, 3 раза для трёх.",
+                  "zh": "1) 准备几张点子卡,上面画着粗大的1、2、3个黑圆点(呈多米诺骨牌排列)。\n2) 每次只给孩子看1秒钟立即藏到背后。让孩子脱口而出报出数字。\n3) 动作互动: 看到1个点拍桌子一下,看到2个点拍两下,看到3个点拍三下。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 7,
+                "prompt": {
+                  "en": "A mama bird has 3 hungry baby birds in the nest. Mama brings 2 juicy worms. Can each baby have a full worm all to itself?",
+                  "ru": "У мамы-птички в гнёздышке 3 голодных птенчика. Мама принесла 2 вкусных червячка. Хватит ли каждому птенчику по целому червячку?",
+                  "zh": "鸟窝里有3只张着大嘴巴嗷嗷待哺的雏鸟。鸟妈妈嘴里衔回来2条虫子。每只小雏鸟都能独自吃上一整条虫子吗?"
+                },
+                "solution": {
+                  "en": "No! There are 3 babies and only 2 worms. 2 is less than 3, so one baby bird will have to wait for the next turn.",
+                  "ru": "Нет! Птенцов 3, а червячков только 2. 2 меньше 3, поэтому одному птенчику червячка не достанется.",
+                  "zh": "不够!有3只鸟宝宝,却只有2条虫子。2比3少,必定有一只鸟宝宝暂时吃不到整条虫子。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "prek_w4_l2",
+            "duration_minutes": 30,
+            "category": "Probability",
+            "methodology_focus": "Oxford",
+            "title": {
+              "en": "Lesson B: Certain vs Impossible (The Blind Bag)",
+              "ru": "Урок Б: Достоверно и невозможно (волшебный мешочек)",
+              "zh": "B课: 必然发生与绝不可能 (盲袋概率启蒙)"
+            },
+            "objective": {
+              "en": "Distinguish between events that are guaranteed to happen vs events that cannot happen (Oxford probabilistic reasoning foundation).",
+              "ru": "Научиться различать события, которые произойдут обязательно (достоверно), и те, которые не могут произойти никогда (невозможно).",
+              "zh": "学会区分什么是“一定会发生的(必然)”与什么是“绝不可能发生的(不可能)”(牛津概率论早教基石)。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 8,
+                "parent_script": {
+                  "en": "I have a secret velvet bag. Inside this bag, I place ONLY red apples. I close my eyes and reach inside. Will I pull out a red apple? YES, absolutely guaranteed! But could I pull out a live swimming elephant? NO! That is completely IMPOSSIBLE! In math, some things are certain, and some things are impossible.",
+                  "ru": "У меня в руках волшебный бархатный мешочек. Я кладу туда ТОЛЬКО красные яблоки. Закрываю глаза и опускаю руку. Достану ли я красное яблоко? ДА, обязательно и гарантированно! А смогу ли я достать оттуда живого плавающего слона? НЕТ! Это совершенно НЕВОЗМОЖНО! В математике одни вещи происходят наверняка, а другие — невозможны.",
+                  "zh": "我手里有一个小丝绒袋。我在袋子里只放了红苹果。我现在闭上眼睛伸进袋子里摸。我能摸出一个红苹果吗?当然能,100%绝对能摸到!那我能从这个袋子里摸出一只活生生会游泳的大象吗?绝对不可能!在数学里,有些事情叫“一定会发生”,有些事情叫“绝不可能发生”。"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 15,
+                "activity": {
+                  "en": "1) Put 4 blue lego bricks into an opaque cloth bag in front of child.\n2) Ask child: 'If you close your eyes and take one brick, will it be blue? Is it certain or impossible?'\n3) Ask: 'Could you pull out a purple dinosaur from this bag? Why is that impossible?'",
+                  "ru": "1) Положите 4 синих кубика лего в непрозрачный мешочек на глазах у ребёнка.\n2) Спросите: «Если ты закроешь глазки и вынешь один кубик, будет ли он синим? Это гарантировано или невозможно?»\n3) Спросите: «А можно ли вынуть фиолетового динозаврика? Почему это невозможно?»",
+                  "zh": "1) 当着孩子的面把4块蓝色乐高积木放进不透明的布袋里。\n2) 问孩子: “闭上眼睛摸出一块积木,它一定是蓝色的吗?这是必然的还是不可能的?”\n3) 问: “你能从这个袋子里摸出一只紫色恐龙吗?为什么绝不可能?”"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 7,
+                "prompt": {
+                  "en": "The sun went down, and the sky turned dark with stars. Is it certain or impossible that tomorrow morning the sun will rise up again in the sky?",
+                  "ru": "Солнышко село, на небе зажглись звёздочки и наступила ночь. Достоверно или невозможно, что завтра утром солнышко снова поднимется на небо?",
+                  "zh": "太阳落山了,天空变黑了,满天都是小星星。明天早晨太阳一定会再次从天边升起来吗?这是必然的还是不可能的?"
+                },
+                "solution": {
+                  "en": "It is CERTAIN! The cycle of day and night always repeats; the sun will definitely rise.",
+                  "ru": "Это ДОСТОВЕРНО (гарантировано)! День и ночь сменяют друг друга по строгому закону природы, солнышко обязательно взойдёт.",
+                  "zh": "这是必然的!大自然白天和黑夜的循环法则永恒不变,明天早晨太阳一定会再次照常升起。"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

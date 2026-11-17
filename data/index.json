@@ -1,0 +1,1267 @@
+{
+  "files": [
+    "curriculum_prek.json",
+    "curriculum.json",
+    "curriculum_elementary.json"
+  ],
+  "stages": [
+    {
+      "id": "prek",
+      "ages": "3–4",
+      "name": {
+        "en": "Pre-K",
+        "ru": "Младшая группа",
+        "zh": "幼儿园小/中班"
+      },
+      "icon": "🧸",
+      "desc": {
+        "en": "Sorting by color & size, counting 1–10 with toys, basic shapes, and simple AB patterns",
+        "ru": "Сортировка по цвету и размеру, счёт от 1 до 10 на игрушках, простые фигуры и узоры",
+        "zh": "按颜色与大小分类、1–10实物数数、认识基本图形与简单规律"
+      }
+    },
+    {
+      "id": "kindergarten_01",
+      "ages": "5–6",
+      "name": {
+        "en": "Kindergarten",
+        "ru": "Подготовительный",
+        "zh": "幼儿园大班/幼小衔接"
+      },
+      "icon": "🎨",
+      "desc": {
+        "en": "Counting 1–20, ten-frames, adding & subtracting within 10, flat & 3D shapes, clock hours, and coins",
+        "ru": "Счёт до 20, десяток, сложение и вычитание в пределах 10, фигуры, часы и монеты",
+        "zh": "1–20数数与比较、十格框、10以内加减法、平面与立体图形、认钟表与硬币"
+      }
+    },
+    {
+      "id": "elem_g1",
+      "ages": "6–7",
+      "name": {
+        "en": "Grade 1",
+        "ru": "1 класс",
+        "zh": "小学一年级"
+      },
+      "icon": "🎒",
+      "desc": {
+        "en": "Numbers to 100, make-a-ten addition & subtraction, ruler measurement in cm, time, and missing-number puzzles",
+        "ru": "Числа до 100, счёт через десяток, измерение линейкой в см, время и задачи с окошком",
+        "zh": "100以内数的认识、凑十法与破十法、厘米直尺测量、认识时间与填未知数"
+      }
+    },
+    {
+      "id": "elem_g2",
+      "ages": "7–8",
+      "name": {
+        "en": "Grade 2",
+        "ru": "2 класс",
+        "zh": "小学二年级"
+      },
+      "icon": "🚀",
+      "desc": {
+        "en": "Two-digit addition & subtraction with regrouping, multiplication & division tables, perimeter, and bar models",
+        "ru": "Сложение и вычитание в столбик с переходом, таблица умножения и деления, периметр и схемы",
+        "zh": "两位数进退位竖式加减、九九乘法与表内除法、图形周长与线段图应用题"
+      }
+    },
+    {
+      "id": "elem_g3",
+      "ages": "8–9",
+      "name": {
+        "en": "Grade 3",
+        "ru": "3 класс",
+        "zh": "小学三年级"
+      },
+      "icon": "💡",
+      "desc": {
+        "en": "Multi-digit multiplication & long division, area of rectangles, fractions, two-step equations, and motion problems",
+        "ru": "Многозначное умножение и деление уголком, площадь, дроби, двухшаговые уравнения и задачи на движение",
+        "zh": "多位数乘除竖式、长方形面积、分数初步、两步方程与行程问题"
+      }
+    },
+    {
+      "id": "elem_g4",
+      "ages": "9–10",
+      "name": {
+        "en": "Grade 4",
+        "ru": "4 класс",
+        "zh": "小学四年级"
+      },
+      "icon": "🏛️",
+      "desc": {
+        "en": "Decimals & fractions, angles & triangles, area of polygons, factors & multiples, and Olympiad logic",
+        "ru": "Десятичные и обыкновенные дроби, углы и треугольники, площади фигур, делимость и олимпиадная логика",
+        "zh": "小数与分数运算、角与三角形内角和、多边形面积、因数与倍数及奥数逻辑"
+      }
+    }
+  ],
+  "terms": {
+    "1": {
+      "name": {
+        "en": "Term 1: Foundations",
+        "ru": "1-я четверть: Основы",
+        "zh": "第1学段: 概念奠基"
+      },
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "2": {
+      "name": {
+        "en": "Term 2: Core Expansion",
+        "ru": "2-я четверть: Развитие",
+        "zh": "第2学段: 结构拓展"
+      },
+      "weeks": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    "3": {
+      "name": {
+        "en": "Term 3: Logic & Space",
+        "ru": "3-я четверть: Логика и геометрия",
+        "zh": "第3学段: 算法与空间"
+      },
+      "weeks": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    "4": {
+      "name": {
+        "en": "Term 4: Olympiad Mastery",
+        "ru": "4-я четверть: Олимпиадный финал",
+        "zh": "第4学段: 奥数与通关"
+      },
+      "weeks": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    }
+  },
+  "weeks": {
+    "prek": {
+      "1": {
+        "en": "Sorting Toys by Color",
+        "ru": "Сортировка игрушек по цвету",
+        "zh": "按颜色给玩具分类"
+      },
+      "2": {
+        "en": "Big, Medium, and Small",
+        "ru": "Большой, средний и маленький",
+        "zh": "大、中、小比一比"
+      },
+      "3": {
+        "en": "Straight Paths and Curved Paths",
+        "ru": "Прямые и кривые дорожки",
+        "zh": "直直的路和弯弯的路"
+      },
+      "4": {
+        "en": "Inside, Outside, and On the Line",
+        "ru": "Внутри, снаружи и на границе",
+        "zh": "圈里、圈外与线上"
+      },
+      "5": {
+        "en": "Seeing 1, 2, and 3 Instantly",
+        "ru": "Узнаём 1, 2 и 3 с первого взгляда",
+        "zh": "一眼认出 1、2、3"
+      },
+      "6": {
+        "en": "Red-Blue-Red-Blue Repeating Patterns",
+        "ru": "Повторяющиеся узоры: красный-синий",
+        "zh": "红蓝交替的重复规律"
+      },
+      "7": {
+        "en": "Heavy and Light on Our Hands",
+        "ru": "Тяжёлый и лёгкий на ладошках",
+        "zh": "小手掂一掂: 轻与重"
+      },
+      "8": {
+        "en": "Circles and Squares Around the Room",
+        "ru": "Круги и квадраты в нашей комнате",
+        "zh": "房间里的圆形和正方形"
+      },
+      "9": {
+        "en": "Term 1 Game: The Great Toy Sort",
+        "ru": "Игра 1-й четверти: Большая сортировка игрушек",
+        "zh": "第1学段游戏: 玩具分类大冒险"
+      },
+      "10": {
+        "en": "The Number 1: One Sun, One Nose",
+        "ru": "Число 1: одно солнышко, один носик",
+        "zh": "认识数字 1: 一个太阳一个鼻子"
+      },
+      "11": {
+        "en": "The Number 2: Pairs of Shoes and Hands",
+        "ru": "Число 2: пара сапожек и две ладошки",
+        "zh": "认识数字 2: 一双鞋子两只手"
+      },
+      "12": {
+        "en": "The Number 3: Three Bears & Triangles",
+        "ru": "Число 3: три медведя и треугольник",
+        "zh": "认识数字 3: 三只小熊与三角形"
+      },
+      "13": {
+        "en": "The Number 4: Four Chair Legs & Squares",
+        "ru": "Число 4: четыре ножки стула и квадрат",
+        "zh": "认识数字 4: 四条椅腿与正方形"
+      },
+      "14": {
+        "en": "The Number 5: Five Fingers on One Hand",
+        "ru": "Число 5: пять пальчиков на ладошке",
+        "zh": "认识数字 5: 一只小手五根手指"
+      },
+      "15": {
+        "en": "Tall vs. Wide Cups: Same Amount of Water",
+        "ru": "Высокий и широкий стаканы: воды поровну",
+        "zh": "高杯子与宽杯子: 水一样多"
+      },
+      "16": {
+        "en": "Up, Down, Front, and Back",
+        "ru": "Вверх, вниз, вперёд и назад",
+        "zh": "空间方位: 上、下、前、后"
+      },
+      "17": {
+        "en": "More, Fewer, or the Same (Pairing Toys)",
+        "ru": "Больше, меньше или поровну (пары игрушек)",
+        "zh": "多、少与一样多 (玩具配对)"
+      },
+      "18": {
+        "en": "Term 2 Game: Five-Finger Carnival",
+        "ru": "Игра 2-й четверти: Праздник пяти пальчиков",
+        "zh": "第2学段游戏: 五指游园会"
+      },
+      "19": {
+        "en": "Ways to Make 3: 1 and 2 Together",
+        "ru": "Состав числа 3: 1 да 2",
+        "zh": "3 的分合: 1 和 2 合起来是 3"
+      },
+      "20": {
+        "en": "Ways to Make 4: 2 and 2, 3 and 1",
+        "ru": "Состав числа 4: 2 да 2, 3 да 1",
+        "zh": "4 的分合: 2 和 2、3 和 1"
+      },
+      "21": {
+        "en": "Ways to Make 5: Finger Hiding Game",
+        "ru": "Состав числа 5: прятки на пальчиках",
+        "zh": "5 的分合: 手指捉迷藏"
+      },
+      "22": {
+        "en": "Morning, Afternoon, Evening, and Night",
+        "ru": "Утро, день, вечер и ночь",
+        "zh": "认识时间顺序: 早晨、中午、晚上"
+      },
+      "23": {
+        "en": "Butterfly Wings: Matching Halves",
+        "ru": "Крылья бабочки: одинаковые половинки",
+        "zh": "蝴蝶翅膀: 左右对称的图形"
+      },
+      "24": {
+        "en": "Sorting by Two Clues: Red AND Round",
+        "ru": "Два признака сразу: красный И круглый",
+        "zh": "按两个特征找一找: 既红又圆"
+      },
+      "25": {
+        "en": "Following a Path Through a Simple Maze",
+        "ru": "Проходим простой лабиринт пальчиком",
+        "zh": "小手指走迷宫"
+      },
+      "26": {
+        "en": "Fair Sharing: One for You, One for Me",
+        "ru": "Делим поровну: один тебе, один мне",
+        "zh": "公平分果果: 你一个,我一个"
+      },
+      "27": {
+        "en": "Term 3 Game: Teddy Bear Picnic Party",
+        "ru": "Игра 3-й четверти: Пикник с мишками",
+        "zh": "第3学段游戏: 小熊野餐会"
+      },
+      "28": {
+        "en": "Numbers 6 and 7: Five Fingers Plus More",
+        "ru": "Числа 6 и 7: ладошка и ещё пальчики",
+        "zh": "认识数字 6 和 7: 5 根手指再加几"
+      },
+      "29": {
+        "en": "Numbers 8 and 9: Counting Toys in a Row",
+        "ru": "Числа 8 и 9: считаем игрушки в ряду",
+        "zh": "认识数字 8 和 9: 排好队数一数"
+      },
+      "30": {
+        "en": "The Number 10: All Ten Fingers!",
+        "ru": "Число 10: все десять пальчиков!",
+        "zh": "认识数字 10: 双手十根手指!"
+      },
+      "31": {
+        "en": "Putting 1 More On & Taking 1 Away",
+        "ru": "На один больше и на один меньше",
+        "zh": "添上 1 个与拿走 1 个"
+      },
+      "32": {
+        "en": "3D Shapes: Balls That Roll & Blocks That Stack",
+        "ru": "Шар и кубик: что катится, а что строится",
+        "zh": "立体形状: 会滚的球和能搭的积木"
+      },
+      "33": {
+        "en": "Longer and Shorter: Measuring with Blocks",
+        "ru": "Длиннее и короче: измеряем кубиками",
+        "zh": "长与短: 用积木量一量"
+      },
+      "34": {
+        "en": "Which One Does Not Belong? (Odd One Out)",
+        "ru": "Четвёртый лишний: найди отличие",
+        "zh": "找不同: 哪一个不属于这里?"
+      },
+      "35": {
+        "en": "Counting Backwards: 5, 4, 3, 2, 1, Blast Off!",
+        "ru": "Обратный счёт: 5, 4, 3, 2, 1 — Пуск!",
+        "zh": "倒着数一数: 5、4、3、2、1 发射!"
+      },
+      "36": {
+        "en": "Pre-K Graduation Math Treasure Hunt",
+        "ru": "Выпускной праздник математики Pre-K",
+        "zh": "小中班毕业数学寻宝游戏"
+      }
+    },
+    "kindergarten_01": {
+      "1": {
+        "en": "Sorting & Grouping Objects by Rule",
+        "ru": "Сортировка и объединение предметов в группы",
+        "zh": "按规则给物品分类与归组"
+      },
+      "2": {
+        "en": "Matching One-to-One: Equal, More, or Fewer",
+        "ru": "Сопоставление парами: поровну, больше, меньше",
+        "zh": "一一配对: 一样多、谁多、谁少"
+      },
+      "3": {
+        "en": "Counting 1 to 5 & What a Number Means",
+        "ru": "Счёт от 1 до 5 и смысл числа",
+        "zh": "认识 1 到 5: 数量与数字对应"
+      },
+      "4": {
+        "en": "Straight Lines, Curved Lines & Shortest Path",
+        "ru": "Прямая и кривая линии: кратчайшая дорожка",
+        "zh": "直线与曲线: 两点之间直路最近"
+      },
+      "5": {
+        "en": "Ten-Frames: Seeing Numbers 1 to 10",
+        "ru": "Рамка десяти: наглядные числа от 1 до 10",
+        "zh": "十格框游戏: 轻松认识 1 到 10"
+      },
+      "6": {
+        "en": "Inside, Outside, Left, Right, Above & Below",
+        "ru": "Внутри, снаружи, слева, справа, вверху и внизу",
+        "zh": "空间方位: 里外、左右与上下"
+      },
+      "7": {
+        "en": "Number Bonds: Breaking 6, 7, 8, 9 into Parts",
+        "ru": "Состав чисел 6, 7, 8 и 9 из двух частей",
+        "zh": "数字分合: 6、7、8、9 可以分成几和几"
+      },
+      "8": {
+        "en": "The Number Track 0 to 10 & First, Second, Third",
+        "ru": "Числовая дорожка 0–10: сколько всего и который по счёту",
+        "zh": "0 到 10 数字轨道: 几个与第几个"
+      },
+      "9": {
+        "en": "Term 1 Game: Overlapping Sorting Circles",
+        "ru": "Игра 1-й четверти: Пересекающиеся круги сортировки",
+        "zh": "第1学段游戏: 双圈分类大挑战"
+      },
+      "10": {
+        "en": "Addition Stories Within 10: Putting Together",
+        "ru": "Задачи на сложение до 10: объединяем группы",
+        "zh": "10以内加法故事: 合起来一共有多少"
+      },
+      "11": {
+        "en": "Subtraction Stories Within 10: Taking Away",
+        "ru": "Задачи на вычитание до 10: сколько осталось",
+        "zh": "10以内减法故事: 拿走后还剩多少"
+      },
+      "12": {
+        "en": "Flat Shapes: Triangles, Squares & Rectangles",
+        "ru": "Плоские фигуры: треугольник, квадрат, прямоугольник",
+        "zh": "认识平面图形: 三角形、正方形与长方形"
+      },
+      "13": {
+        "en": "Friends of 10: All Pairs That Make 10",
+        "ru": "Друзья десятки: все пары чисел, дающие 10",
+        "zh": "凑十好朋友: 哪两个数合起来是 10"
+      },
+      "14": {
+        "en": "Teen Numbers 11 to 20: One Ten and Extra Ones",
+        "ru": "Числа от 11 до 20: один десяток и единицы",
+        "zh": "认识 11 到 20: 一捆十和几个一"
+      },
+      "15": {
+        "en": "Folding Shapes in Half: Mirror Symmetry",
+        "ru": "Складываем фигуры пополам: зеркальная симметрия",
+        "zh": "图形对折游戏: 左右对称"
+      },
+      "16": {
+        "en": "Repeating & Growing Patterns (AB, ABB & Staircases)",
+        "ru": "Повторяющиеся и растущие узоры (AB, ABB и лесенки)",
+        "zh": "重复规律与递增规律 (AB、ABB与阶梯生长)"
+      },
+      "17": {
+        "en": "Telling Time to the Hour (O'Clock)",
+        "ru": "Часы со стрелками: определяем ровный час",
+        "zh": "认识整点钟表: 现在几点了"
+      },
+      "18": {
+        "en": "Term 2 Game: Little Robot Treasure Map",
+        "ru": "Игра 2-й четверти: Карта сокровищ для робота",
+        "zh": "第2学段游戏: 小机器人寻宝图"
+      },
+      "19": {
+        "en": "Counting in Equal Groups (2s and 5s)",
+        "ru": "Счёт равными группами (по 2 и по 5)",
+        "zh": "几个几个地数: 两个一数与五个一数"
+      },
+      "20": {
+        "en": "Rows and Columns: Counting in Neat Grids",
+        "ru": "Ряды и столбики: считаем предметы в табличке",
+        "zh": "排成整齐的几行几列数一数"
+      },
+      "21": {
+        "en": "Missing Number Puzzles: ? + 3 = 7",
+        "ru": "Загадки с окошком: □ + 3 = 7 на весах",
+        "zh": "填未知数游戏: □ + 3 = 7"
+      },
+      "22": {
+        "en": "Walking Around the Edge of a Shape",
+        "ru": "Обходим границу фигуры по периметру",
+        "zh": "沿着图形边缘走一圈有多长"
+      },
+      "23": {
+        "en": "Even and Odd Numbers: Pairing Up by Twos",
+        "ru": "Чётные и нечётные числа: у всех ли есть пара?",
+        "zh": "单数与双数: 两两拉手找朋友"
+      },
+      "24": {
+        "en": "Sorting with Two Loops: Red AND Triangle",
+        "ru": "Сортировка в два кольца: красные треугольники",
+        "zh": "双圈交集游戏: 既是红色又是三角形"
+      },
+      "25": {
+        "en": "Days of the Week & Months of the Year",
+        "ru": "Дни недели и времена года по порядку",
+        "zh": "认识星期与月份的循环顺序"
+      },
+      "26": {
+        "en": "Sharing Equally: Halves and Quarters of a Pie",
+        "ru": "Делим пирог поровну: половинка и четвертинка",
+        "zh": "平分披萨: 一半与四分之一"
+      },
+      "27": {
+        "en": "Term 3 Game: Tangram Shape Builders",
+        "ru": "Игра 3-й четверти: Строители из Танграма",
+        "zh": "第3学段游戏: 七巧板拼图大师"
+      },
+      "28": {
+        "en": "Measuring Length in Centimeters with a Ruler",
+        "ru": "Измеряем длину в сантиметрах линейкой от нуля",
+        "zh": "用厘米直尺从 0 刻度开始量长度"
+      },
+      "29": {
+        "en": "Mystery Bag Game: Likely or Impossible?",
+        "ru": "Игра с мешочком: какого цвета больше?",
+        "zh": "神秘摸球袋: 摸到哪种颜色更容易?"
+      },
+      "30": {
+        "en": "3D Shapes: Cubes, Spheres, Cylinders & Cones",
+        "ru": "Объёмные фигуры: куб, шар, цилиндр и конус",
+        "zh": "认识立体图形: 正方体、球、圆柱与圆锥"
+      },
+      "31": {
+        "en": "Skip Counting by 2s, 5s, and 10s to 50",
+        "ru": "Счёт двойками, пятёрками и десятками до 50",
+        "zh": "跳着数到 50: 2个、5个、10个一数"
+      },
+      "32": {
+        "en": "Yes-or-No Guessing Game: Narrowing Clues",
+        "ru": "Игра «Да или Нет»: угадываем фигуру по вопросам",
+        "zh": "“是或否”猜谜游戏: 一步步缩小范围"
+      },
+      "33": {
+        "en": "Visual Logic Puzzles & Problem-Posing Stories",
+        "ru": "Наглядные логические задачи и придумывание своих задач",
+        "zh": "视觉逻辑谜题与自己编数学故事"
+      },
+      "34": {
+        "en": "Drawing Figures Without Lifting the Pencil",
+        "ru": "Рисуем фигуру одним росчерком без отрыва",
+        "zh": "一笔画游戏: 不抬笔画出图形"
+      },
+      "35": {
+        "en": "Coins & Play Store: 1, 5, and 10 Cents",
+        "ru": "Магазин и монеты: 1, 5 и 10 копеек/центов",
+        "zh": "小小商店认识硬币: 1分、5分与1角"
+      },
+      "36": {
+        "en": "Kindergarten Graduation Math Celebration",
+        "ru": "Выпускной математический праздник детского сада",
+        "zh": "幼儿园大班毕业数学嘉年华"
+      }
+    },
+    "elem_g1": {
+      "1": {
+        "en": "Place Value to 100 & Balance Equations x+a=b",
+        "ru": "Разряды до 100 и уравнения на весах x+a=b",
+        "zh": "100以内数位与天平简单方程 x+a=b"
+      },
+      "2": {
+        "en": "Ruler Geometry: Measuring & Adding Line Segments",
+        "ru": "Геометрия линейки: измерение и сложение отрезков",
+        "zh": "直尺几何: 线段的测量与相加"
+      },
+      "3": {
+        "en": "Mental Make-a-Ten & Break-a-Ten Strategies",
+        "ru": "Стратегии счёта через десяток в сложении и вычитании",
+        "zh": "心算策略: 凑十法与破十法"
+      },
+      "4": {
+        "en": "Grid Maps & Spatial Directions",
+        "ru": "Клетчатая карта: маршруты и координаты",
+        "zh": "方格地图与位置方向"
+      },
+      "5": {
+        "en": "Even & Odd Numbers: Why Odd + Odd = Even",
+        "ru": "Чётные и нечётные числа: почему Нечёт + Нечёт = Чёт",
+        "zh": "奇偶性规律: 为什么奇数加奇数等于偶数"
+      },
+      "6": {
+        "en": "Pictorial Bar Models: Part-Whole & Comparison Stories",
+        "ru": "Наглядные схемы-отрезки: задачи на части и сравнение",
+        "zh": "图形表征(条形图): 部分与整体及比多少应用题"
+      },
+      "7": {
+        "en": "Analog Clock: Hours, Half-Hours & Quarter-Hours",
+        "ru": "Стрелочные часы: час, полчаса и четверть часа",
+        "zh": "认识钟表: 整点、半点与一刻钟"
+      },
+      "8": {
+        "en": "Logical Reasoning: Worst-Case Sock Drawer Puzzles",
+        "ru": "Логические задачи: носки в тёмном ящике",
+        "zh": "逻辑推理: 摸袜子最不利思考法"
+      },
+      "9": {
+        "en": "Term 1 Capstone: Grade 1 Math Challenge",
+        "ru": "Финал 1-й четверти: Праздник задач 1 класса",
+        "zh": "第1学段通关挑战: 一年级综合思维闯关"
+      },
+      "10": {
+        "en": "Adding Two-Digit Numbers: Tens and Ones Strategy",
+        "ru": "Сложение двузначных чисел: десятки с десятками, единицы с единицами",
+        "zh": "两位数加法: 十位与个位拆分策略"
+      },
+      "11": {
+        "en": "Inverse Operations: Using Addition to Check Subtraction",
+        "ru": "Обратные действия: проверяем вычитание сложением",
+        "zh": "加减互逆关系: 用加法检验减法"
+      },
+      "12": {
+        "en": "Exploring 2D Triangles: Sides & Corners",
+        "ru": "Исследуем треугольники: стороны и углы",
+        "zh": "探索平面三角形: 边与角的特征"
+      },
+      "13": {
+        "en": "Regrouping Ones into Tens: Visual & Mental Strategies",
+        "ru": "Переход через десяток: наглядные модели и быстрый счёт",
+        "zh": "满十进一: 直观建模与凑整巧算策略"
+      },
+      "14": {
+        "en": "Early Algebraic Thinking: Unknowns in Subtraction (x - a = b)",
+        "ru": "Раннее алгебраическое мышление: неизвестное уменьшаемое (x − a = b)",
+        "zh": "早期代数思维: 减法中的未知数 (x - a = b)"
+      },
+      "15": {
+        "en": "Perimeter: Measuring Around Rectangles and Triangles",
+        "ru": "Периметр: длина границы прямоугольника и треугольника",
+        "zh": "周长启蒙: 测量长方形与三角形的一周"
+      },
+      "16": {
+        "en": "Place Value Strategies: Mental Compensation (+9, +19, -9)",
+        "ru": "Разрядные стратегии: устный счёт с округлением (+9, +19, −9)",
+        "zh": "数位心算策略: 凑整多退少补法 (+9, +19, -9)"
+      },
+      "17": {
+        "en": "Everyday Chance: Certain, Likely, Unlikely, Impossible",
+        "ru": "Случайность вокруг нас: точно, вероятно, невозможно",
+        "zh": "生活中的可能性: 一定、可能与不可能"
+      },
+      "18": {
+        "en": "Term 2 Capstone: The Number Detective Vault",
+        "ru": "Финал 2-й четверти: Сейф числового детектива",
+        "zh": "第2学段通关挑战: 数字侦探密码箱"
+      },
+      "19": {
+        "en": "Equal Groups & Visual Array Models",
+        "ru": "Равные группы и прямоугольные ряды предметов",
+        "zh": "相同数连加与直观阵列图"
+      },
+      "20": {
+        "en": "Turning Arrays: Why 3 Groups of 5 Equals 5 Groups of 3",
+        "ru": "Поворот таблицы: почему 3 раза по 5 равно 5 раз по 3",
+        "zh": "旋转点阵: 为什么3个5等于5个3"
+      },
+      "21": {
+        "en": "Fair Sharing & Grouping Equally",
+        "ru": "Деление поровну и раскладывание по группам",
+        "zh": "平均分与按每份几个分"
+      },
+      "22": {
+        "en": "Sharing with Leftovers: Remainders in Action",
+        "ru": "Деление с остатком на наглядных предметах",
+        "zh": "分物有剩余: 余数的直观发现"
+      },
+      "23": {
+        "en": "2D Shape Symmetry & Paper Folding Proofs",
+        "ru": "Осевая симметрия плоских фигур и сгибание бумаги",
+        "zh": "平面图形对称性与折纸验证"
+      },
+      "24": {
+        "en": "Multi-Step Word Problems: Drawing Pictorial Diagrams",
+        "ru": "Многошаговые текстовые задачи: рисуем схему и объясняем вслух",
+        "zh": "多步应用题: 画图分析与大声说理"
+      },
+      "25": {
+        "en": "Time Intervals: How Many Minutes Have Passed?",
+        "ru": "Интервалы времени: сколько минут прошло?",
+        "zh": "时间经过计算: 过了多少分钟?"
+      },
+      "26": {
+        "en": "Picture Graphs, Tally Marks & Bar Charts",
+        "ru": "Таблицы, подсчёт пятёрками и столбчатые диаграммы",
+        "zh": "统计表、“正”字记录与条形统计图"
+      },
+      "27": {
+        "en": "Term 3 Capstone: The Math Fair Mystery",
+        "ru": "Финал 3-й четверти: Математическая ярмарка",
+        "zh": "第3学段通关挑战: 数学游园会解密"
+      },
+      "28": {
+        "en": "Subtracting Two-Digit Numbers: Unbundling a Ten",
+        "ru": "Вычитание двузначных чисел: развязываем десяток",
+        "zh": "两位数退位减法: 拆开一捆十的策略"
+      },
+      "29": {
+        "en": "Two-Step Balance Puzzles: x + a - b = c",
+        "ru": "Двухшаговые задачи на весах: x + a − b = c",
+        "zh": "两步天平推理: x + a - b = c"
+      },
+      "30": {
+        "en": "2D to 3D: Unfolding a Cube into 6 Squares",
+        "ru": "От 2D к 3D: развёртка куба из 6 квадратов",
+        "zh": "从平面到立体: 正方体的6格展开图"
+      },
+      "31": {
+        "en": "Properties of 2D Shapes: Composing & Decomposing Polygons",
+        "ru": "Свойства плоских фигур (2D): составление и разрезание многоугольников",
+        "zh": "平面图形深度探索: 多边形的拼组与分割"
+      },
+      "32": {
+        "en": "Working Backwards: Mystery Number Chains",
+        "ru": "Решаем с конца: цепочки загадочных чисел",
+        "zh": "逆向倒推法: 神秘数字链条"
+      },
+      "33": {
+        "en": "Visual Logic Grids & Elimination Puzzles",
+        "ru": "Логические таблицы и задачи методом исключения",
+        "zh": "视觉逻辑表格与排除法推理"
+      },
+      "34": {
+        "en": "Counting Combinations: Outfits & Menu Choices",
+        "ru": "Перебор вариантов: наряды и дерево выбора",
+        "zh": "搭配中的学问: 连线法与树状图"
+      },
+      "35": {
+        "en": "Money Word Problems: Buying Items & Making Change",
+        "ru": "Задачи про покупки: стоимость, оплата и сдача",
+        "zh": "人民币/货币应用题: 购物付钱与找零"
+      },
+      "36": {
+        "en": "Grade 1 Grand Math Celebration & Olympiad",
+        "ru": "Большая итоговая олимпиада 1 класса",
+        "zh": "一年级全学年数学思维总决选"
+      }
+    },
+    "elem_g2": {
+      "1": {
+        "en": "Multi-Digit Addition, Subtraction & Polygon Perimeter",
+        "ru": "Многозначные вычисления и периметр многоугольников",
+        "zh": "多位数加减进阶与多边形周长"
+      },
+      "2": {
+        "en": "Array Multiplication & Commutative Law",
+        "ru": "Умножение прямоугольных массивов и переместительный закон",
+        "zh": "乘法点阵模型与乘法交换律"
+      },
+      "3": {
+        "en": "Multi-Step Logic Rules & Decision Trees",
+        "ru": "Логические правила «Если — То» и деревья решений",
+        "zh": "多步逻辑规则与条件决策树"
+      },
+      "4": {
+        "en": "Subtracting Across Zero: Regrouping & Compensation Tricks",
+        "ru": "Вычитание через ноль: размен разрядов и приём «минус 1»",
+        "zh": "隔位退位减法与“同减1”速算巧思"
+      },
+      "5": {
+        "en": "Shape Properties: Angles of Triangles & Quadrilaterals",
+        "ru": "Свойства фигур: сумма углов треугольника и четырёхугольника",
+        "zh": "几何图形性质: 三角形与四边形的内角和"
+      },
+      "6": {
+        "en": "Number Theory (Honors): Parity & Divisibility by 2, 5, and 10",
+        "ru": "Теория чисел (Honors): чётность и признаки делимости на 2, 5 и 10",
+        "zh": "数论与袋鼠竞赛 (Honors): 奇偶性与 2、5、10 的整除特征"
+      },
+      "7": {
+        "en": "Multiplication Tables: Square Numbers & Symmetry Patterns",
+        "ru": "Таблица умножения: квадраты чисел и симметрия",
+        "zh": "九九乘法表规律: 完全平方数与对称性"
+      },
+      "8": {
+        "en": "Foundations of Fractions: Halves, Thirds & Quarters of a Whole",
+        "ru": "Основы дробей: половина, треть и четверть целого",
+        "zh": "分数基础: 单位“1”的等分与 1/2、1/3、1/4"
+      },
+      "9": {
+        "en": "Term 1 Capstone: Grade 2 Math Kangaroo Trial",
+        "ru": "Финал 1-й четверти: Турнир «Кенгуру» 2 класса",
+        "zh": "第1学段通关挑战: 二年级袋鼠数学热身赛"
+      },
+      "10": {
+        "en": "Three-Digit Addition with Regrouping & Cryptarithms",
+        "ru": "Сложение трёхзначных чисел с переходом и числовые ребусы",
+        "zh": "三位数连进位加法与竖式数字谜"
+      },
+      "11": {
+        "en": "Algebra & Variables: Multiplicative Equations (ax = b)",
+        "ru": "Алгебра и переменные: уравнения вида ax = b на весах",
+        "zh": "代数与变量: 乘法天平方程 (ax = b)"
+      },
+      "12": {
+        "en": "Geometry: Measuring Area with Unit Squares vs. Perimeter",
+        "ru": "Геометрия: площадь в единичных квадратах против периметра",
+        "zh": "几何度量: 用单位正方形测面积 vs 周长"
+      },
+      "13": {
+        "en": "Distributive Property: Breaking Apart Multiplication a(b + c)",
+        "ru": "Распределительный закон умножения: a × (b + c)",
+        "zh": "乘法分配律图形证明与拆分巧算: a(b + c)"
+      },
+      "14": {
+        "en": "Geometry: Symmetry Axes of Polygons & Reflections",
+        "ru": "Геометрия: оси симметрии многоугольников и отражения",
+        "zh": "几何性质: 多边形的对称轴与镜面反射"
+      },
+      "15": {
+        "en": "Number Theory (Honors): Divisibility by 3 and 9 & Digit Sums",
+        "ru": "Теория чисел (Honors): делимость на 3 и 9 и сумма цифр",
+        "zh": "数论与袋鼠竞赛 (Honors): 3和9的整除特征与数字和之谜"
+      },
+      "16": {
+        "en": "Division as Inverse of Multiplication & Missing Factors",
+        "ru": "Деление как действие, обратное умножению, и поиск множителя",
+        "zh": "乘除互逆体系与求未知因数"
+      },
+      "17": {
+        "en": "Time & Clocks: Minutes to the Hour & 24-Hour Schedules",
+        "ru": "Время и часы: без пяти минут и 24-часовое расписание",
+        "zh": "时间计算: 差几分几点与24小时制时刻表"
+      },
+      "18": {
+        "en": "Term 2 Capstone: The Multi-Tier Algebra Vault",
+        "ru": "Финал 2-й четверти: Многоуровневый алгебраический шифр",
+        "zh": "第2学段通关挑战: 分层代数密码箱"
+      },
+      "19": {
+        "en": "Multiplying 2-Digit Numbers by 1-Digit Numbers",
+        "ru": "Умножение двузначного числа на однозначное",
+        "zh": "两位数乘一位数的算理与速算"
+      },
+      "20": {
+        "en": "Geometry: Rectangle Area Formula (S = l × w) & Scaling",
+        "ru": "Геометрия: формула площади прямоугольника (S = a × b)",
+        "zh": "几何公式: 长方形面积公式推导 (S = a × b)"
+      },
+      "21": {
+        "en": "Algebra & Variables: Two-Step Linear Equations (ax + b = c)",
+        "ru": "Алгебра и переменные: двухшаговые уравнения (ax + b = c)",
+        "zh": "代数与变量: 两步一元一次方程 (ax + b = c)"
+      },
+      "22": {
+        "en": "Grid Geometry: Shortest Staircase Paths on a Map",
+        "ru": "Геометрия на сетке: кратчайшие маршруты по кварталам",
+        "zh": "网格几何: 街道最短路径与计数"
+      },
+      "23": {
+        "en": "Fractions on the Number Line & Comparing Fractions",
+        "ru": "Дроби на числовом луче и сравнение долей",
+        "zh": "数轴上的分数与同分子分数比大小"
+      },
+      "24": {
+        "en": "Number Theory (Honors): Prime Numbers, Factors & Multiples",
+        "ru": "Теория чисел (Honors): простые и составные числа, делители",
+        "zh": "数论与袋鼠竞赛 (Honors): 素数、合数与因数配对"
+      },
+      "25": {
+        "en": "Probability & Sample Space: Two-Coin Experiments",
+        "ru": "Вероятность и дерево вариантов: два броска монеты",
+        "zh": "可能性与样本空间: 两枚硬币的试验"
+      },
+      "26": {
+        "en": "3D Geometry: Counting Cubes & Volume Intuition",
+        "ru": "3D-геометрия: послойный подсчёт кубиков и объём",
+        "zh": "立体几何: 分层数积木与体积直觉"
+      },
+      "27": {
+        "en": "Term 3 Capstone: The Young Architect Blueprint",
+        "ru": "Финал 3-й четверти: Проект молодого архитектора",
+        "zh": "第3学段通关挑战: 少年建筑师全案设计"
+      },
+      "28": {
+        "en": "Division Strategies: Dividing 2-Digit Numbers Equally",
+        "ru": "Стратегии деления двузначного числа на однозначное",
+        "zh": "两位数除以一位数的拆分与竖式算理"
+      },
+      "29": {
+        "en": "Geometry: Right, Acute & Obtuse Angles",
+        "ru": "Геометрия: прямой, острый и тупой углы",
+        "zh": "几何与角: 直角、锐角与钝角的比对与证明"
+      },
+      "30": {
+        "en": "Order of Operations & Parentheses in Expressions",
+        "ru": "Порядок действий и скобки в математических выражениях",
+        "zh": "四则混合运算顺序与小括号的作用"
+      },
+      "31": {
+        "en": "Number Theory (Honors): Remainders & Cyclical Patterns",
+        "ru": "Теория чисел (Honors): арифметика остатков и циклы",
+        "zh": "数论与袋鼠竞赛 (Honors): 带余除法与周期余数问题"
+      },
+      "32": {
+        "en": "Combinatorics: The Handshake & Segment Counting Problem",
+        "ru": "Комбинаторика: задача о рукопожатиях и подсчёт отрезков",
+        "zh": "组合计数: 握手问题与线段条数规律"
+      },
+      "33": {
+        "en": "Math Kangaroo Prep (Honors): Spatial & Number Logic Puzzles",
+        "ru": "Подготовка к «Кенгуру» (Honors): пространственные и числовые задачи",
+        "zh": "袋鼠数学竞赛特训 (Honors): 空间折叠与数字推理名题"
+      },
+      "34": {
+        "en": "Pigeonhole & Coloring Invariants on Checkerboards",
+        "ru": "Принцип Дирихле и шахматная раскраска",
+        "zh": "棋盘黑白染色与抽屉原理"
+      },
+      "35": {
+        "en": "Modeling Word Problems with Bar Diagrams (Sum & Difference)",
+        "ru": "Моделирование задач отрезками: сумма и разность (和差问题)",
+        "zh": "条形图建模解应用题: 和差与和倍问题"
+      },
+      "36": {
+        "en": "Grade 2 Grand Olympiad & Math Kangaroo Finale",
+        "ru": "Большая итоговая олимпиада 2 класса в стиле «Кенгуру»",
+        "zh": "二年级数学奥林匹克暨袋鼠竞赛巅峰总决赛"
+      }
+    },
+    "elem_g3": {
+      "1": {
+        "en": "Multi-Digit Multiplication & Area Models",
+        "ru": "Многозначное умножение и модели площади",
+        "zh": "多位数乘法竖式与面积模型"
+      },
+      "2": {
+        "en": "Rectangle Area Conservation: A = l × w",
+        "ru": "Сохранение площади прямоугольника: S = a × b",
+        "zh": "长方形面积守恒与分配律严格证明"
+      },
+      "3": {
+        "en": "Two-Step Balance Equations: 2x + 5 = 17",
+        "ru": "Двухшаговые уравнения на весах: 2x + 5 = 17",
+        "zh": "两步代数天平: 2x + 5 = 17"
+      },
+      "4": {
+        "en": "Multi-Digit Columnar Multiplication (3D by 2D)",
+        "ru": "Умножение трёхзначного на двузначное столбиком",
+        "zh": "三位数乘两位数竖式乘法的交叉乘积"
+      },
+      "5": {
+        "en": "Composite Shape Areas: Addition and Subtraction",
+        "ru": "Площадь сложных фигур: сложение и вычитание частей",
+        "zh": "组合图形面积: 割补法与容斥思想"
+      },
+      "6": {
+        "en": "Binary Search Trees: Logarithmic Thinking",
+        "ru": "Двоичные деревья поиска: логарифмическая глубина",
+        "zh": "二分查找树: 对数效率的计算机思维"
+      },
+      "7": {
+        "en": "Long Division with Regrouping & Quotients",
+        "ru": "Деление уголком с остатком и нулями в частном",
+        "zh": "除数是一位数的多位数长除法"
+      },
+      "8": {
+        "en": "Fractions: Common Denominator Addition (1/4+2/4)",
+        "ru": "Сложение дробей с одинаковыми знаменателями",
+        "zh": "同分母分数加减法与几何单位圆切片"
+      },
+      "9": {
+        "en": "Term 1 Capstone: Grade 3 Olympiad Trials",
+        "ru": "Финал 1-й четверти: Отборочные туры 3 класса",
+        "zh": "第1学段通关挑战: 三年级秋季选拔赛"
+      },
+      "10": {
+        "en": "Multi-Step Word Problems: Working Backwards",
+        "ru": "Задачи на движение и метод с конца",
+        "zh": "逆向思维法: 从结果倒推条件应用题"
+      },
+      "11": {
+        "en": "Equations with Unknown in Denominator: a / x = b",
+        "ru": "Уравнения вида a / x = b и зависимости",
+        "zh": "除法未知数求解: a / x = b"
+      },
+      "12": {
+        "en": "Triangles: Altitude and Base (Area Triangle Prep)",
+        "ru": "Высота и основание треугольника",
+        "zh": "三角形的底和高: 正交投影概念"
+      },
+      "13": {
+        "en": "Distributive Property in Mental Math (99 × 45)",
+        "ru": "Распределительный закон в уме: 99 × 45 = (100-1)×45",
+        "zh": "速算奇谋: 乘法分配律与补数乘法"
+      },
+      "14": {
+        "en": "Parallelograms: Shear Invariance and Base × Height",
+        "ru": "Параллелограмм: сдвиг и площадь",
+        "zh": "平行四边形面积: 沿高剪拼法证明"
+      },
+      "15": {
+        "en": "Graph Traversal: BFS (Breadth-First Search)",
+        "ru": "Поиск в ширину (BFS) в лабиринте",
+        "zh": "广度优先搜索 (BFS): 波纹扩散最短路径"
+      },
+      "16": {
+        "en": "Decimals: Tenths and Hundredths on Rulers",
+        "ru": "Десятичные дроби: десятые и сотые на линейке",
+        "zh": "小数的起源: 公制刻度尺上的分米与厘米"
+      },
+      "17": {
+        "en": "Angles: Protractor 180° Degrees Measurement",
+        "ru": "Транспортир: измерение углов в градусах от 0 до 180°",
+        "zh": "量角器的使用: 0°到180°角的旋转度量"
+      },
+      "18": {
+        "en": "Term 2 Capstone: The Cryptographic Cipher",
+        "ru": "Финал 2-й четверти: Криптографический шифр",
+        "zh": "第2学段通关挑战: 矩阵密码破译"
+      },
+      "19": {
+        "en": "Decimal Addition and Subtraction Columnar",
+        "ru": "Сложение и вычитание десятичных дробей столбиком",
+        "zh": "小数竖式加减法: 小数点严格对齐原则"
+      },
+      "20": {
+        "en": "Trapezoids: Decomposition into Triangles",
+        "ru": "Трапеция: разбиение на прямоугольник и треугольники",
+        "zh": "梯形面积推导: 两个全等梯形拼成平行四边形"
+      },
+      "21": {
+        "en": "Equations with Parentheses: a(x + b) = c",
+        "ru": "Уравнения со скобками: a(x + b) = c",
+        "zh": "含括号的一元一次方程: a(x + b) = c"
+      },
+      "22": {
+        "en": "Scale Drawings & Map Ratios (1:100)",
+        "ru": "Масштаб карт и чертежей (1:100)",
+        "zh": "比例尺与地图缩放: 空间相似比"
+      },
+      "23": {
+        "en": "Equivalent Fractions: Multiplying Numerator & Denominator",
+        "ru": "Основное свойство дроби: умножение числителя и знаменателя",
+        "zh": "分数的基本性质: 分子分母同乘同除公理"
+      },
+      "24": {
+        "en": "Hash Tables: Key-Value Pairs and Collisions",
+        "ru": "Хеш-таблицы: ключи, значения и коллизии",
+        "zh": "哈希表数据结构: 键值对映射与冲突解决"
+      },
+      "25": {
+        "en": "Probability: Rolling Two Dice (36 Outcomes Grid)",
+        "ru": "Вероятность: 36 исходов при броске двух костей",
+        "zh": "两个骰子的36个基本事件点阵网格"
+      },
+      "26": {
+        "en": "Volume of Cuboids: V = l × w × h",
+        "ru": "Объём прямоугольного параллелепипеда: V = a × b × c",
+        "zh": "长方体体积公式推导: 底面积乘以高"
+      },
+      "27": {
+        "en": "Term 3 Capstone: The Master Civil Engineer",
+        "ru": "Финал 3-й четверти: Проект инженера-строителя",
+        "zh": "第3学段通关挑战: 土木工程总体积估算"
+      },
+      "28": {
+        "en": "Long Division with 2-Digit Divisors",
+        "ru": "Деление уголком на двузначное число: подбор частного",
+        "zh": "除数是两位数的高难长除法与试商法"
+      },
+      "29": {
+        "en": "Circle Geometry: Radius, Diameter, Circumference Intuition",
+        "ru": "Круг и окружность: радиус, диаметр и число π",
+        "zh": "圆的几何: 半径、直径与圆周率 π 的雏形"
+      },
+      "30": {
+        "en": "Average: Balancing Columns (Arithmetic Mean)",
+        "ru": "Среднее арифметическое: метод переливания столбиков",
+        "zh": "算术平均数: 移多补少平摊法"
+      },
+      "31": {
+        "en": "Archimedes Exhaustion: Approximating Circle Area",
+        "ru": "Метод исчерпывания Архимеда: площадь круга",
+        "zh": "阿基米德穷竭法: 割圆术计算面积直觉"
+      },
+      "32": {
+        "en": "Dynamic Programming: Fibonacci Steps",
+        "ru": "Динамическое программирование: ступеньки Фибоначчи",
+        "zh": "动态规划入门: 斐波那契走楼梯计数算法"
+      },
+      "33": {
+        "en": "Pigeonhole Principle: Geometry Coloring",
+        "ru": "Принцип Дирихле в геометрических раскрасках",
+        "zh": "几何抽屉原理: 面积覆盖与点集距离"
+      },
+      "34": {
+        "en": "Combinatorics: Permutations of n Items",
+        "ru": "Комбинаторика: перестановки n элементов (факториал)",
+        "zh": "排列计数: n 个不重复元素的排列与阶乘思想"
+      },
+      "35": {
+        "en": "Time Speed Distance: v = s / t Equations",
+        "ru": "Задачи на движение: скорость, время, расстояние (v = s/t)",
+        "zh": "行程三要素: 速度、时间、路程方程"
+      },
+      "36": {
+        "en": "Grade 3 Grand Olympiad Invitational",
+        "ru": "Большая итоговая олимпиада 3 класса",
+        "zh": "三年级全能数学奥林匹克全国精英挑战赛"
+      }
+    },
+    "elem_g4": {
+      "1": {
+        "en": "Systems of Linear Equations by Substitution",
+        "ru": "Системы линейных уравнений методом подстановки",
+        "zh": "二元一次方程组: 代入消元法"
+      },
+      "2": {
+        "en": "Multi-Stage Sample Spaces & Probability Trees",
+        "ru": "Многошаговые пространства вероятностей и деревья",
+        "zh": "多步概率树状图与条件分支样本空间"
+      },
+      "3": {
+        "en": "Archimedean Exhaustion & Discrete Limits",
+        "ru": "Исчерпывание Архимеда и дискретные пределы",
+        "zh": "阿基米德穷竭法与离散极限 (微积分先导)"
+      },
+      "4": {
+        "en": "Systems of Equations by Elimination: x + y = 14",
+        "ru": "Системы уравнений методом сложения/вычитания",
+        "zh": "加减消元法: 对齐相加消去未知数"
+      },
+      "5": {
+        "en": "Triangle Angle Sum Theorem: 180° Euclidean Proof",
+        "ru": "Теорема о сумме углов треугольника: доказательство 180°",
+        "zh": "欧几里得定理严格证明: 三角形内角和等于180°"
+      },
+      "6": {
+        "en": "Big-O Notation: Algorithm Efficiency (O(n) vs O(log n))",
+        "ru": "Оценка сложности алгоритмов: Big-O (O(n) против O(log n))",
+        "zh": "算法复杂度 Big-O: 线性复杂度与对数复杂度"
+      },
+      "7": {
+        "en": "Fraction Multiplication & Visual Area Overlap",
+        "ru": "Умножение дробей: пересечение площадей",
+        "zh": "分数乘法: 矩形交集重叠面积模型"
+      },
+      "8": {
+        "en": "Pythagorean Theorem Intuition: 3-4-5 Triangle",
+        "ru": "Интуиция теоремы Пифагора: египетский треугольник 3-4-5",
+        "zh": "勾股定理直觉证明: 3-4-5 弦图几何拼接"
+      },
+      "9": {
+        "en": "Term 1 Capstone: Grade 4 Analytical Summit",
+        "ru": "Финал 1-й четверти: Аналитический саммит 4 класса",
+        "zh": "第1学段通关挑战: 四年级高阶思维秋季峰会"
+      },
+      "10": {
+        "en": "Fraction Division: Multiplying by the Reciprocal",
+        "ru": "Деление дробей: умножение на обратную дробь",
+        "zh": "分数除法公理证明: 为什么“除以一个分数等于乘它的倒数”"
+      },
+      "11": {
+        "en": "Simultaneous Word Problems: Chickens and Rabbits",
+        "ru": "Классическая задача о фазанах и кроликах в одной клетке",
+        "zh": "经典奥数鸡兔同笼: 假设法与方程组双解法"
+      },
+      "12": {
+        "en": "Exterior Angle Theorem of Triangles",
+        "ru": "Теорема о внешнем угле треугольника",
+        "zh": "三角形外角定理: 外角等于不相邻两个内角之和"
+      },
+      "13": {
+        "en": "Percentages: 100-Grid Models & Financial Interest",
+        "ru": "Проценты: сотенная сетка и финансовые расчёты",
+        "zh": "百分数本质: 百分网格、利息与打折计算"
+      },
+      "14": {
+        "en": "Surface Area of Prisms and Pyramids",
+        "ru": "Площадь полной поверхности призм и пирамид",
+        "zh": "棱柱与棱锥的全面积展开计算"
+      },
+      "15": {
+        "en": "Dijkstra's Shortest Path Algorithm",
+        "ru": "Алгоритм Дейкстры для поиска кратчайшего пути",
+        "zh": "最短路径算法: 计算机迪杰斯特拉算法"
+      },
+      "16": {
+        "en": "Negative Numbers: Temperature, Debt, and Coordinates",
+        "ru": "Отрицательные числа: температура, долг и числовая ось",
+        "zh": "负数的诞生: 温度、债务与反向数轴公理"
+      },
+      "17": {
+        "en": "Circle Area Formula: S = π r² Dissection Proof",
+        "ru": "Площадь круга: S = π r² через развёртку в параллелограмм",
+        "zh": "圆面积公式 S = π r² 的扇形无限细分极限证明"
+      },
+      "18": {
+        "en": "Term 2 Capstone: The Algorithmic Navigator",
+        "ru": "Финал 2-й четверти: Алгоритмический навигатор",
+        "zh": "第2学段通关挑战: 自动路径规划算法解题"
+      },
+      "19": {
+        "en": "Negative Numbers Arithmetic: Rules of Signs",
+        "ru": "Арифметика отрицательных чисел: правила знаков (- × - = +)",
+        "zh": "负数四则运算法则: “负负得正”的代数与几何证明"
+      },
+      "20": {
+        "en": "Prism and Cylinder Volume: V = Base Area × Height",
+        "ru": "Объём призмы и цилиндра: V = S(осн) × h",
+        "zh": "柱体体积通用法则: 底面积乘以高"
+      },
+      "21": {
+        "en": "Linear Inequalities: ax + b > c on the Number Line",
+        "ru": "Линейные неравенства: ax + b > c на числовой оси",
+        "zh": "一元一次不等式与解集在数轴上的表示"
+      },
+      "22": {
+        "en": "Similar Triangles: Ratio of Sides & Shadows",
+        "ru": "Подобие треугольников: отношение сторон и тени",
+        "zh": "相似三角形判定定理与太阳阴影测高"
+      },
+      "23": {
+        "en": "Modular Arithmetic: Clock Arithmetic Mod n",
+        "ru": "Модулярная арифметика: арифметика остатков",
+        "zh": "同余与模算术: 时钟环形余数循环体系"
+      },
+      "24": {
+        "en": "Recursion: Divide and Conquer Merge Sort",
+        "ru": "Рекурсия: сортировка слиянием «Разделяй и властвуй»",
+        "zh": "递归算法思想: 归并排序的分治法证明"
+      },
+      "25": {
+        "en": "Independent vs Dependent Probability Events",
+        "ru": "Независимые и зависимые события в теории вероятностей",
+        "zh": "独立事件与相关事件的概率乘法定理"
+      },
+      "26": {
+        "en": "Cavalieri's Principle for Solid Volumes",
+        "ru": "Принцип Кавальери для объёмов тел",
+        "zh": "祖暅原理 (卡瓦列里原理): 截面积相等则体积相等"
+      },
+      "27": {
+        "en": "Term 3 Capstone: The Aerospace Trajectory",
+        "ru": "Финал 3-й четверти: Аэрокосмическая траектория",
+        "zh": "第3学段通关挑战: 航天飞行轨道计算"
+      },
+      "28": {
+        "en": "Prime Numbers, Sieve of Eratosthenes & Prime Factorization",
+        "ru": "Простые числа, Решето Эратосфена и факторизация",
+        "zh": "素数分布、埃氏筛法与质因数分解唯一性定理"
+      },
+      "29": {
+        "en": "GCD and LCM: Euclidean Algorithm for Greatest Common Divisor",
+        "ru": "НОД и НОК: алгоритм Евклида делением с остатком",
+        "zh": "最大公因数与最小公倍数: 欧几里得辗转相除法"
+      },
+      "30": {
+        "en": "Cartesian Coordinate Linear Graphs: y = mx + b",
+        "ru": "График прямой линии на плоскости: y = kx + b",
+        "zh": "平面直角坐标系中的一次函数图像 y = kx + b"
+      },
+      "31": {
+        "en": "Instantaneous Velocity: The Tangent Line (Calculus)",
+        "ru": "Мгновенная скорость и касательная (введение в анализ)",
+        "zh": "导数与瞬时速度: 切线斜率的极限思维"
+      },
+      "32": {
+        "en": "Boolean Satisfiability: Logic Puzzles with 3 Variables",
+        "ru": "Булева выполнимость (SAT): логические задачи с 3 переменными",
+        "zh": "三变量布尔逻辑约束与真值表反证法"
+      },
+      "33": {
+        "en": "Dirichlet Advanced: Pigeonhole on Continuous Segments",
+        "ru": "Принцип Дирихле на непрерывных отрезках",
+        "zh": "连续介质上的抽屉原理与中值定理先驱"
+      },
+      "34": {
+        "en": "Combinatorics: Combinations nCr (Pascal's Triangle)",
+        "ru": "Сочетания и треугольник Паскаля: биномиальные коэффициенты",
+        "zh": "组合数计算与杨辉三角 (帕斯卡三角)"
+      },
+      "35": {
+        "en": "Mathematical Proofs by Contradiction (Reductio ad Absurdum)",
+        "ru": "Доказательство от противного (Reductio ad absurdum)",
+        "zh": "反证法公理化论证: 证明根号2不是有理数"
+      },
+      "36": {
+        "en": "Elementary School Grand Graduation Olympiad",
+        "ru": "Грандиозная выпускная олимпиада начальной школы",
+        "zh": "小学全能数学奥林匹克巅峰毕业荣誉勋章战"
+      }
+    }
+  }
+}

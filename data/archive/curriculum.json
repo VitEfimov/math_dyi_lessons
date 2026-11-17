@@ -1,0 +1,617 @@
+{
+  "curriculum": {
+    "stages": [
+      {
+        "stage_id": "kindergarten_01",
+        "age_range": "3-6",
+        "title": {
+          "en": "Kindergarten, Month 1: Sets, Number Pictures, Space and Sequences",
+          "ru": "Детский сад, месяц 1: множества, образы чисел, пространство и последовательности",
+          "zh": "幼儿园第1个月:集合、数的图像、空间与顺序"
+        },
+        "lessons": [
+          {
+            "lesson_id": "k01_w1_l1",
+            "duration_minutes": 38,
+            "category": "Counting",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "What Is a Set? Collecting Things Together",
+              "ru": "Что такое множество? Собираем предметы вместе",
+              "zh": "什么是集合?把东西放在一起"
+            },
+            "objective": {
+              "en": "The child can define a set as a group of things gathered by one clear rule, and can say which things belong to it and which do not.",
+              "ru": "Ребёнок понимает, что множество — это группа предметов, собранных по одному ясному признаку, и может сказать, какие предметы к нему относятся, а какие нет.",
+              "zh": "孩子能说出集合是按一条明确规则聚在一起的一组事物,并能判断哪些东西属于它、哪些不属于。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Put 3 spoons on the table and say: 'These are spoons. Together they make one SET of spoons. A set is a group of things that belong together because of one rule. Our rule is: \"it is a spoon.\"' Add a fork and ask: 'Does the fork follow our rule? No. So the fork is not in the set of spoons.' Say: 'Every thing in a set is called an element of the set. We can always tell whether a thing is in a set or not.' Repeat with 3 socks: 'The rule is: it is a sock.'",
+                  "ru": "Положите на стол 3 ложки и скажите: «Это ложки. Вместе они — одно МНОЖЕСТВО ложек. Множество — это группа предметов, которые собраны вместе по одному правилу. Наше правило: „это ложка“». Добавьте вилку и спросите: «Подходит ли вилка под наше правило? Нет. Значит, вилка не входит в множество ложек». Скажите: «Каждый предмет множества называется его элементом. Мы всегда можем точно сказать, входит предмет в множество или нет». Повторите с 3 носками: «Правило: это носок».",
+                  "zh": "把3把勺子放在桌上,说:“这些是勺子。它们合在一起是一个勺子的集合。集合就是因为同一条规则而放在一起的一组东西。我们的规则是:‘它是勺子’。”再放一把叉子,问:“叉子符合我们的规则吗?不符合。所以叉子不在勺子集合里。”接着说:“集合里的每一样东西叫做这个集合的元素。我们总能清楚地说出一样东西在不在集合里。”再用3只袜子重复一遍:“规则是:它是袜子。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Gather 10-12 household items (spoons, socks, toy cars, blocks, books). Lay out two hoops or pieces of string as circles on the floor.\n2) Say: 'Circle 1 is the set of toy cars.' The child puts every toy car in it. Ask: 'Is this block in the set? Why not?'\n3) Say: 'Circle 2 is the set of red things.' The child searches the room for red things.\n4) Now name a rule yourself and let the child guess it: place a sock, a hat and a shoe in a circle and ask, 'What is our rule?' (Things we wear.)\n5) Swap roles: the child invents a rule and you fill the circle, making one deliberate mistake. The child finds the mistake and explains it using the word 'rule'.\n6) Close by counting how many elements are in each set, touching each element once.",
+                  "ru": "1) Соберите 10–12 домашних предметов (ложки, носки, машинки, кубики, книги). Выложите на полу два обруча или две верёвки-круга.\n2) Скажите: «Круг 1 — это множество машинок». Ребёнок кладёт туда все машинки. Спросите: «Этот кубик входит в множество? Почему нет?»\n3) Скажите: «Круг 2 — множество красных предметов». Ребёнок ищет красные вещи по комнате.\n4) Теперь назовите правило сами и дайте ребёнку угадать: положите в круг носок, шапку и ботинок и спросите: «Какое у нас правило?» (Вещи, которые мы носим.)\n5) Поменяйтесь ролями: ребёнок придумывает правило, а вы наполняете круг, сделав одну намеренную ошибку. Ребёнок находит ошибку и объясняет её, употребляя слово «правило».\n6) В конце посчитайте элементы в каждом множестве, касаясь каждого предмета один раз.",
+                  "zh": "1)准备10–12件家里的物品(勺子、袜子、玩具车、积木、书)。在地上摆两个呼啦圈或两圈绳子。\n2)说:“圆圈1是玩具车的集合。”孩子把所有玩具车放进去。问:“这块积木在集合里吗?为什么不在?”\n3)说:“圆圈2是红色东西的集合。”孩子在房间里找红色的东西。\n4)现在由你说出规则让孩子猜:在圈里放一只袜子、一顶帽子和一只鞋,问:“我们的规则是什么?”(穿在身上的东西。)\n5)交换角色:孩子想一条规则,你来装圈,故意放错一件。孩子找出错误,并用“规则”这个词解释。\n6)最后数一数每个集合里有几个元素,每件只碰一次。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "In a circle there are: an apple, a banana, a pear and a carrot. Which rule makes the set 'fruits'? Which thing must leave the circle, and what new circle could it join?",
+                  "ru": "В круге лежат: яблоко, банан, груша и морковь. Какое правило делает это множество «фруктами»? Какой предмет должен уйти из круга и в какой новый круг его можно положить?",
+                  "zh": "圈里有:苹果、香蕉、梨和胡萝卜。哪条规则能让它成为“水果”集合?哪样东西必须离开圆圈?它可以去哪个新圈?"
+                },
+                "solution": {
+                  "en": "The rule is 'it is a fruit'. The carrot does not follow the rule, so it leaves. It can join a new circle with the rule 'it is a vegetable'. A thing is in a set only if it follows the rule.",
+                  "ru": "Правило: «это фрукт». Морковь под правило не подходит, поэтому она уходит. Её можно положить в новый круг с правилом «это овощ». Предмет входит в множество, только если он подчиняется правилу.",
+                  "zh": "规则是“它是水果”。胡萝卜不符合规则,所以要离开。它可以去一个新圈,规则是“它是蔬菜”。只有符合规则的东西才属于这个集合。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "k01_w1_l2",
+            "duration_minutes": 38,
+            "category": "Arithmetic",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Equal, More, Fewer: Matching One to One",
+              "ru": "Поровну, больше, меньше: сопоставляем один к одному",
+              "zh": "一样多、更多、更少:一一对应"
+            },
+            "objective": {
+              "en": "The child can compare two sets without counting by pairing elements one to one, and can define 'equal', 'more' and 'fewer' from the pairing.",
+              "ru": "Ребёнок умеет сравнивать два множества без счёта, составляя пары «один к одному», и объясняет «поровну», «больше», «меньше» через пары.",
+              "zh": "孩子能不数数、通过一一配对来比较两个集合,并用配对来解释“一样多”“更多”“更少”。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Line up 4 cups. Beside them put 4 spoons, one spoon in front of each cup. Say: 'Each cup has exactly one spoon, and no spoon is left alone. When every thing in one set has a partner in the other set, and nothing is left over, the two sets are EQUAL in number. We say: there are as many cups as spoons.' Now take one spoon away: 'One cup has no partner. The set of cups has MORE. The set of spoons has FEWER.' Say: 'We did not need to count. Pairing already tells us the answer.'",
+                  "ru": "Выставьте в ряд 4 чашки. Рядом поставьте 4 ложки: по одной ложке перед каждой чашкой. Скажите: «У каждой чашки ровно одна ложка, и ни одна ложка не осталась одна. Когда у каждого предмета одного множества есть пара в другом множестве и ничего не лишнее, множества РАВНЫ по количеству. Мы говорим: чашек столько же, сколько ложек». Уберите одну ложку: «У одной чашки нет пары. Множество чашек БОЛЬШЕ. Множество ложек МЕНЬШЕ». Скажите: «Нам не нужно было считать. Пары уже дают ответ».",
+                  "zh": "把4个杯子排成一排,在每个杯子前放1把勺子。说:“每个杯子正好有一把勺子,没有勺子落单。当一个集合里的每样东西在另一个集合里都有伙伴、而且没有剩余时,这两个集合的数量就一样多。我们说:杯子和勺子一样多。”拿走一把勺子:“有一个杯子没有伙伴。杯子的集合更多,勺子的集合更少。”再说:“我们没有数数,配对就已经告诉了我们答案。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Set out 6 toy animals and 6 blocks. Ask the child to give each animal one block (a 'house'). Ask: 'Is anyone left without a house? Are there as many animals as blocks?'\n2) Hide one block. Repeat the pairing. Ask: 'Which set has more? Which has fewer? How do you know?' The child must point to the unpaired animal.\n3) Make two rows of buttons: a spread-out row of 5 and a tightly packed row of 7. Ask the child to guess which row has more, then pair them to check. (A longer row does not mean more.)\n4) Child makes a row 'one more' than yours by adding one partnerless item.\n5) Finish by counting both sets aloud to confirm the pairing answer.",
+                  "ru": "1) Выложите 6 игрушечных зверей и 6 кубиков. Попросите ребёнка дать каждому зверю по кубику («домику»). Спросите: «Остался ли кто-то без домика? Зверей столько же, сколько кубиков?»\n2) Спрячьте один кубик. Повторите сопоставление. Спросите: «Каких больше? Каких меньше? Как ты узнал?» Ребёнок должен показать на зверя без пары.\n3) Выложите два ряда пуговиц: растянутый из 5 и плотный из 7. Попросите угадать, где больше, и проверить парами. (Длиннее не значит больше.)\n4) Ребёнок делает ряд «на один больше» вашего, добавляя один предмет без пары.\n5) В конце посчитайте оба множества вслух и проверьте ответ, полученный через пары.",
+                  "zh": "1)摆出6只玩具动物和6块积木。让孩子给每只动物一块积木(当“房子”)。问:“有谁没有房子吗?动物和积木一样多吗?”\n2)藏起一块积木,再配一次对。问:“哪个更多?哪个更少?你怎么知道的?”孩子要指出没有伙伴的那只动物。\n3)用纽扣摆两排:一排拉得很开,有5颗;一排挤在一起,有7颗。让孩子先猜哪排多,再用配对检验。(摆得长不等于多。)\n4)孩子摆一排比你的“多一个”,方法是多放一个没有伙伴的物品。\n5)最后把两个集合都大声数一遍,验证配对得出的答案。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "Five children come to a party and there are 5 chairs. Two more children arrive. Without counting, how can you tell right away that there are not enough chairs? How many chairs are missing?",
+                  "ru": "На праздник пришли пятеро детей, и стоят 5 стульев. Пришли ещё двое. Как, не считая, сразу понять, что стульев не хватает? Сколько стульев не хватает?",
+                  "zh": "五个小朋友来参加聚会,有5把椅子。又来了两个小朋友。不数数,你怎么马上知道椅子不够?缺几把?"
+                },
+                "solution": {
+                  "en": "Seat the first five children, one per chair. The two new children have no chair partner, so there are more children than chairs. Two chairs are missing, because exactly two children are unpaired.",
+                  "ru": "Посадите первых пятерых детей по одному на стул. У двух новых детей нет стула-пары, значит, детей больше, чем стульев. Не хватает двух стульев, потому что без пары остались ровно двое детей.",
+                  "zh": "先让前五个孩子每人坐一把椅子。新来的两个孩子没有椅子配对,所以孩子比椅子多。缺两把椅子,因为正好有两个孩子没有配对。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "k01_w1_l3",
+            "duration_minutes": 38,
+            "category": "Logic",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Logic Words: NOT, AND, OR",
+              "ru": "Слова логики: НЕ, И, ИЛИ",
+              "zh": "逻辑词:不、并且、或者"
+            },
+            "objective": {
+              "en": "The child can sort objects using the words 'not', 'and', 'or', and can explain why an object does or does not fit a rule.",
+              "ru": "Ребёнок сортирует предметы с помощью слов «не», «и», «или» и объясняет, почему предмет подходит или не подходит под правило.",
+              "zh": "孩子能用“不”“并且”“或者”给物品分类,并解释为什么某物符合或不符合规则。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Show a red ball, a blue ball and a red block. Say: 'Mathematicians use small exact words. NOT means the opposite: \"not red\" is everything that is not red. AND means both rules must be true: \"red AND ball\" is only the red ball. OR means at least one rule is true: \"red OR ball\" includes the red ball, the blue ball and the red block.' Point at each object and ask the child whether it fits, so they hear each word in action.",
+                  "ru": "Покажите красный мяч, синий мяч и красный кубик. Скажите: «Математики используют маленькие точные слова. НЕ значит противоположное: „не красный“ — всё, что не красное. И значит, что должны выполняться оба правила: „красный И мяч“ — только красный мяч. ИЛИ значит, что выполняется хотя бы одно правило: „красный ИЛИ мяч“ — это красный мяч, синий мяч и красный кубик». Показывайте на каждый предмет и спрашивайте, подходит ли он, чтобы ребёнок слышал каждое слово в действии.",
+                  "zh": "展示一个红球、一个蓝球和一块红积木。说:“数学家使用简短而精确的词。‘不’表示相反:‘不是红的’就是所有不红的东西。‘并且’表示两条规则都要满足:‘红的并且是球’只有红球。‘或者’表示至少满足一条规则:‘红的或者是球’包括红球、蓝球和红积木。”指着每件物品问孩子是否符合,让孩子听到每个词的实际用法。"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Prepare 8 objects: e.g. red ball, blue ball, red block, blue block, red spoon, green block, green ball, blue spoon.\n2) Say 'Give me all things that are NOT red.' Check together.\n3) Say 'Give me things that are blocks AND blue.' (Only the blue block.) Ask why the red block is excluded.\n4) Say 'Give me things that are balls OR green.' (Four items: red ball, blue ball, green ball, green block.) Ask why the green block is included.\n5) Play 'Guess my rule': secretly choose a rule with one logic word, put matching items in a circle, and the child guesses it. Swap roles.\n6) Tricky round: 'Is there anything that is a ball AND a spoon?' (No: an empty set. This is a normal answer in math.)",
+                  "ru": "1) Подготовьте 8 предметов: красный мяч, синий мяч, красный кубик, синий кубик, красная ложка, зелёный кубик, зелёный мяч, синяя ложка.\n2) Скажите: «Дай мне всё, что НЕ красное». Проверьте вместе.\n3) Скажите: «Дай то, что кубик И синее». (Только синий кубик.) Спросите, почему красный кубик не подходит.\n4) Скажите: «Дай то, что мяч ИЛИ зелёное». (Четыре предмета: красный мяч, синий мяч, зелёный мяч, зелёный кубик.) Спросите, почему зелёный кубик подходит.\n5) Игра «Угадай правило»: тайно выберите правило с одним логическим словом, положите подходящие предметы в круг, ребёнок угадывает. Поменяйтесь ролями.\n6) Хитрый раунд: «Есть ли что-то, что мяч И ложка?» (Нет: пустое множество. Для математики это нормальный ответ.)",
+                  "zh": "1)准备8件物品:红球、蓝球、红积木、蓝积木、红勺子、绿积木、绿球、蓝勺子。\n2)说“把所有不是红色的东西给我”,一起检查。\n3)说“把是积木并且是蓝色的给我”(只有蓝积木)。问红积木为什么不行。\n4)说“把是球或者是绿色的给我”(四件:红球、蓝球、绿球、绿积木)。问绿积木为什么可以。\n5)玩“猜我的规则”:暗中选一条含逻辑词的规则,把符合的物品放进圈里,让孩子猜。然后交换角色。\n6)难题:“有没有既是球并且是勺子的东西?”(没有:这是空集,在数学里是正常答案。)"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "A box holds only these: a red square, a red circle, a blue square. I pick one that is NOT a circle AND NOT blue. Which one did I pick?",
+                  "ru": "В коробке лежат только: красный квадрат, красный круг, синий квадрат. Я взял то, что НЕ круг И НЕ синее. Что я взял?",
+                  "zh": "盒子里只有:红色正方形、红色圆、蓝色正方形。我拿了一个既不是圆、也不是蓝色的。我拿的是哪个?"
+                },
+                "solution": {
+                  "en": "Not a circle removes the red circle. Not blue removes the blue square. Only the red square follows both rules, so I picked the red square.",
+                  "ru": "«Не круг» убирает красный круг. «Не синее» убирает синий квадрат. Оба правила выполняет только красный квадрат, значит, я взял красный квадрат.",
+                  "zh": "“不是圆”排除红圆,“不是蓝色”排除蓝色正方形。只有红色正方形同时符合两条规则,所以我拿的是红色正方形。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "k01_w2_l1",
+            "duration_minutes": 38,
+            "category": "Counting",
+            "methodology_focus": "Chinese",
+            "title": {
+              "en": "Seeing Numbers 1 to 5 at a Glance",
+              "ru": "Видим числа от 1 до 5 с одного взгляда",
+              "zh": "一眼看出1到5"
+            },
+            "objective": {
+              "en": "The child recognizes quantities 1-5 instantly in dot patterns and on fingers, without counting one by one.",
+              "ru": "Ребёнок мгновенно узнаёт количества от 1 до 5 в точечных узорах и на пальцах, не пересчитывая по одному.",
+              "zh": "孩子能在点图和手指上一眼认出1到5的数量,不用逐个数。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Say: 'A number tells us HOW MANY things are in a set. Some numbers we can see in one look, like the dots on a dice.' Show 3 dots in a triangle: 'This is always three, however I turn it.' Show 4 dots in a square, 5 dots like a dice face. Say: 'Your hand is a number picture too. One hand has five fingers: five is a whole hand.' Show 1 to 5 fingers quickly and let the child say the number. Say: 'Great mathematicians train their eyes, not only their counting.'",
+                  "ru": "Скажите: «Число говорит нам, СКОЛЬКО предметов в множестве. Некоторые числа мы видим с одного взгляда, как точки на кубике». Покажите 3 точки в виде треугольника: «Это всегда три, как ни поворачивай». Покажите 4 точки квадратом, 5 точек как на грани кубика. Скажите: «Твоя рука — тоже картинка числа. На одной руке пять пальцев: пять — это целая ладонь». Быстро показывайте от 1 до 5 пальцев, ребёнок называет число. Скажите: «Хорошие математики тренируют глаза, а не только счёт».",
+                  "zh": "说:“数告诉我们一个集合里有多少个东西。有些数我们一眼就能看出来,比如骰子上的点。”展示三角形排列的3个点:“不管怎么转,这都是三。”再展示正方形排列的4个点和骰子面上的5个点。说:“你的手也是一幅数的图。一只手有五根手指:五就是一整只手。”快速亮出1到5根手指,让孩子说出数字。说:“优秀的数学家不只训练数数,也训练眼睛。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Draw or print dot cards for 1-5 (dice-style layout). Flash each card for 2 seconds, then hide it. The child says the number.\n2) Flash cards in random order, 10 rounds. Praise speed and accuracy.\n3) Finger flash: you show fingers on one hand, the child shows the same number on their hand and says it.\n4) Build it: say a number, the child builds that many blocks in the dice pattern.\n5) 'Same or different?' Show two cards; the child says if they show the same number even when dots are arranged differently (3 in a line vs 3 in a triangle).\n6) Final: the child flashes cards to you and you answer, making one mistake for the child to catch.",
+                  "ru": "1) Нарисуйте или распечатайте карточки с точками от 1 до 5 (как на кубике). Покажите каждую на 2 секунды и спрячьте. Ребёнок называет число.\n2) Показывайте карточки в случайном порядке, 10 раундов. Хвалите за скорость и точность.\n3) Игра на пальцах: вы показываете пальцы на одной руке, ребёнок показывает столько же и называет число.\n4) «Построй»: вы называете число, ребёнок выкладывает столько кубиков узором как на кубике.\n5) «Одинаково или разное?» Показывайте две карточки; ребёнок говорит, одинаковое ли число, даже если точки расставлены по-разному (3 в ряд и 3 треугольником).\n6) В конце ребёнок показывает карточки вам, а вы отвечаете, допустив одну ошибку, которую ребёнок должен заметить.",
+                  "zh": "1)画或打印1到5的点卡(骰子式排列)。每张亮2秒后藏起来,孩子说出数字。\n2)随机顺序亮卡,共10轮。表扬又快又准。\n3)手指游戏:你在一只手上亮出手指,孩子在自己手上亮出同样的数并说出来。\n4)“搭一搭”:你说一个数,孩子用积木按骰子图案搭出相应数量。\n5)“一样还是不一样?”出示两张卡,孩子判断数量是否相同,即使点的排列不同(3个排成一行与3个排成三角形)。\n6)最后孩子给你亮卡,你来回答,故意说错一次让孩子发现。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "I hold up a hand and fold down 2 fingers. How many fingers are still up? Now I show you the other hand with 3 fingers up. Can you tell me, without counting, how many fingers I show in total on both hands?",
+                  "ru": "Я поднимаю ладонь и загибаю 2 пальца. Сколько пальцев осталось поднятыми? Теперь я показываю вторую руку с 3 поднятыми пальцами. Можешь сказать, не считая по одному, сколько всего пальцев я показываю на двух руках?",
+                  "zh": "我举起一只手,弯下2根手指。还剩几根手指竖着?现在我另一只手竖着3根手指。不一根根数,你能说出两只手一共竖着几根吗?"
+                },
+                "solution": {
+                  "en": "A full hand is 5, and folding 2 leaves 3. The other hand shows 3 too. So 3 and 3 together make 6. The child may see this as 'two triples', a number picture they can use again later.",
+                  "ru": "Полная ладонь — это 5, загнули 2, осталось 3. Другая рука тоже показывает 3. Значит, 3 и 3 вместе — 6. Ребёнок может увидеть это как «две тройки» — образ числа, который пригодится позже.",
+                  "zh": "整只手是5,弯下2根还剩3根。另一只手也是3根。所以3和3合起来是6。孩子可以把它看成“两个三”,这是以后还能用的数的图像。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "k01_w2_l2",
+            "duration_minutes": 38,
+            "category": "Arithmetic",
+            "methodology_focus": "Chinese",
+            "title": {
+              "en": "Number Bonds: Splitting 5 and Joining Back",
+              "ru": "Состав числа: делим 5 и собираем обратно",
+              "zh": "数的分与合:拆分5再合起来"
+            },
+            "objective": {
+              "en": "The child can split 5 into two parts in every way (1+4, 2+3, and so on) and knows that the parts always join back to the whole.",
+              "ru": "Ребёнок умеет разложить 5 на две части всеми способами (1+4, 2+3 и т. д.) и знает, что части всегда собираются обратно в целое.",
+              "zh": "孩子能用所有方式把5分成两部分(1+4、2+3等),并知道两部分总能合回整体。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Put 5 beads on a string. Say: 'This is the whole: five. If I slide some to the left and some to the right, I split the whole into two parts.' Slide 2 left, 3 right: 'Two and three. When I push them back together, they are five again. Parts together make the whole, and the whole can break into parts. Splitting and joining never lose or add a bead.' Show 1 and 4, then 0 and 5, so the child sees every split.",
+                  "ru": "Нанижите на нитку 5 бусин. Скажите: «Это целое: пять. Если я сдвину часть влево, а часть вправо, я разделю целое на две части». Сдвиньте 2 влево, 3 вправо: «Два и три. Когда я снова сдвину их вместе, опять будет пять. Части вместе дают целое, а целое можно разделить на части. При делении и соединении ни одна бусина не пропадает и не добавляется». Покажите 1 и 4, затем 0 и 5, чтобы ребёнок увидел все разложения.",
+                  "zh": "把5颗珠子穿在线上。说:“这是整体:五。如果我把一些推到左边、一些推到右边,就把整体分成了两部分。”左边推2颗、右边3颗:“二和三。再把它们推到一起,又是五。部分合起来是整体,整体可以拆成部分。拆和合都不会多出或少掉一颗珠子。”再演示1和4、0和5,让孩子看到所有拆法。"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Draw a 'number bond' picture: one big circle with 5 in it and two small circles below, joined by lines.\n2) With 5 beads, the child slides 1 aside. 'How many are in the other part?' Write 1 and 4 in the small circles.\n3) Repeat for 2 and 3, 3 and 2, 4 and 1. Notice that 2+3 and 3+2 are the same split flipped.\n4) Cover one small circle with your hand. Tell the child the whole and one part; the child finds the hidden part.\n5) Hands game: hold up 5 fingers, fold some, say 'how many up, how many down'.\n6) Speed round: 'I have 5, you have 3, I have...?' for 8 rounds.",
+                  "ru": "1) Нарисуйте «домик числа»: большой круг с цифрой 5 и два маленьких круга снизу, соединённых линиями.\n2) На 5 бусинах ребёнок отодвигает 1. «Сколько во второй части?» Запишите 1 и 4 в маленькие круги.\n3) Повторите для 2 и 3, 3 и 2, 4 и 1. Заметьте, что 2+3 и 3+2 — одно и то же разложение, перевёрнутое.\n4) Закройте один маленький круг ладонью. Назовите ребёнку целое и одну часть; он находит скрытую часть.\n5) Игра с руками: поднимите 5 пальцев, загните несколько, спросите «сколько поднято, сколько загнуто».\n6) Быстрый раунд: «У меня 5, у тебя 3, у меня...?» — 8 раундов.",
+                  "zh": "1)画一张“数的分合图”:一个大圆里写5,下面连着两个小圆。\n2)用5颗珠子,孩子推开1颗。问:“另一部分有几颗?”在小圆里写1和4。\n3)再做2和3、3和2、4和1。注意2+3和3+2是同一种拆法换了位置。\n4)用手盖住一个小圆。告诉孩子整体和一个部分,让孩子找出被盖住的部分。\n5)手指游戏:举起5根手指,弯下几根,问“竖着几根,弯着几根”。\n6)快速轮:“我有5个,你有3个,我有……?”共8轮。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "There are 5 birds on a fence. Some fly away, and 2 stay. How many flew away? A second time: 4 birds stay and the rest fly away. How many flew?",
+                  "ru": "На заборе сидят 5 птиц. Некоторые улетели, и осталось 2. Сколько улетело? Второй раз: осталось 4 птицы, остальные улетели. Сколько улетело?",
+                  "zh": "栅栏上有5只鸟。有些飞走了,还剩2只。飞走了几只?第二次:还剩4只,其余飞走了。飞走几只?"
+                },
+                "solution": {
+                  "en": "The whole is 5 and one part is 2, so the other part is 3: three flew away. Second time: the part that stayed is 4, so the other part is 1: one bird flew away. We found the missing part because parts always make the whole.",
+                  "ru": "Целое — 5, одна часть — 2, значит, другая часть — 3: улетело три. Во второй раз: оставшаяся часть — 4, другая часть — 1: улетела одна птица. Мы нашли недостающую часть, потому что части всегда составляют целое.",
+                  "zh": "整体是5,一个部分是2,所以另一部分是3:飞走了三只。第二次:留下的部分是4,另一部分是1:飞走了一只。我们能找到缺失的部分,因为部分合起来总是整体。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "k01_w2_l3",
+            "duration_minutes": 38,
+            "category": "Math Analysis",
+            "methodology_focus": "Chinese",
+            "title": {
+              "en": "Bead Pictures and Arrays up to 10",
+              "ru": "Картинки из бусин и массивы до 10",
+              "zh": "珠子图像与点阵(到10)"
+            },
+            "objective": {
+              "en": "The child sees 6-10 as five plus extra on an imaginary abacus and in 2-row arrays, and can compare how numbers change by one.",
+              "ru": "Ребёнок видит числа 6–10 как пять и ещё несколько на воображаемых счётах и в двухрядных массивах и сравнивает, как число меняется на единицу.",
+              "zh": "孩子能在想象的算盘和两行点阵中把6–10看成“五加几”,并比较数每次变化一个单位的规律。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Draw a ten-frame: 2 rows of 5 boxes. Say: 'This frame holds ten. The top row is five. When the top row is full, we fill the bottom row.' Put 7 counters: 'Five on top and two below: seven is five and two.' Say: 'On an abacus, a bead on the upper rod is worth five, and each bead on the lower rod is worth one. So seven is one five-bead and two one-beads.' Each next number is exactly one more counter. This gives numbers a clear order: 6, 7, 8, 9, 10.",
+                  "ru": "Нарисуйте рамку десяти: 2 ряда по 5 клеток. Скажите: «В этой рамке помещается десять. Верхний ряд — пять. Когда верхний ряд полон, заполняем нижний». Положите 7 фишек: «Пять сверху и две снизу: семь — это пять и два». Скажите: «На счётах бусина на верхней спице стоит пять, а каждая бусина на нижней — один. Значит, семь — это одна бусина-пятёрка и две бусины-единицы». Каждое следующее число — ровно на одну фишку больше. Так числа получают чёткий порядок: 6, 7, 8, 9, 10.",
+                  "zh": "画一个十格框:2行,每行5格。说:“这个框能装十个。上面一行是五个。上面满了,再填下面一行。”放7个筹码:“上面五个,下面两个:七就是五加二。”说:“在算盘上,上档的一颗珠子代表五,下档每颗珠子代表一。所以七是一颗五珠加两颗一珠。”每个后面的数正好多一个筹码。这样数就有了清楚的顺序:6、7、8、9、10。"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Make a ten-frame on paper. Fill 6 counters: top row full plus 1. Say '6 = 5 + 1'.\n2) Continue to 7, 8, 9, 10, saying '5 + 2', '5 + 3' and so on. Ask: 'What changes each time?' (One more.)\n3) Empty frame. Say a number from 6 to 10; the child fills it as fast as possible, filling the top row first.\n4) Count empty boxes: 'There are 8 counters. How many empty boxes? Two. So 8 is 10 minus 2.'\n5) Make an array of 2 rows of 4 toy cars. Ask: 'How many in each row? How many in all?' (4 and 4 make 8.)\n6) Draw an abacus rod and let the child show 6, 8 and 9 with one five-bead and the right number of one-beads.",
+                  "ru": "1) Нарисуйте рамку десяти на бумаге. Выложите 6 фишек: верхний ряд полный и ещё 1. Скажите «6 = 5 + 1».\n2) Продолжайте до 7, 8, 9, 10: «5 + 2», «5 + 3» и т. д. Спросите: «Что меняется каждый раз?» (Становится на одну больше.)\n3) Очистите рамку. Назовите число от 6 до 10; ребёнок выкладывает его как можно быстрее, заполняя сначала верхний ряд.\n4) Посчитайте пустые клетки: «8 фишек. Сколько пустых клеток? Две. Значит, 8 — это 10 без 2».\n5) Выложите массив: 2 ряда по 4 игрушечные машинки. Спросите: «Сколько в каждом ряду? Сколько всего?» (4 и 4 — это 8.)\n6) Нарисуйте спицу счётов и пусть ребёнок покажет 6, 8, 9 с одной бусиной-пятёркой и нужным числом бусин-единиц.",
+                  "zh": "1)在纸上画一个十格框。放6个筹码:上面一行满,再加1个。说“6 = 5 + 1”。\n2)继续到7、8、9、10,说“5 + 2”“5 + 3”等。问:“每次什么变了?”(多一个。)\n3)清空框。你说6到10中的一个数,孩子尽快摆出来,先填满上面一行。\n4)数空格:“有8个筹码。空格有几个?两个。所以8就是10少2。”\n5)用玩具车摆一个2行4列的点阵。问:“每行几个?一共几个?”(4和4是8。)\n6)画一根算盘档,让孩子用一颗五珠和相应数量的一珠表示6、8、9。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "On my ten-frame the top row is full and the bottom row has 3 counters. My friend has a frame with only 2 empty boxes. Whose frame has more counters, and how do you know without counting everything?",
+                  "ru": "На моей рамке десяти верхний ряд полон, а в нижнем 3 фишки. У моего друга рамка, где пустых клеток только 2. У кого фишек больше и как это понять, не пересчитывая всё?",
+                  "zh": "我的十格框上面一行满了,下面一行有3个筹码。我朋友的框只有2个空格。谁的筹码更多?不全部数一遍,你怎么知道?"
+                },
+                "solution": {
+                  "en": "Mine has 5 + 3 = 8 counters. My friend's frame has 10 boxes with 2 empty, so 8 counters too. We have the same number. Both show 8, one as '5 and 3', the other as '10 take away 2'.",
+                  "ru": "У меня 5 + 3 = 8 фишек. У друга 10 клеток, из них 2 пустые, значит, тоже 8 фишек. У нас поровну. Оба показывают 8: одно как «5 и 3», другое как «10 без 2».",
+                  "zh": "我的有5 + 3 = 8个筹码。朋友的框有10格、2个空格,所以也是8个筹码。我们一样多。两个都表示8,一个看成“5和3”,另一个看成“10少2”。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "k01_w3_l1",
+            "duration_minutes": 38,
+            "category": "Geometry",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Point and Line: The Building Blocks of Shapes",
+              "ru": "Точка и линия: кирпичики фигур",
+              "zh": "点和线:图形的基本材料"
+            },
+            "objective": {
+              "en": "The child can show a point, can tell a straight line from a curved line, and knows that through two points you can draw only one straight line.",
+              "ru": "Ребёнок показывает точку, отличает прямую линию от кривой и знает, что через две точки можно провести только одну прямую.",
+              "zh": "孩子能指出点,分辨直线和曲线,并知道经过两点只能画一条直线。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Touch the paper with a sharp pencil: 'This is a POINT. A point shows a place. It has no length and no width; we draw a dot only to see it.' Draw two points far apart. Say: 'Now I connect them with a ruler. This is a straight line: it never bends. Try to draw another straight line through the same two points. You cannot! There is only one.' Draw a wavy line between them: 'This is a curved line. It bends. It goes between the same points, but it is not straight.' Say: 'Every shape is made from points and lines.'",
+                  "ru": "Коснитесь бумаги острым карандашом: «Это ТОЧКА. Точка показывает место. У неё нет ни длины, ни ширины; мы рисуем пятнышко только чтобы её увидеть». Нарисуйте две точки далеко друг от друга. Скажите: «Теперь соединим их линейкой. Это прямая линия: она нигде не изгибается. Попробуй провести другую прямую через те же две точки. Не получится! Она только одна». Нарисуйте волнистую линию между ними: «Это кривая линия. Она изгибается. Она идёт между теми же точками, но не прямая». Скажите: «Все фигуры составлены из точек и линий».",
+                  "zh": "用削尖的铅笔点一下纸:“这是一个点。点表示一个位置。它没有长度也没有宽度,我们画一个小点只是为了看得见它。”画两个相距较远的点。说:“现在用尺子把它们连起来。这是一条直线:它不会拐弯。试试经过同样两个点再画另一条直线。画不出来!只有一条。”在两点间画一条波浪线:“这是曲线,它会弯。它也经过这两个点,但不是直的。”说:“所有图形都是由点和线组成的。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Give the child a pencil and ruler. Draw 2 points on paper; the child joins them with a straight line, then with a curved line, and names which is which.\n2) Stretch a string between two chairs: 'a straight line'. Slacken it: 'the line bends'. Pull it tight again.\n3) Point hunt: the child finds points in the room (the corner of a table, the tip of a pencil).\n4) Draw 3 points not in a row. Ask the child to join each pair with a straight line. What shape appears? (A triangle.)\n5) Line sort: draw 6 lines (3 straight, 2 curved, 1 zigzag). The child circles the straight ones, explaining the rule 'it never bends'.\n6) Challenge: how many straight lines can pass through 2 points? Try with the ruler.",
+                  "ru": "1) Дайте ребёнку карандаш и линейку. Нарисуйте 2 точки; ребёнок соединяет их прямой линией, затем кривой и называет, какая где.\n2) Натяните верёвку между двумя стульями: «прямая линия». Ослабьте: «линия изогнулась». Снова натяните.\n3) Охота за точками: ребёнок ищет точки в комнате (угол стола, кончик карандаша).\n4) Нарисуйте 3 точки не на одной линии. Попросите соединить каждую пару прямой. Какая фигура получилась? (Треугольник.)\n5) Сортировка линий: нарисуйте 6 линий (3 прямые, 2 кривые, 1 зигзаг). Ребёнок обводит прямые, объясняя правило «она нигде не изгибается».\n6) Задача: сколько прямых можно провести через 2 точки? Проверьте линейкой.",
+                  "zh": "1)给孩子铅笔和尺子。在纸上画2个点;孩子先用直线连接,再用曲线连接,并说出哪条是哪条。\n2)在两把椅子之间拉一根绳子:“直线”。放松它:“线弯了”。再拉紧。\n3)找点游戏:孩子在房间里找点(桌角、铅笔尖)。\n4)画3个不在同一直线上的点。让孩子把每两点用直线连起来。出现了什么图形?(三角形。)\n5)分一分线:画6条线(3条直线、2条曲线、1条折线)。孩子圈出直线,并解释规则“它不会拐弯”。\n6)挑战:经过2个点能画几条直线?用尺子试试。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "Three points are on a page. Two straight lines join the first point to the second and the second to the third. Can these two lines be one single straight line? When yes, and when no?",
+                  "ru": "На листе три точки. Две прямые соединяют первую точку со второй и вторую с третьей. Могут ли эти две линии быть одной прямой? Когда да, а когда нет?",
+                  "zh": "纸上有三个点。两条直线分别连接第一点和第二点、第二点和第三点。这两条线能成为同一条直线吗?什么时候能,什么时候不能?"
+                },
+                "solution": {
+                  "en": "Yes, if all three points are in a row, because only one straight line passes through two points and the third point lies on it. No, if the third point is off to the side: the two lines then meet at the second point and make a corner.",
+                  "ru": "Да, если все три точки лежат в ряд: через две точки проходит только одна прямая, и третья точка лежит на ней. Нет, если третья точка в стороне: тогда две линии встречаются во второй точке и образуют угол.",
+                  "zh": "能,如果三个点排成一行:经过两点只有一条直线,第三个点就在这条线上。不能,如果第三个点偏在一旁:两条线在第二个点相遇,形成一个角。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "k01_w3_l2",
+            "duration_minutes": 38,
+            "category": "Geometry",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Closed Lines: Inside, Outside, and On",
+              "ru": "Замкнутые линии: внутри, снаружи и на линии",
+              "zh": "封闭的线:里面、外面和线上"
+            },
+            "objective": {
+              "en": "The child can define a closed line (starts and ends at the same point) and decide whether a point is inside, outside, or on it.",
+              "ru": "Ребёнок определяет замкнутую линию (начинается и заканчивается в одной точке) и решает, лежит ли точка внутри, снаружи или на ней.",
+              "zh": "孩子能说出封闭线的定义(起点和终点是同一点),并判断一个点在线的里面、外面还是线上。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Draw a circle with one smooth movement and say: 'I started at this point and came back to it. A line that starts and ends at the same point is CLOSED.' Draw a spiral that does not come back: 'This line is open.' Put a dot inside the circle: 'This point is INSIDE.' Put a dot far away: 'OUTSIDE.' Put a dot on the line: 'ON the line.' Say: 'A closed line is like a fence. Inside is the field; to get from inside to outside you must cross the fence.'",
+                  "ru": "Нарисуйте круг одним плавным движением и скажите: «Я начал с этой точки и вернулся в неё. Линия, которая начинается и заканчивается в одной точке, ЗАМКНУТАЯ». Нарисуйте спираль, которая не возвращается: «Эта линия незамкнутая». Поставьте точку внутри круга: «Эта точка ВНУТРИ». Далеко от круга: «СНАРУЖИ». На самой линии: «НА линии». Скажите: «Замкнутая линия — как забор. Внутри — поле; чтобы попасть изнутри наружу, надо пересечь забор».",
+                  "zh": "一笔画一个圆,说:“我从这个点出发,又回到了这个点。起点和终点相同的线叫封闭线。”再画一条没有回到起点的螺旋线:“这条线是开放的。”在圆里点一个点:“这个点在里面。”在远处点一个点:“在外面。”在线上点一个点:“在线上。”说:“封闭线像一道围栏。里面是田地;要从里面到外面,必须穿过围栏。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Lay a rope on the floor as a closed loop. The child stands inside, outside, then on the rope, saying where they are.\n2) Place a toy sheep inside and a wolf outside. Ask: 'Can the wolf reach the sheep without crossing the rope?'\n3) Open the rope by a gap: now the wolf can go in. Say: 'The line is not closed any more.'\n4) On paper draw one closed loop (any shape, not only a circle) and several dots. The child marks inside dots with a tick and outside dots with a cross.\n5) Draw a loop shaped like a kidney or a star. Which dots are inside? Test by trying to walk from the dot to the page edge without crossing the line.\n6) The child draws their own closed shape and puts 2 dots inside, 2 outside, 1 on.",
+                  "ru": "1) Положите на пол верёвку замкнутой петлёй. Ребёнок встаёт внутрь, снаружи, затем на верёвку и называет, где он находится.\n2) Поставьте внутрь игрушечную овечку, а снаружи — волка. Спросите: «Может ли волк добраться до овечки, не пересекая верёвку?»\n3) Разомкните верёвку: теперь волк может войти. Скажите: «Линия больше не замкнута».\n4) На бумаге нарисуйте одну замкнутую линию (любой формы, не только круг) и несколько точек. Ребёнок отмечает внутренние точки галочкой, внешние — крестиком.\n5) Нарисуйте замкнутую линию в форме боба или звезды. Какие точки внутри? Проверьте: попробуйте пройти от точки до края листа, не пересекая линию.\n6) Ребёнок рисует свою замкнутую фигуру и ставит 2 точки внутри, 2 снаружи и 1 на линии.",
+                  "zh": "1)把绳子在地上摆成封闭的圈。孩子分别站在里面、外面、绳子上,并说出自己的位置。\n2)在圈里放一只玩具羊,圈外放一只狼。问:“狼不穿过绳子能到羊那里吗?”\n3)把绳子断开一个缺口:现在狼可以进去了。说:“线不再封闭了。”\n4)在纸上画一条封闭线(任意形状,不只是圆)和几个点。孩子在里面的点上打勾,外面的点上打叉。\n5)画一条肾形或星形的封闭线。哪些点在里面?检验:试着从点走到纸边而不穿过线。\n6)孩子自己画一个封闭图形,里面点2个点,外面点2个点,线上点1个点。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "A snail is inside a closed fence. It wants to crawl out but may not climb over the fence. What must be true about the fence to let it out?",
+                  "ru": "Улитка находится внутри замкнутого забора. Она хочет выползти, но не может перелезть через забор. Что должно измениться в заборе, чтобы она вышла?",
+                  "zh": "一只蜗牛在封闭的围栏里面。它想爬出去,但不能翻过围栏。围栏必须怎样才能让它出去?"
+                },
+                "solution": {
+                  "en": "The fence must have a gap, so the line is no longer closed. A closed line separates inside from outside completely: you can never get across without crossing it.",
+                  "ru": "В заборе должен быть проём, и тогда линия перестанет быть замкнутой. Замкнутая линия полностью разделяет внутреннюю и внешнюю части: пройти, не пересекая её, невозможно.",
+                  "zh": "围栏必须有一个缺口,这样线就不再封闭。封闭线把里面和外面完全分开:不穿过它就绝对过不去。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "k01_w3_l3",
+            "duration_minutes": 38,
+            "category": "Geometry",
+            "methodology_focus": "USSR (Kiselev)",
+            "title": {
+              "en": "Triangle, Square, Circle: Defining by Sides and Corners",
+              "ru": "Треугольник, квадрат, круг: определяем по сторонам и углам",
+              "zh": "三角形、正方形、圆:按边和角来定义"
+            },
+            "objective": {
+              "en": "The child can define a triangle (3 straight sides, 3 corners), a square (4 equal sides, 4 square corners) and a circle (all points equally far from the center), and sort shapes by these definitions.",
+              "ru": "Ребёнок определяет треугольник (3 прямые стороны, 3 угла), квадрат (4 равные стороны, 4 прямых угла) и круг (все точки одинаково далеко от центра) и сортирует фигуры по этим определениям.",
+              "zh": "孩子能定义三角形(3条直边、3个角)、正方形(4条相等的边、4个直角)和圆(所有点到圆心距离相等),并按定义给图形分类。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Say: 'A shape is named by its rules, not by its color or size. A TRIANGLE has 3 straight sides and 3 corners. Any such shape, big or small, is a triangle. A SQUARE has 4 straight sides that are all the same length, and 4 corners like the corner of a book. A CIRCLE has no corners and no straight sides. Every point on its edge is the same distance from the middle.' Show it: a piece of string tied to a pencil and fixed at one end draws a circle, because the string is always the same length.",
+                  "ru": "Скажите: «Фигура называется по своим правилам, а не по цвету или размеру. ТРЕУГОЛЬНИК имеет 3 прямые стороны и 3 угла. Любая такая фигура, большая или маленькая, — треугольник. КВАДРАТ имеет 4 прямые стороны одинаковой длины и 4 угла, как уголок книги. У КРУГА нет углов и нет прямых сторон. Каждая точка его края находится на одинаковом расстоянии от середины». Покажите: нитка, привязанная к карандашу и закреплённая одним концом, рисует круг, потому что длина нитки всегда одна и та же.",
+                  "zh": "说:“图形的名字由它的规则决定,而不是颜色或大小。三角形有3条直边和3个角。任何这样的图形,不管大小,都是三角形。正方形有4条同样长的直边,和4个像书角一样的角。圆没有角,也没有直边。圆边上的每个点到中心的距离都相同。”演示:把线拴在铅笔上,一端固定,就能画出圆,因为线的长度始终不变。"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Cut from paper: 2 triangles (one thin, one big), 2 squares (small and big), 2 circles, and one rectangle.\n2) Child counts sides and corners of each triangle and says 'three sides, three corners, a triangle'.\n3) Test squares: fold a square in half so that opposite sides match. Compare all 4 sides by laying a strip of paper along each: are they the same length?\n4) Test the rectangle with the same paper strip. Ask: 'Is it a square? Why not?' (Its sides are not all equal.)\n5) Draw a circle using string and pencil. Ask: 'Why is it round?' (Same string length.)\n6) Sort all shapes into three hoops and explain each decision using the words 'sides', 'corners', 'equal'.",
+                  "ru": "1) Вырежьте из бумаги: 2 треугольника (тонкий и большой), 2 квадрата (маленький и большой), 2 круга и 1 прямоугольник.\n2) Ребёнок считает стороны и углы каждого треугольника: «три стороны, три угла, треугольник».\n3) Проверьте квадраты: сложите квадрат пополам так, чтобы противоположные стороны совпали. Сравните все 4 стороны бумажной полоской: одинаковы ли они по длине?\n4) Проверьте прямоугольник той же полоской. Спросите: «Это квадрат? Почему нет?» (У него стороны не все равны.)\n5) Нарисуйте круг с помощью нитки и карандаша. Спросите: «Почему он круглый?» (Длина нитки одна и та же.)\n6) Разложите все фигуры по трём обручам и объясните каждое решение словами «стороны», «углы», «равные».",
+                  "zh": "1)用纸剪出:2个三角形(一个瘦的、一个大的)、2个正方形(小的和大的)、2个圆和1个长方形。\n2)孩子数每个三角形的边和角,说:“三条边,三个角,是三角形。”\n3)检验正方形:把正方形对折,使对边重合。用纸条沿每条边量一量,比较4条边是否一样长。\n4)用同样的纸条检验长方形。问:“它是正方形吗?为什么不是?”(它的边不是都相等。)\n5)用线和铅笔画一个圆。问:“它为什么是圆的?”(线的长度始终一样。)\n6)把所有图形分到三个圈里,并用“边”“角”“相等”这些词解释每个决定。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "I fold a square piece of paper along a line from one corner to the opposite corner and cut along the fold. What shapes do I get, and how many? What if I cut it along the line from the middle of one side to the middle of the opposite side?",
+                  "ru": "Я сложил квадратный лист бумаги по линии от одного угла к противоположному и разрезал по сгибу. Какие фигуры получатся и сколько? А если разрезать по линии от середины одной стороны до середины противоположной?",
+                  "zh": "我把一张正方形纸沿一个角到对角的线对折,并沿折痕剪开。会得到什么图形?几个?如果沿着一边中点到对边中点的线剪呢?"
+                },
+                "solution": {
+                  "en": "Cutting corner to corner gives 2 triangles, each with 3 straight sides and 3 corners. Cutting from middle to middle gives 2 rectangles, each with 4 corners and opposite sides equal. These are not squares because their sides are not all equal.",
+                  "ru": "Разрез от угла к углу даёт 2 треугольника, у каждого 3 прямые стороны и 3 угла. Разрез от середины до середины даёт 2 прямоугольника, у каждого 4 угла и равные противоположные стороны. Это не квадраты, потому что стороны не все равны.",
+                  "zh": "沿对角线剪得到2个三角形,每个有3条直边和3个角。沿中点到中点剪得到2个长方形,每个有4个角、对边相等。它们不是正方形,因为边不是都相等。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "k01_w4_l1",
+            "duration_minutes": 38,
+            "category": "Time",
+            "methodology_focus": "Oxford",
+            "title": {
+              "en": "Before and After: Ordering My Day",
+              "ru": "До и после: порядок моего дня",
+              "zh": "之前与之后:安排我的一天"
+            },
+            "objective": {
+              "en": "The child can put events of the day in the right order, using 'first, next, last', 'before' and 'after', and notice when an order is impossible.",
+              "ru": "Ребёнок расставляет события дня в правильном порядке, употребляя «сначала, потом, в конце», «до» и «после», и замечает, когда порядок невозможен.",
+              "zh": "孩子能用“先、然后、最后”“之前”“之后”把一天的事件排好顺序,并发现不可能的顺序。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Say: 'Time moves in one direction, like a river. What happened earlier is BEFORE; what happens later is AFTER. We use order words: first, next, then, last.' Tell a short story: 'I woke up, I brushed my teeth, I ate breakfast.' Ask: 'What came first? What came after brushing teeth?' Say: 'Some orders cannot change. You cannot put on shoes before you put on socks and still have your socks on the inside. A good plan puts steps in an order that works.'",
+                  "ru": "Скажите: «Время течёт в одну сторону, как река. То, что случилось раньше, — ДО; то, что случится позже, — ПОСЛЕ. Мы используем слова порядка: сначала, потом, затем, в конце». Расскажите короткую историю: «Я проснулся, почистил зубы, позавтракал». Спросите: «Что было первым? Что было после чистки зубов?» Скажите: «Некоторые порядки нельзя менять. Нельзя надеть ботинки до носков, чтобы носки оказались внутри. Хороший план расставляет шаги в порядке, при котором всё получается».",
+                  "zh": "说:“时间朝一个方向流动,像河水一样。先发生的是‘之前’,后发生的是‘之后’。我们用顺序词:先、接着、然后、最后。”讲一个小故事:“我醒了,刷了牙,吃了早饭。”问:“什么最先发生?刷牙之后是什么?”说:“有些顺序不能改变。你不能先穿鞋再穿袜子,还让袜子在里面。好的计划会把步骤按行得通的顺序排好。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Draw or print 5 picture cards of the child's morning: wake up, wash face, get dressed, eat breakfast, go outside. Shuffle them.\n2) The child orders them left to right and tells the story with 'first, next, then, last'.\n3) Ask: 'What happened before breakfast? What happens after getting dressed?'\n4) Swap two cards on purpose. Ask the child to find the silly order and explain why it is wrong (e.g., go outside before getting dressed).\n5) Make cards for baking a cake: mix, pour, bake, eat. The child orders them. Ask: 'Can you eat before baking?'\n6) Ask the child to make their own 4-card story, then retell it backwards starting from 'last'.",
+                  "ru": "1) Нарисуйте или распечатайте 5 картинок о детском утре: проснуться, умыться, одеться, позавтракать, выйти на улицу. Перемешайте.\n2) Ребёнок раскладывает слева направо и рассказывает историю словами «сначала, потом, затем, в конце».\n3) Спросите: «Что было до завтрака? Что будет после одевания?»\n4) Нарочно поменяйте две карточки. Ребёнок находит смешной порядок и объясняет, почему он неверный (например, выйти на улицу до одевания).\n5) Сделайте карточки «печём торт»: замесить, налить в форму, испечь, съесть. Ребёнок раскладывает. Спросите: «Можно ли есть до выпечки?»\n6) Ребёнок придумывает собственную историю из 4 карточек, затем пересказывает её в обратном порядке, начиная с «в конце».",
+                  "zh": "1)画或打印5张孩子早晨的图片卡:醒来、洗脸、穿衣服、吃早饭、出门。打乱。\n2)孩子从左到右排好,并用“先、接着、然后、最后”讲故事。\n3)问:“早饭之前发生了什么?穿好衣服之后要做什么?”\n4)故意交换两张卡。让孩子找出可笑的顺序并解释为什么不对(例如没穿衣服就出门)。\n5)做“烤蛋糕”卡片:搅拌、倒入模具、烤、吃。孩子排序。问:“能先吃再烤吗?”\n6)让孩子自己编一个4张卡的故事,然后倒着讲,从“最后”开始。"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "Mia ate lunch after she played, but before she took a nap. She played after she painted. What is the order of the four things: painting, playing, lunch, nap?",
+                  "ru": "Мия пообедала после игры, но перед сном. Она играла после того, как рисовала. В каком порядке были четыре дела: рисование, игра, обед, сон?",
+                  "zh": "米娅在玩耍之后吃午饭,但在午睡之前。她在画画之后玩耍。画画、玩耍、午饭、午睡这四件事的顺序是什么?"
+                },
+                "solution": {
+                  "en": "Painting came before playing. Lunch was after playing and before the nap. So the order is: painting, playing, lunch, nap.",
+                  "ru": "Рисование было до игры. Обед был после игры и до сна. Значит, порядок такой: рисование, игра, обед, сон.",
+                  "zh": "画画在玩耍之前。午饭在玩耍之后、午睡之前。所以顺序是:画画、玩耍、午饭、午睡。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "k01_w4_l2",
+            "duration_minutes": 38,
+            "category": "Computer Science",
+            "methodology_focus": "Oxford",
+            "title": {
+              "en": "Be the Robot: Writing a Simple Algorithm",
+              "ru": "Будь роботом: пишем простой алгоритм",
+              "zh": "做机器人:编写简单算法"
+            },
+            "objective": {
+              "en": "The child understands an algorithm as exact steps in exact order, can write one with arrow cards, and can find and fix a bug.",
+              "ru": "Ребёнок понимает алгоритм как точные шаги в точном порядке, составляет его из карточек со стрелками и находит и исправляет ошибку.",
+              "zh": "孩子理解算法是按准确顺序排列的准确步骤,能用箭头卡编写算法,并找出和修正错误。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Say: 'An ALGORITHM is a list of exact steps that gets a job done. A robot is not clever, it does exactly what the steps say, one by one, and nothing else. So the steps must be clear.' Show 4 arrow cards: forward, turn left, turn right, stop. Say: 'If I tell the robot \"go to the door\" it does not know how. I must say \"forward, forward, turn left, forward\". If a step is wrong, that mistake is called a BUG. We find the bug and fix it.'",
+                  "ru": "Скажите: «АЛГОРИТМ — это список точных шагов, который помогает выполнить дело. Робот не умный, он делает ровно то, что написано в шагах, по одному, и ничего больше. Поэтому шаги должны быть ясными». Покажите 4 карточки со стрелками: вперёд, налево, направо, стоп. Скажите: «Если сказать роботу „иди к двери“, он не поймёт как. Надо сказать: „вперёд, вперёд, налево, вперёд“. Если шаг неправильный, такая ошибка называется БАГ. Мы находим баг и исправляем его».",
+                  "zh": "说:“算法是一份能完成任务的准确步骤清单。机器人并不聪明,它只会一步一步严格照步骤做,别的什么都不做。所以步骤必须清楚。”展示4张箭头卡:前进、左转、右转、停止。说:“如果我对机器人说‘走到门口’,它不知道怎么走。我必须说‘前进、前进、左转、前进’。如果某一步错了,这个错误叫做‘bug’。我们找到 bug 并修好它。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Make a 4x4 grid on the floor with tape or paper squares. Place a toy at the start and a treat at the end, with one obstacle (a block) in between.\n2) Parent is the robot (child programs). The child lays arrow cards in a line to guide the robot from start to treat. Run the program strictly: obey every card exactly.\n3) If the robot bumps the obstacle, say 'Bug!' and ask the child which card to change. Fix and rerun.\n4) Swap: the child is the robot and obeys your cards, including one wrong card; the child shouts 'Bug!' where it fails.\n5) Challenge: write a program with 'forward, forward' repeated 3 times; introduce the idea of 'repeat 3 times' as a shorter way.\n6) Ask the child: 'Can a robot understand \"go over there\"? Why not?'",
+                  "ru": "1) Выложите на полу сетку 4×4 лентой или бумажными квадратами. Поставьте игрушку на старт, угощение в конец, и препятствие (кубик) между ними.\n2) Родитель — робот (ребёнок программирует). Ребёнок выкладывает карточки-стрелки в ряд, чтобы провести робота от старта до угощения. Выполняйте программу строго: подчиняйтесь каждой карточке точно.\n3) Если робот наткнулся на препятствие, скажите «Баг!» и спросите, какую карточку изменить. Исправьте и запустите снова.\n4) Поменяйтесь: ребёнок — робот и выполняет ваши карточки, среди которых одна неправильная; ребёнок кричит «Баг!» там, где ошибка.\n5) Задача: напишите программу «вперёд, вперёд», повторённую 3 раза; введите идею «повтори 3 раза» как более короткую запись.\n6) Спросите: «Поймёт ли робот „иди туда“? Почему нет?»",
+                  "zh": "1)用胶带或纸方块在地上摆一个4×4的格子。起点放一个玩具,终点放一个小奖励,中间放一个障碍物(积木)。\n2)家长当机器人(孩子编程)。孩子把箭头卡排成一行,引导机器人从起点走到奖励处。严格执行程序:每张卡都照做。\n3)如果机器人撞到障碍物,说“有 bug!”并问孩子该改哪张卡。修改后重新运行。\n4)交换:孩子当机器人,执行你的卡片,其中有一张是错的;孩子在出错的地方喊“有 bug!”\n5)挑战:写一个“前进、前进”重复3次的程序;引入“重复3次”这个更简短的写法。\n6)问孩子:“机器人能听懂‘去那边’吗?为什么不能?”"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "A robot starts at the left corner of a row of 4 squares facing right. The program is: forward, forward, turn around, forward. On which square does it end?",
+                  "ru": "Робот стоит в левой клетке ряда из 4 клеток лицом вправо. Программа: вперёд, вперёд, развернуться, вперёд. На какой клетке он окажется?",
+                  "zh": "机器人站在一排4个方格最左边的格子里,面朝右。程序是:前进、前进、转身、前进。它最后在哪个格子?"
+                },
+                "solution": {
+                  "en": "Start on square 1. Forward twice reaches square 3. Turning around makes it face left. One step forward brings it to square 2. It ends on square 2. Order of steps matters: a turn changes what 'forward' means.",
+                  "ru": "Старт в клетке 1. Два шага вперёд — клетка 3. Разворот — лицом влево. Один шаг вперёд — клетка 2. Робот окажется на клетке 2. Порядок шагов важен: поворот меняет смысл слова «вперёд».",
+                  "zh": "从格子1出发。前进两步到格子3。转身后面朝左。再前进一步到格子2。它最后在格子2。步骤的顺序很重要:转身会改变“前进”的方向。"
+                }
+              }
+            ]
+          },
+          {
+            "lesson_id": "k01_w4_l3",
+            "duration_minutes": 38,
+            "category": "Probability",
+            "methodology_focus": "Oxford",
+            "title": {
+              "en": "Patterns and Chance: What Comes Next, What Might Happen",
+              "ru": "Узоры и случай: что будет дальше, что может случиться",
+              "zh": "规律与可能性:接下来是什么、可能发生什么"
+            },
+            "objective": {
+              "en": "The child can find the repeating unit of a pattern, extend it, and sort events as certain, possible or impossible.",
+              "ru": "Ребёнок находит повторяющийся элемент узора, продолжает его и сортирует события на обязательные, возможные и невозможные.",
+              "zh": "孩子能找出规律中重复的单元并延续它,并把事件分成一定、可能和不可能。"
+            },
+            "sections": [
+              {
+                "type": "theory",
+                "duration": 10,
+                "parent_script": {
+                  "en": "Make a pattern with blocks: red, blue, red, blue, red. Say: 'A pattern is a set of things that repeat in the same order. The part that repeats is the UNIT. Here the unit is red-blue. Because we know the unit, we can predict what is next: blue.' Then say: 'Some things we can predict for sure and some we cannot. If I drop a ball it will certainly fall: CERTAIN. If I flip a coin it might be heads or tails: POSSIBLE. A cat cannot become a flower: IMPOSSIBLE.'",
+                  "ru": "Выложите узор из кубиков: красный, синий, красный, синий, красный. Скажите: «Узор — это предметы, которые повторяются в одном и том же порядке. Часть, которая повторяется, называется ЕДИНИЦА УЗОРА. Здесь единица — красный-синий. Зная единицу, мы можем предсказать, что дальше: синий». Затем скажите: «Одно мы можем предсказать наверняка, а другое — нет. Если я уроню мяч, он обязательно упадёт: ТОЧНО. Если я подброшу монету, может выпасть орёл или решка: ВОЗМОЖНО. Кошка не может превратиться в цветок: НЕВОЗМОЖНО».",
+                  "zh": "用积木摆一个规律:红、蓝、红、蓝、红。说:“规律是按同样的顺序重复出现的一组东西。重复的那部分叫做单元。这里的单元是红-蓝。知道了单元,我们就能预测下一个是:蓝。”再说:“有些事我们能肯定地预测,有些不能。我松手球一定会掉下来:一定。我抛硬币可能是正面也可能是反面:可能。猫不会变成花:不可能。”"
+                }
+              },
+              {
+                "type": "practice",
+                "duration": 20,
+                "activity": {
+                  "en": "1) Lay out patterns and ask 'what comes next, and what is the unit?': red-red-blue-red-red-blue-red-red-?; clap-stomp-clap-stomp-clap-?; circle-square-triangle-circle-square-?\n2) The child makes a pattern with 3 colours of blocks. You continue it. Then you make a wrong item and the child finds the error.\n3) Chance game: put 3 red and 1 blue block in a bag (child may look). Ask: 'If I take one without looking, which colour is more likely?' Draw 10 times (put back each time), tally results on paper.\n4) Put only red blocks in the bag. Ask: 'Can I pull a blue one? Is pulling red certain or possible?'\n5) Read 6 statements aloud and the child answers certain/possible/impossible: 'Tomorrow comes after today'; 'It will rain next week'; 'A dog will fly by flapping its ears'; 'I roll a dice and get a number from 1 to 6'; 'I roll a 7 on a normal dice'; 'I'll find a red block in the bag of mixed blocks'.\n6) Review the tally from step 3: did red happen more? Why?",
+                  "ru": "1) Выкладывайте узоры и спрашивайте «что дальше и какая единица узора?»: красный-красный-синий-красный-красный-синий-красный-красный-?; хлопок-топ-хлопок-топ-хлопок-?; круг-квадрат-треугольник-круг-квадрат-?\n2) Ребёнок составляет узор из кубиков 3 цветов. Вы продолжаете его. Потом вы ставите неверный элемент, а ребёнок находит ошибку.\n3) Игра на случай: положите в мешочек 3 красных и 1 синий кубик (ребёнок может посмотреть). Спросите: «Если я достану один, не глядя, какой цвет вероятнее?» Достаньте 10 раз (каждый раз возвращая), записывайте результаты чёрточками.\n4) Положите в мешочек только красные кубики. Спросите: «Могу ли я вытащить синий? Красный — это точно или возможно?»\n5) Читайте 6 утверждений, ребёнок отвечает «точно / возможно / невозможно»: «Завтра наступит после сегодня»; «На следующей неделе пойдёт дождь»; «Собака полетит, махая ушами»; «Я бросаю кубик и выпадает число от 1 до 6»; «На обычном кубике выпадет 7»; «Я найду красный кубик в мешочке с разными кубиками».\n6) Посмотрите на результаты из пункта 3: красный выпадал чаще? Почему?",
+                  "zh": "1)摆出规律,问“下一个是什么?单元是什么?”:红-红-蓝-红-红-蓝-红-红-?;拍手-跺脚-拍手-跺脚-拍手-?;圆-方-三角-圆-方-?\n2)孩子用3种颜色的积木摆一个规律,你接着摆。然后你故意放错一块,孩子找出错误。\n3)可能性游戏:在袋子里放3块红积木和1块蓝积木(让孩子看见)。问:“不看就摸一块,哪种颜色更可能?”摸10次(每次放回去),用划线记录结果。\n4)袋子里只放红积木。问:“我能摸到蓝的吗?摸到红的是一定还是可能?”\n5)大声读6句话,孩子回答一定/可能/不可能:“明天在今天之后”;“下周会下雨”;“小狗扇耳朵会飞”;“我掷骰子得到1到6的数”;“普通骰子掷出7”;“我在混合积木的袋子里摸到红积木”。\n6)看第3步的记录:红色出现得更多吗?为什么?"
+                }
+              },
+              {
+                "type": "logic_puzzle",
+                "duration": 8,
+                "prompt": {
+                  "en": "A pattern goes: apple, apple, banana, apple, apple, banana, ... What will be the 8th item? And the 9th? Is it certain that the 9th is a banana?",
+                  "ru": "Узор: яблоко, яблоко, банан, яблоко, яблоко, банан, ... Что будет 8-м по счёту? А 9-м? Точно ли, что 9-й — банан?",
+                  "zh": "规律是:苹果、苹果、香蕉、苹果、苹果、香蕉……第8个是什么?第9个呢?第9个一定是香蕉吗?"
+                },
+                "solution": {
+                  "en": "The unit is apple-apple-banana, 3 items long. The 7th and 8th are apples, and the 9th is a banana. Yes, if the pattern keeps repeating, it is certain. If someone can change the pattern, it is only possible. Certainty depends on a rule that does not change.",
+                  "ru": "Единица узора — яблоко-яблоко-банан, длиной 3. 7-й и 8-й — яблоки, 9-й — банан. Да, если узор продолжает повторяться, это точно. Если кто-то может изменить узор, это только возможно. Уверенность зависит от правила, которое не меняется.",
+                  "zh": "单元是苹果-苹果-香蕉,长度为3。第7和第8个是苹果,第9个是香蕉。是的,只要规律继续重复,就一定是香蕉。如果有人能改变规律,那就只是可能。确定性取决于不变的规则。"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
